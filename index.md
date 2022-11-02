@@ -1,18 +1,9 @@
-```python
-%store -r recent_launches
-```
-
 ## Rachete, astronauți și sonde interplanetare
 Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale.
 
 Știrile sunt grupate în Buletine Cosmice, distribuit sub formă de [newsletter](https://buletin.parsec.ro/) sau [podcast](https://www.anchor.fm/buletin).
 
 ## Ultimele lansări orbitale
-
-
-```python
-print(recent_launches)
-```
 
     +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
     | ID       | Date            | Rocket              | Series               | Sat * Mission                            | Or | LSite        |
@@ -30,12 +21,12 @@ print(recent_launches)
     
 
 Detalii privind rachetele orbitale active:
-- Statele Unite ale Americii: [Falcon 9](./r/falcon9.ipynb), [Falcon Heavy](./r/falconh.ipynb), [Atlas V](./r/atlasv.ipynb), Delta IV, Delta IV Heavy, Electron, Firefly Alhpa, LauncherOne, Astra, Antares, Minotaur, Pegasus
+- Statele Unite ale Americii: [Falcon 9](/r/falcon9.md), [Falcon Heavy](/r/falconh.md), [Atlas V](/r/atlasv.md), Delta IV, Delta IV Heavy, Electron, Firefly Alhpa, LauncherOne, Astra, Antares, Minotaur, Pegasus
 - China: CZ-2C, CZ-2D, CZ-2F, CZ-3B, CZ-3C, CZ-4B, CZ-4C, CZ-11, CZ-5, CZ-6, CZ-7, CZ-8, KZ-1A, KZ-11, Gushenxing-1, Lijian-1, Shuang Quxian 1, Jielong-1, OS-M1, Zhuque-1, KT-2
-- Rusia: [Soyuz-2.1](./r/soyuz21.ipynb), [Soyuz-2.1v](./r/soyuz21v.ipynb), [Angara-1.2](./r/angara12.ipynb), [Proton-M](./r/protonm.ipynb), [Angara-A5](./r/angaraa5.ipynb)
-- Europa: [Ariane 5](./r/ariane5.ipynb), [Vega-C](./r/vegac.ipynb)
+- Rusia: [Soyuz-2.1](/r/soyuz21.md), [Soyuz-2.1v](/r/soyuz21v.md), [Angara-1.2](/r/angara12.md), [Proton-M](/r/protonm.md), [Angara-A5](/r/angaraa5.md)
+- Europa: [Ariane 5](/r/ariane5.md), [Vega-C](/r/vegac.md)
 - Japonia: [H-II], [Epsilon]
-- India: [GSLV Mk. III](./r/gslvmk3.ipynb), [GSLV Mk. II](./r/gslvmk2.ipynb), [PSLV](./r/pslv.ipynb)
+- India: [GSLV Mk. III](/r/gslvmk3.md), [GSLV Mk. II](/r/gslvmk2.md), [PSLV](/r/md)
 - Iran: Safir, Simorgh, Qased
 - Israel: Shavit
 - Coreea de Sud: Nuri

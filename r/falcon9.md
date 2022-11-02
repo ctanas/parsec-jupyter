@@ -1,12 +1,5 @@
 ## Falcon 9
 
-
-```python
-%store -r falcon9
-
-print(falcon9)
-```
-
     Număr total de lansări Falcon 9: 183
     Număr de eșecuri Falcon 9: 1
     Rată de succes Falcon 9: 99.45%
