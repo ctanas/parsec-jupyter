@@ -19,6 +19,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
     | 2022-138 | 2022-10-22 1837 | GSLV Mk. 3          | LVM3-M2              | OneWeb India-1 (OneWeb L14)              | IN | SHAR+SLP     |
     | 2022-137 | 2022-10-21 1900 | Soyuz-2.1v / Volga  | -                    | Kosmos-2561/2562 (14F164/14F172)         | RU | GIK-1+LC43/4 |
     | 2022-136 | 2022-10-20 1450 | Falcon 9 / FT5      | 183/B1062.10         | Starlink-66 (Starlink Group 4-36)        | US | CC+LC40      |
+    | 2022-135 | 2022-10-15 1955 | Angara-1.2          | 71603?/2L            | Kosmos-2560 (EO MKA-3)                   | RU | GIK-1+LC35/1 |
+    | 2022-134 | 2022-10-15 0522 | Falcon 9 / FT5      | 182/B1069.3          | Hot Bird 13F                             | US | CC+LC40      |
     +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
 
 
@@ -28,7 +30,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 - Rusia: [Soyuz-2.1](/r/soyuz21.md), [Soyuz-2.1v](/r/soyuz21v.md), [Angara-1.2](/r/angara12.md), [Proton-M](/r/protonm.md), [Angara-A5](/r/angaraa5.md)
 - Europa: [Ariane 5](/r/ariane5.md), [Vega-C](/r/vegac.md)
 - Japonia: [H-II](/r/hii.md), [Epsilon](/r/epsilon.md)
-- India: [GSLV Mk. 3](/r/gslvmk3.md), [GSLV Mk. 2](/r/gslvmk2.md), [PSLV](/r/pslv.md)
+- India: [SSLV](/r/sslv.md), [PSLV](/r/pslv.md), [GSLV Mk. 2](/r/gslvmk2.md), [GSLV Mk. 3](/r/gslvmk3.md)
 - Iran: [Safir](/r/safir.md), [Simorgh](/r/simorgh.md), [Qased](/r/qased.md)
 - Israel: [Shavit](/r/shavit.md)
 - Coreea de Sud: [Nuri](/r/nuri.md)
