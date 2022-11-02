@@ -3,7 +3,7 @@
     Număr total de lansări Astra: 7
     Număr de eșecuri Astra: 5
     Rată de succes Astra: 28.57%
-    Număr de lansări reușite de la ultimul eșec: 1
+    Număr de lansări reușite de la ultimul eșec: 0
     
     Lista lansărilor orbitale pentru racheta Astra
     +----------+-----------------+------------------+--------+----------------------------------+----+-------------+---+

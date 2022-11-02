@@ -3,7 +3,7 @@
     Număr total de lansări Electron: 31
     Număr de eșecuri Electron: 3
     Rată de succes Electron: 90.32%
-    Număr de lansări reușite de la ultimul eșec: 12
+    Număr de lansări reușite de la ultimul eșec: 11
     
     Lista lansărilor orbitale pentru racheta Electron
     +----------+-----------------+----------+--------+-----------------------------------------------+----+------------+---+

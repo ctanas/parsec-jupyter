@@ -3,7 +3,7 @@
     Număr total de lansări Vega: 19
     Număr de eșecuri Vega: 1
     Rată de succes Vega: 94.74%
-    Număr de lansări reușite de la ultimul eșec: 6
+    Număr de lansări reușite de la ultimul eșec: 5
     
     Lista lansărilor orbitale pentru racheta Vega
     +----------+-----------------+--------+--------+-------------------------------------------+----+---------+---+

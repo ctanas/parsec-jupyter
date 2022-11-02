@@ -3,7 +3,7 @@
     Număr total de lansări LauncherOne: 5
     Număr de eșecuri LauncherOne: 1
     Rată de succes LauncherOne: 80.00%
-    Număr de lansări reușite de la ultimul eșec: 5
+    Număr de lansări reușite de la ultimul eșec: 4
     
     Lista lansărilor orbitale pentru racheta LauncherOne
     +----------+-----------------+-------------+--------+------------------------------+----+-------------+---+

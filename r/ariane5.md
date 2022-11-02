@@ -3,7 +3,7 @@
     Număr total de lansări Ariane 5: 114
     Număr de eșecuri Ariane 5: 2
     Rată de succes Ariane 5: 98.25%
-    Număr de lansări reușite de la ultimul eșec: 101
+    Număr de lansări reușite de la ultimul eșec: 100
     
     Lista lansărilor orbitale pentru racheta Ariane 5
     +----------+-----------------+----------------+---------------+------------------------------------------------+----+----------+---+

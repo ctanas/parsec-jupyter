@@ -3,7 +3,7 @@
     Număr total de lansări Antares: 16
     Număr de eșecuri Antares: 1
     Rată de succes Antares: 93.75%
-    Număr de lansări reușite de la ultimul eșec: 12
+    Număr de lansări reușite de la ultimul eșec: 11
     
     Lista lansărilor orbitale pentru racheta Antares
     +----------+-----------------+--------------+------------------+-----------------------------------------+----+-------------+---+
