@@ -43,3 +43,18 @@
 list_all_lockets = (df['LV_Type'].unique())
 list_all_countries = (df['Country'].unique())
 print (df[df['LV_Type'].str.contains(a, flags=re.IGNORECASE, regex=True)])
+
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+list_countries = ["US", "CN", "RU", "EU", "JP", "IN", "IR", "IL", "KR", "KP"]
+list_slaunches = [l_succ_country[0], l_succ_country[2], l_succ_country[1], l_succ_country[3], l_succ_country[4], l_succ_country[5], l_succ_country[6], l_succ_country[7], l_succ_country[8], l_succ_country[9]]
+list_tlaunches = [l_tot_country[0], l_tot_country[2], l_tot_country[1], l_tot_country[3], l_tot_country[4], l_tot_country[5], l_tot_country[6], l_tot_country[7], l_tot_country[8], l_tot_country[9]]
+
+
+plt.bar(list_countries, list_tlaunches, color="r", label="Lansări eșuate")
+plt.bar(list_countries, list_slaunches, color="b", label="Lansări reușite")
+plt.title("Lansări orbitale %s" % str(curr_year))
+plt.legend()
+plt.show()
+plt.close()
