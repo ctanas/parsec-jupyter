@@ -18,10 +18,10 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
     | 2022-137 | 2022-10-21 1900 | Soyuz-2-1V / Volga  | -                    | Kosmos-2561/2562 (14F164/14F172)         | RU | GIK-1+LC43/4 |
     | 2022-136 | 2022-10-20 1450 | Falcon 9 / FT5      | 183/B1062.10         | Starlink-66 (Starlink Group 4-36)        | US | CC+LC40      |
     +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
-    
+
 
 Detalii privind rachetele orbitale active:
-- Statele Unite ale Americii: [Falcon 9](/r/falcon9.md), [Falcon Heavy](/r/falconh.md), [Atlas V](/r/atlasv.md), [Delta IV](/r/delta4.md), [Delta IV Heavy](/r/delta4h.md), Electron, Firefly Alhpa, LauncherOne, Astra, Antares, Minotaur, Pegasus
+- Statele Unite ale Americii: [Falcon 9](/r/falcon9.md), [Falcon Heavy](/r/falconh.md), [Atlas V](/r/atlasv.md), [Delta IV](/r/delta4.md), [Delta IV Heavy](/r/delta4h.md), [Electron](/r/electron.md), [Firefly Alhpa](/r/fireflya), [LauncherOne](/launcherone.md), [Astra](/r/astra.md), [Antares](/r/antares.md), [Minotaur](/r/minotaur.md), [Pegasus](/r/pegasus.md);
 - China: CZ-2C, CZ-2D, CZ-2F, CZ-3B, CZ-3C, CZ-4B, CZ-4C, CZ-11, CZ-5, CZ-6, CZ-7, CZ-8, KZ-1A, KZ-11, Gushenxing-1, Lijian-1, Shuang Quxian 1, Jielong-1, OS-M1, Zhuque-1, KT-2
 - Rusia: [Soyuz-2.1](/r/soyuz21.md), [Soyuz-2.1v](/r/soyuz21v.md), [Angara-1.2](/r/angara12.md), [Proton-M](/r/protonm.md), [Angara-A5](/r/angaraa5.md)
 - Europa: [Ariane 5](/r/ariane5.md), [Vega-C](/r/vegac.md)
