@@ -1,4 +1,4 @@
-## Delta 4 Heavy
+## Delta IV Heavy
 
     Număr total de lansări Delta 4 Heavy: 14
     Număr de eșecuri Delta 4 Heavy: 0

@@ -1,4 +1,4 @@
-## Delta 4
+## Delta IV
 
     Număr total de lansări Delta 4M: 29
     Număr de eșecuri Delta 4M: 0
