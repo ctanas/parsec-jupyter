@@ -58,3 +58,5 @@ plt.title("Lansări orbitale %s" % str(curr_year))
 plt.legend()
 plt.show()
 plt.close()
+
+jupyter nbconvert --execute --to markdown *.ipynb --no-input
