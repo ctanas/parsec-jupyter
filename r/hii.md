@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta H-II
     +----------+-----------------+------------+-----------+-----------------------------------+----+---------+---+
-    | ID       | Date            | Rocket     | Series    | Sat * Mission                     | Or | LSite   | R |
+    | ID       | Dată (UTC)      | Lansator   | Serie     | Satelit (misiune)                 | Or | Centru  | R |
     +----------+-----------------+------------+-----------+-----------------------------------+----+---------+---+
     | 1994-007 | 1994-02-03 2220 | H-II       | H-II-1F   | OREX                              | JP | TNSC*Y  | S |
     | 1994-056 | 1994-08-28 0750 | H-II       | H-II-2F   | ETS-6/LAPS (ETS-6)                | JP | TNSC*Y  | S |

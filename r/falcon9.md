@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta Falcon 9
     +----------+-----------------+----------+--------------+--------------------------------------------+----+-------------+---+
-    | ID       | Date            | Rocket   | Series       | Sat * Mission                              | Or | LSite       | R |
+    | ID       | Dată (UTC)      | Lansator | Serie        | Satelit (misiune)                          | Or | Centru      | R |
     +----------+-----------------+----------+--------------+--------------------------------------------+----+-------------+---+
     | 2010-026 | 2010-06-04 1845 | Falcon 9 | 001          | Dragon Qual Unit (Dragon Spacecraft)       | US | CC*LC40     | S |
     | 2010-066 | 2010-12-08 1543 | Falcon 9 | 002          | Dragon C1 (Dragon C101)                    | US | CC*LC40     | S |

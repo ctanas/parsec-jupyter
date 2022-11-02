@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta Astra
     +----------+-----------------+------------------+--------+----------------------------------+----+-------------+---+
-    | ID       | Date            | Rocket           | Series | Sat * Mission                    | Or | LSite       | R |
+    | ID       | Dată (UTC)      | Lansator         | Serie  | Satelit (misiune)                | Or | Centru      | R |
     +----------+-----------------+------------------+--------+----------------------------------+----+-------------+---+
     | 2020-F07 | 2020-09-12 0319 | Astra Rocket 3.1 | LV0004 | Rocket 3.1 (-)                   | US | PSCA*LP3B   | F |
     | 2020-F09 | 2020-12-15 2055 | Astra Rocket 3.2 | LV0005 | Rocket 3.2 (-)                   | US | PSCA*LP3B   | F |

@@ -6,7 +6,7 @@
     
     Lista lansărilor orbitale pentru racheta Delta 4 Heavy
     +----------+-----------------+-------------------------+------------+--------------------------------------------+----+-----------+---+
-    | ID       | Date            | Rocket                  | Series     | Sat * Mission                              | Or | LSite     | R |
+    | ID       | Dată (UTC)      | Lansator                | Serie      | Satelit (misiune)                          | Or | Centru    | R |
     +----------+-----------------+-------------------------+------------+--------------------------------------------+----+-----------+---+
     | 2004-050 | 2004-12-21 2150 | Delta 4 Heavy           | D4-4/D310  | Demosat (HLV-OLDSP)                        | US | CC*SLC37B | S |
     | 2007-054 | 2007-11-11 0150 | Delta 4 Heavy           | D4-8/D329  | USA 197 (DSP 23) (DSP F23)                 | US | CC*SLC37B | S |

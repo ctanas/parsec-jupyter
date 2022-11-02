@@ -8,7 +8,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 ## Ultimele lansări orbitale
 
     +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
-    | ID       | Date            | Rocket              | Series               | Sat * Mission                            | Or | LSite        |
+    | ID       | Dată (UTC)      | Lansator            | Serie                | Satelit (misiune)                        | Or | Centru       |
     +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
     | 2022-144 | 2022-11-01 1341 | Falcon Heavy        | 004                  | USSF-44 (LDPE-2)                         | US | KSC+LC39A    |
     | 2022-143 | 2022-10-31 0737 | Chang Zheng 5B      | Y4                   | Mengtian                                 | CN | WEN+LC101    |

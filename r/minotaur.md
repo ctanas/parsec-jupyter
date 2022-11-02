@@ -6,7 +6,7 @@
     
     Lista lansărilor orbitale pentru racheta Minotaur
     +----------+-----------------+-----------------+----------+---------------------------------------+----+-------------+---+
-    | ID       | Date            | Rocket          | Series   | Sat * Mission                         | Or | LSite       | R |
+    | ID       | Dată (UTC)      | Lansator        | Serie    | Satelit (misiune)                     | Or | Centru      | R |
     +----------+-----------------+-----------------+----------+---------------------------------------+----+-------------+---+
     | 2000-004 | 2000-01-27 0303 | Minotaur I      | 1        | P98-1 JAWSAT (JAWSAT)                 | US | VS*SLC8     | S |
     | 2000-042 | 2000-07-19 2009 | Minotaur I      | 2        | Mightysat 2.1                         | US | VS*SLC8     | S |

@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta Pegasus
     +----------+-----------------+-----------------+------------+------------------------------+----+---------------+---+
-    | ID       | Date            | Rocket          | Series     | Sat * Mission                | Or | LSite         | R |
+    | ID       | Dată (UTC)      | Lansator        | Serie      | Satelit (misiune)            | Or | Centru        | R |
     +----------+-----------------+-----------------+------------+------------------------------+----+---------------+---+
     | 1990-028 | 1990-04-05 1910 | Pegasus         | 001/F1     | Pegsat/USA 55 GLOMR (Pegsat) | US | EAFB*RW04/22  | S |
     | 1991-051 | 1991-07-17 1733 | Pegasus/HAPS    | 002/F2     | Microsat (Microsat 1)        | US | EAFB*RW04/22  | S |

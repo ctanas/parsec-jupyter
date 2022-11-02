@@ -6,7 +6,7 @@
     
     Lista lansărilor orbitale pentru racheta Atlas V
     +----------+------------------+-------------+---------+-----------------------------------------------+----+-------------+---+
-    | ID       | Date             | Rocket      | Series  | Sat * Mission                                 | Or | LSite       | R |
+    | ID       | Dată (UTC)       | Lansator    | Serie   | Satelit (misiune)                             | Or | Centru      | R |
     +----------+------------------+-------------+---------+-----------------------------------------------+----+-------------+---+
     | 2002-038 | 2002-08-21 2205  | Atlas V 401 | AV-001  | Hot Bird 6 (Eutelsat HB6)                     | US | CC*SLC41    | S |
     | 2003-020 | 2003-05-13 2210  | Atlas V 401 | AV-002  | Hellas Sat 2                                  | US | CC*SLC41    | S |

@@ -6,7 +6,7 @@
     
     Lista lansărilor orbitale pentru racheta Delta 4M
     +----------+-----------------+----------------+-------------------+------------------------------------------+----+-----------+---+
-    | ID       | Date            | Rocket         | Series            | Sat * Mission                            | Or | LSite     | R |
+    | ID       | Dată (UTC)      | Lansator       | Serie             | Satelit (misiune)                        | Or | Centru    | R |
     +----------+-----------------+----------------+-------------------+------------------------------------------+----+-----------+---+
     | 2002-051 | 2002-11-20 2239 | Delta 4M+(4,2) | D4-1/D293         | Eutelsat W5                              | US | CC*SLC37B | S |
     | 2003-008 | 2003-03-11 0059 | Delta 4M       | D4-2/D296/IABS-10 | USA 167 (DSCS 3A-3) (DSCS III A-3/IABS)  | US | CC*SLC37B | S |

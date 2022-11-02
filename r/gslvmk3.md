@@ -6,7 +6,7 @@
     
     Lista lansărilor orbitale pentru racheta GSLV Mk. 3
     +----------+-----------------+------------+---------+-----------------------------+----+----------+---+
-    | ID       | Date            | Rocket     | Series  | Sat * Mission               | Or | LSite    | R |
+    | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)           | Or | Centru   | R |
     +----------+-----------------+------------+---------+-----------------------------+----+----------+---+
     | 2017-031 | 2017-06-05 1158 | GSLV Mk. 3 | LVM3-D1 | GSAT-19                     | IN | SHAR*SLP | S |
     | 2018-089 | 2018-11-14 1138 | GSLV Mk. 3 | LVM3-D2 | GSAT-29                     | IN | SHAR*SLP | S |

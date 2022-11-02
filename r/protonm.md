@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta Proton-M
     +----------+-----------------+-----------------+--------------+------------------------------------------+----+----------------+---+
-    | ID       | Date            | Rocket          | Series       | Sat * Mission                            | Or | LSite          | R |
+    | ID       | Dată (UTC)      | Lansator        | Serie        | Satelit (misiune)                        | Or | Centru         | R |
     +----------+-----------------+-----------------+--------------+------------------------------------------+----+----------------+---+
     | 2001-014 | 2001-04-07 0347 | Proton-M/Briz-M | 535-01/88503 | Ekran-M No. 18 (Ekran-M No. 18L)         | RU | GIK-5*LC81/24  | S |
     | 2002-062 | 2002-12-29 2316 | Proton-M/Briz-M | 535-02/88504 | Nimiq 2                                  | RU | GIK-5*LC81/24  | S |

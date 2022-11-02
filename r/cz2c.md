@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta Chang Zheng 2C
     +----------+------------------+-----------------------+--------------+----------------------------------------+----+-------------+---+
-    | ID       | Date             | Rocket                | Series       | Sat * Mission                          | Or | LSite       | R |
+    | ID       | Dată (UTC)       | Lansator              | Serie        | Satelit (misiune)                      | Or | Centru      | R |
     +----------+------------------+-----------------------+--------------+----------------------------------------+----+-------------+---+
     | 1975-111 | 1975-11-26 0327  | Chang Zheng 2C        | CZ2C-1   (4) | FSW (FSW No. 2)                        | CN | JQ*LA2B     | S |
     | 1976-117 | 1976-12-07 0438  | Chang Zheng 2C        | CZ2C-2   (5) | FSW (FSW No. 3)                        | CN | JQ*LA2B     | S |

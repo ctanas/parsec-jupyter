@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta Ariane 5
     +----------+-----------------+----------------+---------------+------------------------------------------------+----+----------+---+
-    | ID       | Date            | Rocket         | Series        | Sat * Mission                                  | Or | LSite    | R |
+    | ID       | Dată (UTC)      | Lansator       | Serie         | Satelit (misiune)                              | Or | Centru   | R |
     +----------+-----------------+----------------+---------------+------------------------------------------------+----+----------+---+
     | 1996-F03 | 1996-06-04 1234 | Ariane 5G      | V88  (501)    | Cluster (Cluster F1-F4)                        | EU | CSG*ELA3 | F |
     | 1997-066 | 1997-10-30 1343 | Ariane 5G      | V101 (502)    | Maqsat (TEAMSAT)                               | EU | CSG*ELA3 | S |

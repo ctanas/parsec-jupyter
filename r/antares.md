@@ -7,7 +7,7 @@
     
     Lista lansărilor orbitale pentru racheta Antares
     +----------+-----------------+--------------+------------------+-----------------------------------------+----+-------------+---+
-    | ID       | Date            | Rocket       | Series           | Sat * Mission                           | Or | LSite       | R |
+    | ID       | Dată (UTC)      | Lansator     | Serie            | Satelit (misiune)                       | Or | Centru      | R |
     +----------+-----------------+--------------+------------------+-----------------------------------------+----+-------------+---+
     | 2013-016 | 2013-04-21 2100 | Antares 110  | 2TRS2S1.2  (1)   | Cygnus Mass Sim (A-ONE)                 | US | MARS*Pad 0A | S |
     | 2013-051 | 2013-09-18 1458 | Antares 110  | 2TRS2S1.3  (2)   | S.S. G. David Low (Cygnus Orb-D)        | US | MARS*Pad 0A | S |
