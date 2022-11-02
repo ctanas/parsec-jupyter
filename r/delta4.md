@@ -1,109 +1,42 @@
 ## Delta 4
 
-    Număr total de lansări Atlas V: 96
-    Număr de eșecuri Atlas V: 0
-    Rată de succes Atlas V: 100.00%
+    Număr total de lansări Delta 4M: 29
+    Număr de eșecuri Delta 4M: 0
+    Rată de succes Delta 4M: 100.00%
     
-    Lista lansărilor orbitale pentru racheta Atlas V
-    +----------+------------------+-------------+---------+-----------------------------------------------+----+-------------+---+
-    | ID       | Date             | Rocket      | Series  | Sat * Mission                                 | Or | LSite       | R |
-    +----------+------------------+-------------+---------+-----------------------------------------------+----+-------------+---+
-    | 2002-038 | 2002-08-21 2205  | Atlas V 401 | AV-001  | Hot Bird 6 (Eutelsat HB6)                     | US | CC*SLC41    | S |
-    | 2003-020 | 2003-05-13 2210  | Atlas V 401 | AV-002  | Hellas Sat 2                                  | US | CC*SLC41    | S |
-    | 2003-033 | 2003-07-17 2345  | Atlas V 521 | AV-003  | Rainbow 1                                     | US | CC*SLC41    | S |
-    | 2004-048 | 2004-12-17 1207  | Atlas V 521 | AV-005  | AMC 16                                        | US | CC*SLC41    | S |
-    | 2005-009 | 2005-03-11 2142  | Atlas V 431 | AV-004  | Inmarsat 4 F-1 (INMARSAT 4 F1)                | US | CC*SLC41    | S |
-    | 2005-029 | 2005-08-12 1143  | Atlas V 401 | AV-007  | MRO                                           | US | CC*SLC41    | S |
-    | 2006-001 | 2006-01-19 1900  | Atlas V 551 | AV-010  | New Horizons/Star 48 (New Horizons)           | US | CC*SLC41    | S |
-    | 2006-012 | 2006-04-20 2027  | Atlas V 411 | AV-008  | Astra 1KR                                     | US | CC*SLC41    | S |
-    | 2007-006 | 2007-03-09 0310  | Atlas V 401 | AV-013  | STP-1 (Orbital Express)                       | US | CC*SLC41    | S |
-    | 2007-027 | 2007-06-15 1512  | Atlas V 401 | AV-009  | USA 194     [NOSS17] (INTRUDER 8?)            | US | CC*SLC41    | S |
-    | 2007-046 | 2007-10-11 0022  | Atlas V 421 | AV-011  | USA 195 (WGS SV-1) (Wideband Global Satcom 1) | US | CC*SLC41    | S |
-    | 2007-060 | 2007-12-10 2205  | Atlas V 401 | AV-015  | USA 198      [SDS16] (QUASAR 15?)             | US | CC*SLC41    | S |
-    | 2008-010 | 2008-03-13 1002  | Atlas V 411 | AV-006  | USA 200       [JS12] (Adv TRUMPET 2)          | US | VS*SLC3E    | S |
-    | 2008-016 | 2008-04-14 2012  | Atlas V 421 | AV-014  | ICO G1                                        | US | CC*SLC41    | S |
-    | 2009-017 | 2009-04-04 0031  | Atlas V 421 | AV-016  | USA (WGS SV-2) (Wideband Global Satcom 2)     | US | CC*SLC41    | S |
-    | 2009-031 | 2009-06-18 2132  | Atlas V 401 | AV-020  | LRO/LCROSS (LRO)                              | US | CC*SLC41    | S |
-    | 2009-047 | 2009-09-08 2135  | Atlas V 401 | AV-018  | PAN (NEMESIS 1)                               | US | CC*SLC41    | S |
-    | 2009-057 | 2009-10-18 1612  | Atlas V 401 | AV-017  | DMSP 5D-3 F18 (DMSP Block 5D-3 S-18)          | US | VS*SLC3E    | S |
-    | 2009-064 | 2009-11-23 0655  | Atlas V 431 | AV-024  | Intelsat IS-14 (IS-14)                        | US | CC*SLC41    | S |
-    | 2010-005 | 2010-02-11 1523  | Atlas V 401 | AV-021  | SDO                                           | US | CC*SLC41    | S |
-    | 2010-015 | 2010-04-22 2352  | Atlas V 501 | AV-012  | X-37B OTV FLT-1 (X-37B No. 1)                 | US | CC*SLC41    | S |
-    | 2010-039 | 2010-08-14 1107: | Atlas V 531 | AV-019  | AEHF 1 (AEHF SV-1)                            | US | CC*SLC41    | S |
-    | 2010-046 | 2010-09-21 0403  | Atlas V 501 | AV-025  | USA 215   (FIAR-1) (TOPAZ 1)                  | US | VS*SLC3E    | S |
-    | 2011-010 | 2011-03-05 2246  | Atlas V 501 | AV-026  | X-37B OTV FLT-2 (X-37B No. 2)                 | US | CC*SLC41    | S |
-    | 2011-014 | 2011-04-15 0424  | Atlas V 411 | AV-027  | USA 229 (INTRUDER 9)                          | US | VS*SLC3E    | S |
-    | 2011-019 | 2011-05-07 1810  | Atlas V 401 | AV-022? | SBIRS GEO-1                                   | US | CC*SLC41    | S |
-    | 2011-040 | 2011-08-05 1625  | Atlas V 551 | AV-029  | Juno                                          | US | CC*SLC41    | S |
-    | 2011-070 | 2011-11-26 1502  | Atlas V 541 | AV-028  | MSL (Mars Science Lab Rover)                  | US | CC*SLC41    | S |
-    | 2012-009 | 2012-02-24 2215  | Atlas V 551 | AV-030  | MUOS 1                                        | US | CC*SLC41    | S |
-    | 2012-019 | 2012-05-04 1842  | Atlas V 531 | AV-031  | AEHF 2 (AEHF SV-2)                            | US | CC*SLC41    | S |
-    | 2012-033 | 2012-06-20 1228  | Atlas V 401 | AV-023  | USA 236 (QUASAR 17?)                          | US | CC*SLC41    | S |
-    | 2012-046 | 2012-08-30 0805  | Atlas V 401 | AV-032  | RBSP A/B (RBSP-A)                             | US | CC*SLC41    | S |
-    | 2012-048 | 2012-09-13 2139  | Atlas V 401 | AV-033  | USA 238/OUTSAT (INTRUDER 10)                  | US | VS*SLC3E    | S |
-    | 2012-071 | 2012-12-11 1803  | Atlas V 501 | AV-034  | X-37B OTV FLT-3 (X-37B No. 1)                 | US | CC*SLC41    | S |
-    | 2013-004 | 2013-01-31 0148  | Atlas V 401 | AV-036  | TDRS 11 (TDRS K)                              | US | CC*SLC41    | S |
-    | 2013-008 | 2013-02-11 1802  | Atlas V 401 | AV-035  | Landsat 8 (Landsat LDCM)                      | US | VS*SLC3E    | S |
-    | 2013-011 | 2013-03-19 2121  | Atlas V 401 | AV-037  | SBIRS GEO-2                                   | US | CC*SLC41    | S |
-    | 2013-023 | 2013-05-15 2138  | Atlas V 401 | AV-039  | GPS II F-4 (GPS SVN 66)                       | US | CC*SLC41    | S |
-    | 2013-036 | 2013-07-19 1300  | Atlas V 551 | AV-040  | MUOS 2                                        | US | CC*SLC41    | S |
-    | 2013-050 | 2013-09-18 0810  | Atlas V 531 | AV-041  | AEHF 3                                        | US | CC*SLC41    | S |
-    | 2013-063 | 2013-11-18 1828  | Atlas V 401 | AV-038  | MAVEN                                         | US | CC*SLC41    | S |
-    | 2013-072 | 2013-12-06 0714  | Atlas V 501 | AV-042  | USA 247 (TOPAZ 3)                             | US | VS*SLC3E    | S |
-    | 2014-004 | 2014-01-24 0233  | Atlas V 401 | AV-043  | TDRS 12 (TDRS L)                              | US | CC*SLC41    | S |
-    | 2014-015 | 2014-04-03 1446  | Atlas V 401 | AV-044  | DMSP 5D-13 F19                                | US | VS*SLC3E    | S |
-    | 2014-020 | 2014-04-10 1745  | Atlas V 541 | AV-045  | USA 250 (ORION 9?)                            | US | CC*SLC41    | S |
-    | 2014-027 | 2014-05-22 1309  | Atlas V 401 | AV-046  | USA 252 (QUASAR 18?)                          | US | CC*SLC41    | S |
-    | 2014-045 | 2014-08-02 0323  | Atlas V 401 | AV-048  | GPS II F-7 (GPS SVN 68)                       | US | CC*SLC41    | S |
-    | 2014-048 | 2014-08-13 1830  | Atlas V 401 | AV-047  | Worldview-3                                   | US | VS*SLC3E    | S |
-    | 2014-055 | 2014-09-17 0010  | Atlas V 401 | AV-049  | CLIO                                          | US | CC*SLC41    | S |
-    | 2014-068 | 2014-10-29 1721  | Atlas V 401 | AV-050  | GPS II F-8 (GPS SVN 69)                       | US | CC*SLC41    | S |
-    | 2014-081 | 2014-12-13 0319  | Atlas V 541 | AV-051  | USA 259 (Adv  TRUMPET 3?)                     | US | VS*SLC3E    | S |
-    | 2015-002 | 2015-01-21 0104  | Atlas V 551 | AV-052  | MUOS 3                                        | US | CC*SLC41    | S |
-    | 2015-011 | 2015-03-13 0244  | Atlas V 421 | AV-053  | MMS (MMS 1-4)                                 | US | CC*SLC41    | S |
-    | 2015-025 | 2015-05-20 1505  | Atlas V 501 | AV-054  | X-37B OTV FLT-4 (X-37B No. 2?)                | US | CC*SLC41    | S |
-    | 2015-033 | 2015-07-15 1536  | Atlas V 401 | AV-055  | GPS II F-10 (GPS SVN 72)                      | US | CC*SLC41    | S |
-    | 2015-044 | 2015-09-02 1018  | Atlas V 551 | AV-056  | MUOS 4                                        | US | CC*SLC41    | S |
-    | 2015-056 | 2015-10-02 1028  | Atlas V 421 | AV-059  | Morelos 3                                     | US | CC*SLC41    | S |
-    | 2015-058 | 2015-10-08 1249  | Atlas V 401 | AV-058  | NROL-55 (INTRUDER)                            | US | VS*SLC3E    | S |
-    | 2015-062 | 2015-10-31 1613  | Atlas V 401 | AV-060  | GPS II F-11 (GPS SVN 73)                      | US | CC*SLC41    | S |
-    | 2015-072 | 2015-12-06 2144  | Atlas V 401 | AV-061  | S.S. Deke Slayton II (Cygnus OA-4)            | US | CC*SLC41    | S |
-    | 2016-007 | 2016-02-05 1338  | Atlas V 401 | AV-057  | GPS II F-12 (GPS SVN 70)                      | US | CC*SLC41    | S |
-    | 2016-019 | 2016-03-23 0305  | Atlas V 401 | AV-064  | S.S. Rick Husband (Cygnus OA-6)               | US | CC*SLC41    | S |
-    | 2016-041 | 2016-06-24 1430  | Atlas V 551 | AV-063  | MUOS 5                                        | US | CC*SLC41    | S |
-    | 2016-047 | 2016-07-28 1237  | Atlas V 421 | AV-065  | USA 269 (QUASAR 19?)                          | US | CC*SLC41    | S |
-    | 2016-055 | 2016-09-08 2305  | Atlas V 411 | AV-067  | OSIRIS-REx                                    | US | CC*SLC41    | S |
-    | 2016-067 | 2016-11-11 1830  | Atlas V 401 | AV-062  | WorldView-4                                   | US | VS*SLC3E    | S |
-    | 2016-071 | 2016-11-19 2342  | Atlas V 541 | AV-069  | GOES R                                        | US | CC*SLC41    | S |
-    | 2016-079 | 2016-12-18 1913  | Atlas V 431 | AV-071  | Echostar 19 (Echostar 19 (Jupiter 2))         | US | CC*SLC41    | S |
-    | 2017-004 | 2017-01-21 0042  | Atlas V 401 | AV-066  | SBIRS GEO-3                                   | US | CC*SLC41    | S |
-    | 2017-011 | 2017-03-01 1749  | Atlas V 401 | AV-068  | USA 274 (INTRUDER)                            | US | VS*SLC3E    | S |
-    | 2017-019 | 2017-04-18 1511  | Atlas V 401 | AV-070  | S.S. John Glenn (Cygnus OA-7)                 | US | CC*SLC41    | S |
-    | 2017-047 | 2017-08-18 1229  | Atlas V 401 | AV-074  | TDRS 13 (TDRS M)                              | US | CC*SLC41    | S |
-    | 2017-056 | 2017-09-24 0549  | Atlas V 541 | AV-072  | USA 278 (Adv TRUMPET 4?)                      | US | VS*SLC3E    | S |
-    | 2017-066 | 2017-10-15 0728  | Atlas V 421 | AV-075  | USA 279 (QUASAR 20?)                          | US | CC*SLC41    | S |
-    | 2018-009 | 2018-01-20 0048  | Atlas V 411 | AV-076  | SBIRS GEO-4                                   | US | CC*SLC41    | S |
-    | 2018-022 | 2018-03-01 2202  | Atlas V 541 | AV-077  | GOES S                                        | US | CC*SLC41    | S |
-    | 2018-036 | 2018-04-14 2313  | Atlas V 551 | AV-079  | CBAS/EAGLE                                    | US | CC*SLC41    | S |
-    | 2018-042 | 2018-05-05 1105  | Atlas V 401 | AV-078  | Mars Insight                                  | US | VS*SLC3E    | S |
-    | 2018-079 | 2018-10-17 0415  | Atlas V 551 | AV-073  | AEHF-4 (AEHF 4)                               | US | CC*SLC41    | S |
-    | 2019-051 | 2019-08-08 1013  | Atlas V 551 | AV-083  | AEHF-5 (AEHF 5)                               | US | CC*SLC41    | S |
-    | 2019-094 | 2019-12-20 1136  | Atlas V N22 | AV-080  | Starliner OFT (Starliner SC3)                 | US | CC*SLC41    | S |
-    | 2020-010 | 2020-02-10 0403  | Atlas V 411 | AV-087  | Solar Orbiter                                 | US | CC*SLC41    | S |
-    | 2020-022 | 2020-03-26 2018  | Atlas V 551 | AV-086  | AEHF 6                                        | US | CC*SLC41    | S |
-    | 2020-029 | 2020-05-17 1314  | Atlas V 501 | AV-081  | X-37B OTV FLT-6 (X-37B No. 1?)                | US | CC*SLC41    | S |
-    | 2020-052 | 2020-07-30 1150  | Atlas V 541 | AV-088  | Mars 2020 (Perseverance)                      | US | CC*SLC41    | S |
-    | 2020-083 | 2020-11-13 2232  | Atlas V 531 | AV-090  | USA 310 (TOPAZ?)                              | US | CC*SLC41    | S |
-    | 2021-042 | 2021-05-18 1737  | Atlas V 421 | AV-091  | SBIRS GEO-5                                   | US | CC*SLC41    | S |
-    | 2021-088 | 2021-09-27 1812  | Atlas V 401 | AV-092  | Landsat 9                                     | US | VSFBS*SLC3E | S |
-    | 2021-093 | 2021-10-16 0934  | Atlas V 401 | AV-096  | Lucy                                          | US | CC*SLC41    | S |
-    | 2021-118 | 2021-12-07 1019  | Atlas V 551 | AV-093  | STP-3 (STPSAT-6/LDPE-1)                       | US | CC*SLC41    | S |
-    | 2022-006 | 2022-01-21 1900  | Atlas V 511 | AV-084  | GSSAP 5/6                                     | US | CC*SLC41    | S |
-    | 2022-021 | 2022-03-01 1438  | Atlas V 541 | AV-095  | GOES T                                        | US | CC*SLC41    | S |
-    | 2022-055 | 2022-05-19 2254  | Atlas V N22 | AV-082  | Starliner OFT-2 (Starliner SC2)               | US | CC*SLC41    | S |
-    | 2022-073 | 2022-07-01 2315  | Atlas V 541 | AV-094  | USSF-12 (WFOV)                                | US | CC*SLC41    | S |
-    | 2022-092 | 2022-08-04 1029  | Atlas V 421 | AV-097  | SBIRS GEO-6                                   | US | CC*SLC41    | S |
-    | 2022-123 | 2022-10-04 2136  | Atlas V 531 | AV-099  | SES-20/SES-21                                 | US | CC*SLC41    | S |
-    +----------+------------------+-------------+---------+-----------------------------------------------+----+-------------+---+
+    Lista lansărilor orbitale pentru racheta Delta 4M
+    +----------+-----------------+----------------+-------------------+------------------------------------------+----+-----------+---+
+    | ID       | Date            | Rocket         | Series            | Sat * Mission                            | Or | LSite     | R |
+    +----------+-----------------+----------------+-------------------+------------------------------------------+----+-----------+---+
+    | 2002-051 | 2002-11-20 2239 | Delta 4M+(4,2) | D4-1/D293         | Eutelsat W5                              | US | CC*SLC37B | S |
+    | 2003-008 | 2003-03-11 0059 | Delta 4M       | D4-2/D296/IABS-10 | USA 167 (DSCS 3A-3) (DSCS III A-3/IABS)  | US | CC*SLC37B | S |
+    | 2003-040 | 2003-08-29 2313 | Delta 4M       | D4-3/D301/IABS-7  | USA 170 (DSCS 3B-6) (DSCS III B-6/IABS)  | US | CC*SLC37B | S |
+    | 2006-018 | 2006-05-24 2211 | Delta 4M+(4,2) | D4-5/D315         | GOES N                                   | US | CC*SLC37B | S |
+    | 2006-027 | 2006-06-28 0333 | Delta 4M+(4,2) | D4-6/D317         | USA 184       [JS11] (Adv TRUMPET 1)     | US | VS*SLC6   | S |
+    | 2006-050 | 2006-11-04 1353 | Delta 4M       | D4-7/D320         | USA 191 (DMSP 17) (DMSP Block 5D-3 S-17) | US | VS*SLC6   | S |
+    | 2009-033 | 2009-06-27 2251 | Delta 4M+(4,2) | D4-10/D342        | GOES O                                   | US | CC*SLC37B | S |
+    | 2009-068 | 2009-12-06 0147 | Delta 4M+(5,4) | D4-11/D346        | WGS 3 (Wideband Global Satcom 3)         | US | CC*SLC37B | S |
+    | 2010-008 | 2010-03-04 2357 | Delta 4M+(4,2) | D4-12/D348        | GOES P                                   | US | CC*SLC37B | S |
+    | 2010-022 | 2010-05-28 0300 | Delta 4M+(4,2) | D4-13/D349        | GPS IIF SV-1 (GPS SVN 62)                | US | CC*SLC37B | S |
+    | 2011-011 | 2011-03-11 2338 | Delta 4M+(4,2) | D4-16/D353        | USA 227      [SDS17] (QUASAR 17?)        | US | CC*SLC37B | S |
+    | 2011-036 | 2011-07-16 0641 | Delta 4M+(4,2) | D4-17/D355        | GPS IIF SV-2 (GPS SVN 63)                | US | CC*SLC37B | S |
+    | 2012-003 | 2012-01-20 0038 | Delta 4M+(5,4) | D4-18/D358        | WGS 4 (Wideband Global Satcom 4)         | US | CC*SLC37B | S |
+    | 2012-014 | 2012-04-03 2312 | Delta 4M+(5,2) | D4-19/D359        | USA 234 (TOPAZ 2?)                       | US | VS*SLC6   | S |
+    | 2012-053 | 2012-10-04 1210 | Delta 4M+(4,2) | D4-21/D361        | GPS IIF SV-3 (GPS SVN 65)                | US | CC*SLC37B | S |
+    | 2013-024 | 2013-05-25 0027 | Delta 4M+(5,4) | D4-22/D362        | WGS 5 (Wideband Global Satcom 5)         | US | CC*SLC37B | S |
+    | 2013-041 | 2013-08-08 0029 | Delta 4M+(5,4) | D4-23/D363        | WGS 6 (Wideband Global Satcom 6)         | US | CC*SLC37B | S |
+    | 2014-008 | 2014-02-21 0159 | Delta 4M+(4,2) | D4-25/D365        | GPS IIF SV-4 (GPS SVN 64)                | US | CC*SLC37B | S |
+    | 2014-026 | 2014-05-17 0003 | Delta 4M+(4,2) | D4-26/D366        | GPS IIF-6 (GPS SVN 67)                   | US | CC*SLC37B | S |
+    | 2014-043 | 2014-07-28 2328 | Delta 4M+(4,2) | D4-27/D368        | AFSPC-4 (GSSAP-1/2/ANGELS)               | US | CC*SLC37B | S |
+    | 2015-013 | 2015-03-25 1836 | Delta 4M+(4,2) | D4-29/D371        | GPS IIF-7 (GPS SVN 71)                   | US | CC*SLC37B | S |
+    | 2015-036 | 2015-07-24 0007 | Delta 4M+(5,4) | D4-30/D372        | WGS 7 (Wideband Global Satcom 7)         | US | CC*SLC37B | S |
+    | 2016-010 | 2016-02-10 1140 | Delta 4M+(5,2) | D4-31/D373        | USA 267 (TOPAZ 4)                        | US | VS*SLC6   | S |
+    | 2016-052 | 2016-08-19 0452 | Delta 4M+(4,2) | D4-33/D375        | AFSPC-6 (GSSAP 3/4)                      | US | CC*SLC37B | S |
+    | 2016-075 | 2016-12-07 2352 | Delta 4M+(5,4) | D4-34/D376        | WGS 8 (Wideband Global Satcom 8)         | US | CC*SLC37B | S |
+    | 2017-016 | 2017-03-19 0018 | Delta 4M+(5,4) | D4-35/D377        | WGS 9 (Wideband Global Satcom 9)         | US | CC*SLC37B | S |
+    | 2018-005 | 2018-01-12 2211 | Delta 4M+(5,2) | D4-36/D379        | USA 281 (TOPAZ 5?)                       | US | VS*SLC6   | S |
+    | 2019-014 | 2019-03-16 0226 | Delta 4M+(5,2) | D4-39/D383        | WGS 10                                   | US | CC*SLC37B | S |
+    | 2019-056 | 2019-08-22 1306 | Delta 4M+(4,2) | D4-40/D384        | GPS III SV02                             | US | CC*SLC37B | S |
+    +----------+-----------------+----------------+-------------------+------------------------------------------+----+-----------+---+
     
     
