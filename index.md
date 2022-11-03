@@ -1,7 +1,3 @@
----
-layout: page
----
-
 ## Rachete, astronauți și sonde interplanetare
 Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale.
 
