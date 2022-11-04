@@ -1,3 +1,19 @@
+title: parsec.ro
+author:
+  name: Claudiu Tănăselia
+  email: claudiu@tanaselia.ro
+
+show_excerpts: false
+
+social_links:
+    twitter: superparsec
+    github:  ctanas
+    facebook: claudiu.tanaselia
+    google_scholar_id: njJE6nEAAAAJ
+    mastodon:
+    - username: superparsec
+      instance: mastodon.social
+
 markdown: kramdown
 remote_theme: ctanas/minima
 header_pages:
