@@ -18,3 +18,4 @@ markdown: kramdown
 theme: minima
 header_pages:
  - about.md
+include: ['_pages']

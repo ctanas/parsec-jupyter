@@ -1,5 +1,7 @@
 ---
+permalink: "/r/atlasv"
 title: Atlas V
+layout: default
 ---
 
     Număr total de lansări Atlas V: 96
