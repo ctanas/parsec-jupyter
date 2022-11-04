@@ -28,7 +28,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
     
 
 ## Rachete orbitale active:
-- SUA: [Falcon 9](/r/falcon9.md), [Falcon Heavy](/r/falconh.md), [Atlas V](/r/atlasv.md), [Delta IV](/r/delta4.md), [Delta IV Heavy](/r/delta4h.md), [Electron](/r/electron.md), [Firefly Alpha](/r/fireflya.md), [LauncherOne](/r/launcherone.md), [Astra](/r/astra.md), [Antares](/r/antares.md), [Minotaur](/r/minotaur.md), [Pegasus](/r/pegasus.md);
+- SUA: [Falcon 9](/r/falcon9.md), [Falcon Heavy](/r/falconh.md), [Atlas V](/r/atlasv), [Delta IV](/r/delta4.md), [Delta IV Heavy](/r/delta4h.md), [Electron](/r/electron.md), [Firefly Alpha](/r/fireflya.md), [LauncherOne](/r/launcherone.md), [Astra](/r/astra.md), [Antares](/r/antares.md), [Minotaur](/r/minotaur.md), [Pegasus](/r/pegasus.md);
 - China: [CZ-2C](/r/cz2c.md), [CZ-2D](/r/cz2d.md), [CZ-2F](/r/cz2f.md), [CZ-3B](/r/cz3b.md), [CZ-3C](/r/cz3c.md), [CZ-4B](/r/cz4b.md), [CZ-4C](/r/cz4c.md), [CZ-11](/r/cz11.md), [CZ-5](/r/cz5.md), [CZ-6](/r/cz6.md), [CZ-7](/r/cz7.md), [CZ-8](/r/cz8.md), [KZ-1A](/r/kz1a.md), [KZ-11](/r/kz11.md), [Gushenxing-1](/r/gushenxing.md), [Lijian-1](/r/lijian.md), [Shuang Quxian 1](/r/sq1.md), [Jielong-1](/r/jielong.md), [OS-M1](/r/osm1.md), [Zhuque-1](/r/zhuque1.md), [KT-2](/r/kt2.md)
 - Rusia: [Soyuz-2.1](/r/soyuz21.md), [Soyuz-2.1v](/r/soyuz21v.md), [Angara-1.2](/r/angara12.md), [Proton-M](/r/protonm.md), [Angara-A5](/r/angaraa5.md)
 - Europa: [Ariane 5](/r/ariane5.md), [Vega-C](/r/vegac.md)
