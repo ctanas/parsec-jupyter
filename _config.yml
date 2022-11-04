@@ -15,6 +15,6 @@ social_links:
       instance: mastodon.social
 
 markdown: kramdown
-remote_theme: ctanas/minima
+theme: minima
 header_pages:
  - about.md
