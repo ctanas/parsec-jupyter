@@ -1,5 +1,3 @@
-## Falcon 9
-
     Număr total de lansări Falcon 9: 183
     Număr de eșecuri Falcon 9: 1
     Rată de succes Falcon 9: 99.45%
@@ -194,4 +192,4 @@
     | 2022-141 | 2022-10-28 0114 | Falcon 9 | 184/B1063.8  | Starlink-67 (Starlink Group 4-31)          | US | VSFBS*SLC4E | S |
     +----------+-----------------+----------+--------------+--------------------------------------------+----+-------------+---+
     
-
+    

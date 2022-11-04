@@ -1,5 +1,3 @@
-## Electron
-
     Număr total de lansări Electron: 31
     Număr de eșecuri Electron: 3
     Rată de succes Electron: 90.32%
@@ -42,4 +40,4 @@
     | 2022-127 | 2022-10-07 1709 | Electron | 31    | It Argos From Up Here (GAzelle)               | US | MAHIA*LC1B | S |
     +----------+-----------------+----------+-------+-----------------------------------------------+----+------------+---+
     
-
+    

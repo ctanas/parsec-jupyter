@@ -1,5 +1,3 @@
-## Pegasus
-
     Număr total de lansări Pegasus: 45
     Număr de eșecuri Pegasus: 2
     Rată de succes Pegasus: 95.56%
@@ -56,4 +54,4 @@
     | 2021-051 | 2021-06-13 0811 | Pegasus XL      | F45 /XS053 | Odyssey (TacRL-2)            | US | VSFB*RW30/12  | S |
     +----------+-----------------+-----------------+------------+------------------------------+----+---------------+---+
     
-
+    

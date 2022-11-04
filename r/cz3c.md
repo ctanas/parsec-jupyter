@@ -1,5 +1,3 @@
-## Chang Zheng 3C
-
     Număr total de lansări Chang Zheng 3C: 18
     Număr de eșecuri Chang Zheng 3C: 0
     Rată de succes Chang Zheng 3C: 100.00%
@@ -28,4 +26,4 @@
     | 2021-063 | 2021-07-06 1553 | Chang Zheng 3C      | Y18   | Tian Lian 1-05 (TL1-05)                 | CN | XSC*LC2  | S |
     +----------+-----------------+---------------------+-------+-----------------------------------------+----+----------+---+
     
-
+    

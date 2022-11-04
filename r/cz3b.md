@@ -1,5 +1,3 @@
-## Chang Zheng 3B
-
     Număr total de lansări Chang Zheng 3B: 85
     Număr de eșecuri Chang Zheng 3B: 2
     Rată de succes Chang Zheng 3B: 97.65%
@@ -96,4 +94,4 @@
     | 2022-078 | 2022-07-12 1630 | Chang Zheng 3B      | Y85   | Tianlian 2-03                             | CN | XSC*LC2  | S |
     +----------+-----------------+---------------------+-------+-------------------------------------------+----+----------+---+
     
-
+    

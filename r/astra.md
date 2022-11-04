@@ -1,5 +1,3 @@
-## Astra
-
     Număr total de lansări Astra: 7
     Număr de eșecuri Astra: 5
     Rată de succes Astra: 28.57%
@@ -18,4 +16,4 @@
     | 2022-F03 | 2022-06-12 1743 | Astra Rocket 3.3 | LV0010 | Rocket 3.3 (TROPICS 1)           | US | SPFLA*SLC46 | F |
     +----------+-----------------+------------------+--------+----------------------------------+----+-------------+---+
     
-
+    

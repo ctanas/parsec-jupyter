@@ -1,5 +1,3 @@
-## Shavit
-
     Număr total de lansări Shavit: 11
     Număr de eșecuri Shavit: 2
     Rată de succes Shavit: 81.82%
@@ -22,4 +20,4 @@
     | 2020-044 | 2020-07-06 0100  | Shavit 2 | 11    | 'Ofeq-16          | IL | PALB*- | S |
     +----------+------------------+----------+-------+-------------------+----+--------+---+
     
-
+    

@@ -1,5 +1,3 @@
-## LauncherOne
-
     Număr total de lansări LauncherOne: 5
     Număr de eșecuri LauncherOne: 1
     Rată de succes LauncherOne: 80.00%
@@ -16,4 +14,4 @@
     | 2022-074 | 2022-07-02 0653 | LauncherOne | R06   | STP-S28A (Straight Up)       | US | MHV*RW12/30 | S |
     +----------+-----------------+-------------+-------+------------------------------+----+-------------+---+
     
-
+    

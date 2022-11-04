@@ -1,5 +1,3 @@
-## Chang Zheng 2C
-
     Număr total de lansări Chang Zheng 2C: 68
     Număr de eșecuri Chang Zheng 2C: 1
     Rată de succes Chang Zheng 2C: 98.53%
@@ -79,4 +77,4 @@
     | 2022-132 | 2022-10-12 2253  | Chang Zheng 2C        | Y66          | HJ-2-05 (HJ-2-05 (5m S-SAR-01))        | CN | TYSC*LC9    | S |
     +----------+------------------+-----------------------+--------------+----------------------------------------+----+-------------+---+
     
-
+    

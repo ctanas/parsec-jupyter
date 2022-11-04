@@ -1,5 +1,3 @@
-## Shuang Quxian (Hyperbola-1)
-
     Număr total de lansări Shuang Quxian: 4
     Număr de eșecuri Shuang Quxian: 3
     Rată de succes Shuang Quxian: 25.00%
@@ -15,4 +13,4 @@
     | 2022-F02 | 2022-05-13 0709 | Shuang Quxian 1 | Y4    | Jilin-1 Mofang 1A/R (-) | CN | JQ*LC43/95B | F |
     +----------+-----------------+-----------------+-------+-------------------------+----+-------------+---+
     
-
+    
