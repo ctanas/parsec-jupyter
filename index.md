@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+menu: none
+---
+
 ## Rachete, astronauți și sonde interplanetare
 Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale.
 
@@ -20,7 +26,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
     | 2022-135 | 2022-10-15 1955 | Angara-1.2          | 71603?/2L            | Kosmos-2560 (EO MKA-3)                   | RU | GIK-1+LC35/1 |
     | 2022-134 | 2022-10-15 0522 | Falcon 9 / FT5      | 182/B1069.3          | Hot Bird 13F                             | US | CC+LC40      |
     +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
-
+    
 
 ## Rachete orbitale active:
 - SUA: [Falcon 9](/r/falcon9.md), [Falcon Heavy](/r/falconh.md), [Atlas V](/r/atlasv.md), [Delta IV](/r/delta4.md), [Delta IV Heavy](/r/delta4h.md), [Electron](/r/electron.md), [Firefly Alpha](/r/fireflya.md), [LauncherOne](/r/launcherone.md), [Astra](/r/astra.md), [Antares](/r/antares.md), [Minotaur](/r/minotaur.md), [Pegasus](/r/pegasus.md);
