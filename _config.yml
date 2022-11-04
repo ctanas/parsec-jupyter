@@ -5,6 +5,8 @@ author:
 
 show_excerpts: false
 
+source: https://github.com/ctanas/parsec-jupyter
+
 social_links:
     twitter: superparsec
     github:  ctanas
