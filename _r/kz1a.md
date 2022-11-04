@@ -1,3 +1,9 @@
+---
+permalink: "/r/kz1a"
+title: Kuaizhou-1A
+layout: default
+---
+
     Număr total de lansări Kuaizhou-1A: 18
     Număr de eșecuri Kuaizhou-1A: 2
     Rată de succes Kuaizhou-1A: 88.89%
@@ -27,4 +33,4 @@
     | 2022-118 | 2022-09-24 2255 | Kuaizhou-1A | Y14   | Shiyan 14/15 (-)            | CN | TYSC*-       | S |
     +----------+-----------------+-------------+-------+-----------------------------+----+--------------+---+
     
-    
+

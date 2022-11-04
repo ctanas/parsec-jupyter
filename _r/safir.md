@@ -1,3 +1,9 @@
+---
+permalink: "/r/safir"
+title: Safir
+layout: default
+---
+
     Număr total de lansări Safir: 9
     Număr de eșecuri Safir: 4
     Rată de succes Safir: 55.56%
@@ -18,4 +24,4 @@
     | 2019-E01 | 2019-08-29 0658  | Safir    | -        | -                 | IR | SEM*-   | S |
     +----------+------------------+----------+----------+-------------------+----+---------+---+
     
-    
+

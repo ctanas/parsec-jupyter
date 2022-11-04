@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz2d"
+title: Chang Zheng 2D
+layout: default
+---
+
     Număr total de lansări Chang Zheng 2D: 69
     Număr de eșecuri Chang Zheng 2D: 0
     Rată de succes Chang Zheng 2D: 100.00%
@@ -77,4 +83,4 @@
     | 2022-142 | 2022-10-29 0101 | Chang Zheng 2D      | Y72   | Shiyan 20C                             | CN | JQ*LC43/94  | S |
     +----------+-----------------+---------------------+-------+----------------------------------------+----+-------------+---+
     
-    
+

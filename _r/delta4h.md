@@ -1,3 +1,9 @@
+---
+permalink: "/r/delta4h"
+title: Delta 4 Heavy
+layout: default
+---
+
     Număr total de lansări Delta 4 Heavy: 14
     Număr de eșecuri Delta 4 Heavy: 0
     Rată de succes Delta 4 Heavy: 100.00%
@@ -22,4 +28,4 @@
     | 2022-117 | 2022-09-24 2225 | Delta 4 Heavy           | D4-43/D387 | USA 338 (Improved CRYSTAL?)                | US | VS*SLC6   | S |
     +----------+-----------------+-------------------------+------------+--------------------------------------------+----+-----------+---+
     
-    
+

@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz8"
+title: Chang Zheng 8
+layout: default
+---
+
     Număr total de lansări Chang Zheng 8: 2
     Număr de eșecuri Chang Zheng 8: 0
     Rată de succes Chang Zheng 8: 100.00%
@@ -10,4 +16,4 @@
     | 2022-019 | 2022-02-27 0306 | Chang Zheng 8 | Y2    | Taijing 3/4, Jilin-1 | CN | WEN*LC201 | S |
     +----------+-----------------+---------------+-------+----------------------+----+-----------+---+
     
-    
+

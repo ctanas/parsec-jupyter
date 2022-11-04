@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz2f"
+title: Chang Zheng 2F
+layout: default
+---
+
     Număr total de lansări Chang Zheng 2F: 18
     Număr de eșecuri Chang Zheng 2F: 0
     Rată de succes Chang Zheng 2F: 100.00%
@@ -26,4 +32,4 @@
     | 2022-093 | 2022-08-04 1600? | Chang Zheng 2F   | Y13   | CSSHQ                                 | CN | JQ*LC43/91 | S |
     +----------+------------------+------------------+-------+---------------------------------------+----+------------+---+
     
-    
+

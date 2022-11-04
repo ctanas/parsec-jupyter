@@ -25,16 +25,16 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
     | 2022-135 | 2022-10-15 1955 | Angara-1.2          | 71603?/2L            | Kosmos-2560 (EO MKA-3)                   | RU | GIK-1+LC35/1 |
     | 2022-134 | 2022-10-15 0522 | Falcon 9 / FT5      | 182/B1069.3          | Hot Bird 13F                             | US | CC+LC40      |
     +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
-    
+
 
 ## Rachete orbitale active:
-- SUA: [Falcon 9](/r/falcon9.md), [Falcon Heavy](/r/falconh.md), [Atlas V](r/atlasv), [Delta IV](/r/delta4.md), [Delta IV Heavy](/r/delta4h.md), [Electron](/r/electron.md), [Firefly Alpha](/r/fireflya.md), [LauncherOne](/r/launcherone.md), [Astra](/r/astra.md), [Antares](/r/antares.md), [Minotaur](/r/minotaur.md), [Pegasus](/r/pegasus.md);
-- China: [CZ-2C](/r/cz2c.md), [CZ-2D](/r/cz2d.md), [CZ-2F](/r/cz2f.md), [CZ-3B](/r/cz3b.md), [CZ-3C](/r/cz3c.md), [CZ-4B](/r/cz4b.md), [CZ-4C](/r/cz4c.md), [CZ-11](/r/cz11.md), [CZ-5](/r/cz5.md), [CZ-6](/r/cz6.md), [CZ-7](/r/cz7.md), [CZ-8](/r/cz8.md), [KZ-1A](/r/kz1a.md), [KZ-11](/r/kz11.md), [Gushenxing-1](/r/gushenxing.md), [Lijian-1](/r/lijian.md), [Shuang Quxian 1](/r/sq1.md), [Jielong-1](/r/jielong.md), [OS-M1](/r/osm1.md), [Zhuque-1](/r/zhuque1.md), [KT-2](/r/kt2.md)
-- Rusia: [Soyuz-2.1](/r/soyuz21.md), [Soyuz-2.1v](/r/soyuz21v.md), [Angara-1.2](/r/angara12.md), [Proton-M](/r/protonm.md), [Angara-A5](/r/angaraa5.md)
-- Europa: [Ariane 5](/r/ariane5.md), [Vega-C](/r/vegac.md)
-- Japonia: [H-II](/r/hii.md), [Epsilon](/r/epsilon.md)
-- India: [SSLV](/r/sslv.md), [PSLV](/r/pslv.md), [GSLV Mk. 2](/r/gslvmk2.md), [GSLV Mk. 3](/r/gslvmk3.md)
-- Iran: [Safir](/r/safir.md), [Simorgh](/r/simorgh.md), [Qased](/r/qased.md)
-- Israel: [Shavit](/r/shavit.md)
-- Coreea de Sud: [Nuri](/r/nuri.md)
-- Coreea de Nord: [Kwangmyongsong](/r/kwangmyongsong.md)
+- SUA: [Falcon 9](r/falcon9), [Falcon Heavy](r/falconh), [Atlas V](r/atlasv), [Delta IV](r/delta4), [Delta IV Heavy](r/delta4h), [Electron](r/electron), [Firefly Alpha](r/fireflya), [LauncherOne](r/launcherone), [Astra](r/astra), [Antares](r/antares), [Minotaur](r/minotaur), [Pegasus](r/pegasus);
+- China: [CZ-2C](r/cz2c), [CZ-2D](r/cz2d), [CZ-2F](r/cz2f), [CZ-3B](r/cz3b), [CZ-3C](r/cz3c), [CZ-4B](r/cz4b), [CZ-4C](r/cz4c), [CZ-11](r/cz11), [CZ-5](r/cz5), [CZ-6](r/cz6), [CZ-7](r/cz7), [CZ-8](r/cz8), [KZ-1A](r/kz1a), [KZ-11](r/kz11), [Gushenxing-1](r/gushenxing), [Lijian-1](r/lijian), [Shuang Quxian 1](r/sq1), [Jielong-1](r/jielong), [OS-M1](r/osm1), [Zhuque-1](r/zhuque1), [KT-2](r/kt2)
+- Rusia: [Soyuz-2.1](r/soyuz21), [Soyuz-2.1v](r/soyuz21v), [Angara-1.2](r/angara12), [Proton-M](r/protonm), [Angara-A5](r/angaraa5)
+- Europa: [Ariane 5](r/ariane5), [Vega-C](r/vegac)
+- Japonia: [H-II](r/hii), [Epsilon](r/epsilon)
+- India: [SSLV](r/sslv), [PSLV](r/pslv), [GSLV Mk. 2](r/gslvmk2), [GSLV Mk. 3](r/gslvmk3)
+- Iran: [Safir](r/safir), [Simorgh](r/simorgh), [Qased](r/qased)
+- Israel: [Shavit](r/shavit)
+- Coreea de Sud: [Nuri](r/nuri)
+- Coreea de Nord: [Kwangmyongsong](r/kwangmyongsong)

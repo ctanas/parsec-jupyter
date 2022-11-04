@@ -1,3 +1,9 @@
+---
+permalink: "/r/soyuz21v"
+title: Soyuz-2.1v
+layout: default
+---
+
     Număr total de lansări Soyuz-2.1v: 9
     Număr de eșecuri Soyuz-2.1v: 0
     Rată de succes Soyuz-2.1v: 100.00%
@@ -17,4 +23,4 @@
     | 2022-137 | 2022-10-21 1900 | Soyuz-2.1v | -                   | Kosmos-2561/2562 (14F164/14F172)     | RU | GIK-1*LC43/4  | S |
     +----------+-----------------+------------+---------------------+--------------------------------------+----+---------------+---+
     
-    
+

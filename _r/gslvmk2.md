@@ -1,3 +1,9 @@
+---
+permalink: "/r/gslvmk2"
+title: GSLV Mk. 2
+layout: default
+---
+
     Număr total de lansări GSLV Mk. 2: 8
     Număr de eșecuri GSLV Mk. 2: 2
     Rată de succes GSLV Mk. 2: 75.00%
@@ -17,4 +23,4 @@
     | 2021-F06 | 2021-08-12 0013 | GSLV Mk. 2 | GLSV-F10 | EOS-03 (GISAT-1)  | IN | SHAR*SLP | F |
     +----------+-----------------+------------+----------+-------------------+----+----------+---+
     
-    
+

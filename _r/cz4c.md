@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz4c"
+title: Chang Zheng 4C
+layout: default
+---
+
     Număr total de lansări Chang Zheng 4C: 45
     Număr de eșecuri Chang Zheng 4C: 2
     Rată de succes Chang Zheng 4C: 95.56%
@@ -54,4 +60,4 @@
     | 2022-106 | 2022-09-02 2344 | Chang Zheng 4C | Y52   | YG-33 02 (Yaogan 33 02)              | CN | JQ*LC43/94  | S |
     +----------+-----------------+----------------+-------+--------------------------------------+----+-------------+---+
     
-    
+

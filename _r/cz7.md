@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz7"
+title: Chang Zheng 7
+layout: default
+---
+
     Număr total de lansări Chang Zheng 7: 9
     Număr de eșecuri Chang Zheng 7: 1
     Rată de succes Chang Zheng 7: 88.89%
@@ -18,4 +24,4 @@
     | 2022-112 | 2022-09-13 1318 | Chang Zheng 7A      | Y5    | Zhongxing-1E (ZX-1E)          | CN | WEN*LC201 | S |
     +----------+-----------------+---------------------+-------+-------------------------------+----+-----------+---+
     
-    
+

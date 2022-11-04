@@ -1,3 +1,9 @@
+---
+permalink: "/r/zhuque1"
+title: Zhuque-1
+layout: default
+---
+
     Număr total de lansări Zhuque-1: 1
     Număr de eșecuri Zhuque-1: 1
     Rată de succes Zhuque-1: 0.00%
@@ -10,4 +16,4 @@
     | 2018-F02 | 2018-10-27 0800 | Zhuque-1 | -     | Weilai            | CN | JQ*LC43/95? | F |
     +----------+-----------------+----------+-------+-------------------+----+-------------+---+
     
-    
+

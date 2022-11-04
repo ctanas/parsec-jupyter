@@ -1,3 +1,9 @@
+---
+permalink: "/r/gslvmk3"
+title: GLSV Mk. 3
+layout: default
+---
+
     Număr total de lansări GSLV Mk. 3: 4
     Număr de eșecuri GSLV Mk. 3: 0
     Rată de succes GSLV Mk. 3: 100.00%
@@ -12,4 +18,4 @@
     | 2022-138 | 2022-10-22 1837 | GSLV Mk. 3 | LVM3-M2 | OneWeb India-1 (OneWeb L14) | IN | SHAR*SLP | S |
     +----------+-----------------+------------+---------+-----------------------------+----+----------+---+
     
-    
+

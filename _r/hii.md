@@ -1,3 +1,9 @@
+---
+permalink: "/r/hii"
+title: H-II
+layout: default
+---
+
     Număr total de lansări H-II: 61
     Număr de eșecuri H-II: 2
     Rată de succes H-II: 96.72%
@@ -70,4 +76,4 @@
     | 2021-128 | 2021-12-22 1532 | H-IIA 204  | H-IIA-45  | Inmarsat 6F1                      | JP | TNSC*Y  | S |
     +----------+-----------------+------------+-----------+-----------------------------------+----+---------+---+
     
-    
+

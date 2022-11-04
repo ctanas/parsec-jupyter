@@ -1,3 +1,9 @@
+---
+permalink: "/r/gushenxing"
+title: Gushenxing 1 (Ceres-1)
+layout: default
+---
+
     Număr total de lansări Gushenxing: 3
     Număr de eșecuri Gushenxing: 0
     Rată de succes Gushenxing: 100.00%
@@ -11,4 +17,4 @@
     | 2022-095 | 2022-08-09 0411 | Gushenxing 1 | Y3    | Taijing-1 01/02 (-)                      | CN | JQ*LC43/95? | S |
     +----------+-----------------+--------------+-------+------------------------------------------+----+-------------+---+
     
-    
+

@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz4b"
+title: Chang Zheng 4B
+layout: default
+---
+
     Număr total de lansări Chang Zheng 4B: 46
     Număr de eșecuri Chang Zheng 4B: 1
     Rată de succes Chang Zheng 4B: 97.83%
@@ -55,4 +61,4 @@
     | 2022-090 | 2022-08-04 0308 | Chang Zheng 4B | Y40   | Guomang                                    | CN | TYSC*LC9   | S |
     +----------+-----------------+----------------+-------+--------------------------------------------+----+------------+---+
     
-    
+

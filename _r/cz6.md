@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz6"
+title: Chang Zheng 6
+layout: default
+---
+
     Număr total de lansări Chang Zheng 6: 11
     Număr de eșecuri Chang Zheng 6: 0
     Rată de succes Chang Zheng 6: 100.00%
@@ -19,4 +25,4 @@
     | 2022-121 | 2022-09-26 2350 | Chang Zheng 6  | Y9    | Shiyan 16AB/17                    | CN | TYSC*LC16 | S |
     +----------+-----------------+----------------+-------+-----------------------------------+----+-----------+---+
     
-    
+

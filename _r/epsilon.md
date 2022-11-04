@@ -1,3 +1,9 @@
+---
+permalink: "/r/epsilon"
+title: Epsilon
+layout: default
+---
+
     Număr total de lansări Epsilon: 6
     Număr de eșecuri Epsilon: 1
     Rată de succes Epsilon: 83.33%
@@ -15,4 +21,4 @@
     | 2022-F04 | 2022-10-12 0050 | Epsilon  | E-6   | RAISE-3 (-)       | JP | USC*EP | F |
     +----------+-----------------+----------+-------+-------------------+----+--------+---+
     
-    
+

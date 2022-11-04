@@ -1,3 +1,9 @@
+---
+permalink: "/r/ariane5"
+title: Ariane 5
+layout: default
+---
+
     Număr total de lansări Ariane 5: 114
     Număr de eșecuri Ariane 5: 2
     Rată de succes Ariane 5: 98.25%
@@ -123,4 +129,4 @@
     | 2022-110 | 2022-09-07 2145 | Ariane 5ECA+   | VA258 (5117?) | Eutelsat Konnect VHTS                          | EU | CSG*ELA3 | S |
     +----------+-----------------+----------------+---------------+------------------------------------------------+----+----------+---+
     
-    
+

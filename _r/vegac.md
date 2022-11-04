@@ -1,3 +1,9 @@
+---
+permalink: "/r/vegac"
+title: Vega
+layout: default
+---
+
     Număr total de lansări Vega: 19
     Număr de eșecuri Vega: 1
     Rată de succes Vega: 94.74%
@@ -28,4 +34,4 @@
     | 2022-080 | 2022-07-13 1313 | Vega C   | VV21  | LARES 2                                   | EU | CSG*ZLV | S |
     +----------+-----------------+----------+-------+-------------------------------------------+----+---------+---+
     
-    
+

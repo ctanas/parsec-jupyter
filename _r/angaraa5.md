@@ -1,3 +1,9 @@
+---
+permalink: "/r/angaraa5"
+title: Angara A5
+layout: default
+---
+
     Număr total de lansări Angara A5: 3
     Număr de eșecuri Angara A5: 0
     Rată de succes Angara A5: 100.00%
@@ -11,4 +17,4 @@
     | 2021-133 | 2021-12-27 1900 | Angara A5/Persei | 71753 (3L)/1L     | IPN (-)           | RU | GIK-1*LC35/1 | S |
     +----------+-----------------+------------------+-------------------+-------------------+----+--------------+---+
     
-    
+

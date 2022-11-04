@@ -1,3 +1,9 @@
+---
+permalink: "/r/nuri"
+title: Nuri
+layout: default
+---
+
     Număr total de lansări Nuri: 2
     Număr de eșecuri Nuri: 1
     Rată de succes Nuri: 50.00%
@@ -11,4 +17,4 @@
     | 2022-065 | 2022-06-21 0700 | Nuri     | 2     | PVSAT (-)           | KR | NARO*LC2 | S |
     +----------+-----------------+----------+-------+---------------------+----+----------+---+
     
-    
+

@@ -1,3 +1,9 @@
+---
+permalink: "/r/simorgh"
+title: Simorgh
+layout: default
+---
+
     Număr total de lansări Simorgh: 4
     Număr de eșecuri Simorgh: 4
     Rată de succes Simorgh: 0.00%
@@ -13,4 +19,4 @@
     | 2021-F11 | 2021-12-30 0330 | Simorgh  | 6          | Test satellites (-) | IR | SEM*IKSC | F |
     +----------+-----------------+----------+------------+---------------------+----+----------+---+
     
-    
+

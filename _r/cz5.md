@@ -1,3 +1,9 @@
+---
+permalink: "/r/cz5"
+title: Chang Zheng 5
+layout: default
+---
+
     Număr total de lansări Chang Zheng 5: 9
     Număr de eșecuri Chang Zheng 5: 1
     Rată de succes Chang Zheng 5: 88.89%
@@ -18,4 +24,4 @@
     | 2022-143 | 2022-10-31 0737 | Chang Zheng 5B     | Y4    | Mengtian                            | CN | WEN*LC101 | S |
     +----------+-----------------+--------------------+-------+-------------------------------------+----+-----------+---+
     
-    
+

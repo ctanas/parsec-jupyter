@@ -1,3 +1,9 @@
+---
+permalink: "/r/minotaur"
+title: Minotaur
+layout: default
+---
+
     Număr total de lansări Minotaur: 19
     Număr de eșecuri Minotaur: 0
     Rată de succes Minotaur: 100.00%
@@ -27,4 +33,4 @@
     | 2021-052 | 2021-06-15 1335 | Minotaur I      | 12       | USA 316/317/318 (NROL-111)            | US | MARS*Pad 0B | S |
     +----------+-----------------+-----------------+----------+---------------------------------------+----+-------------+---+
     
-    
+

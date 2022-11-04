@@ -1,3 +1,9 @@
+---
+permalink: "/r/soyuz21"
+title: Soyuz-2.1
+layout: default
+---
+
     Număr total de lansări Soyuz-2.1: 123
     Număr de eșecuri Soyuz-2.1: 2
     Rată de succes Soyuz-2.1: 98.37%
@@ -132,4 +138,4 @@
     | 2022-140 | 2022-10-26 0020 | Soyuz-2.1a | S 15000-057          | Progress MS-21 (Progress 7K-TGM No. 451) | RU | GIK-5*LC31    | S |
     +----------+-----------------+------------+----------------------+------------------------------------------+----+---------------+---+
     
-    
+

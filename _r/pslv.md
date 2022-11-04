@@ -1,3 +1,9 @@
+---
+permalink: "/r/pslv"
+title: PSLV
+layout: default
+---
+
     Număr total de lansări PSLV: 55
     Număr de eșecuri PSLV: 1
     Rată de succes PSLV: 98.18%
@@ -64,4 +70,4 @@
     | 2022-072 | 2022-06-30 1232 | PSLV     | PLSV-C53 | DS-EO (DS-EO/POEM)                    | IN | SHAR*SLP | S |
     +----------+-----------------+----------+----------+---------------------------------------+----+----------+---+
     
-    
+

@@ -1,3 +1,9 @@
+---
+permalink: "/r/antares"
+title: Antares
+layout: default
+---
+
     Număr total de lansări Antares: 16
     Număr de eșecuri Antares: 1
     Rată de succes Antares: 93.75%
@@ -25,4 +31,4 @@
     | 2022-015 | 2022-02-19 1740 | Antares 230+ | 2TRS2S1.16? (16) | S.S. Piers Sellers (Cygnus NG-17)       | US | MARS*Pad 0A | S |
     +----------+-----------------+--------------+------------------+-----------------------------------------+----+-------------+---+
     
-    
+

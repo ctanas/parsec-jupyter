@@ -1,3 +1,9 @@
+---
+permalink: "/r/falconh"
+title: Falcon Heavy
+layout: default
+---
+
     Număr total de lansări Falcon Heavy: 4
     Număr de eșecuri Falcon Heavy: 0
     Rată de succes Falcon Heavy: 100.00%
@@ -12,4 +18,4 @@
     | 2022-144 | 2022-11-01 1341 | Falcon Heavy | 004   | USSF-44 (LDPE-2)  | US | KSC*LC39A | S |
     +----------+-----------------+--------------+-------+-------------------+----+-----------+---+
     
-    
+
