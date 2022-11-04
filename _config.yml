@@ -1,4 +1,4 @@
 markdown: kramdown
-theme: minima
+remote_theme: ctanas/minima
 header_pages:
  - about.md
