@@ -1,6 +1,4 @@
-
 .DS_Store
-.ipynb_checkpoints/launchdata-checkpoint.tsv
 sites.tsv
 launchdata.tsv
-.ipynb_checkpoints/notes-checkpoint.txt
+*-checkpoint.*
