@@ -21,3 +21,5 @@ header_pages:
 collections:
   r:
     output: true
+  y:
+    output: true
