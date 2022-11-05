@@ -26,6 +26,7 @@
 25 Notes
 26 Country
 27 Outcome
+28 Location (long)
 
  0 l_tot_US
  1 l_tot_RU
