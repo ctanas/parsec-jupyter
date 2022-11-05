@@ -45,5 +45,5 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 - Coreea de Nord: [Kwangmyongsong](r/kwangmyongsong)
 
 ## Secțiuni speciale
- - [Lista centrelor spațiale](/v/legenda) de unde au loc lansări orbitale (*coloana 7* din tabelul de mai sus)
- - [Notiție cu privire la misiunea Artemis-1](/v/artemis1)
+ - [Lista centrelor spațiale](v/legenda) de unde au loc lansări orbitale (*coloana 7* din tabelul de mai sus)
+ - [Notiție cu privire la misiunea Artemis-1](v/artemis1)
