@@ -4,10 +4,10 @@ title: Electron
 layout: default
 ---
 
-    Număr total de lansări Electron: 31
+    Număr total de lansări Electron: 32
     Număr de eșecuri Electron: 3
-    Rată de succes Electron: 90.32%
-    Număr de lansări reușite de la ultimul eșec: 11
+    Rată de succes Electron: 90.62%
+    Număr de lansări reușite de la ultimul eșec: 12
     
     Lista lansărilor orbitale pentru racheta Electron
     +----------+-----------------+----------+-------+-----------------------------------------------+----+------------+---+
@@ -44,6 +44,7 @@ layout: default
     | 2022-091 | 2022-08-04 0500 | Electron | 29    | Antipodean Adventure (NROL-199)               | US | MAHIA*LC1B | S |
     | 2022-113 | 2022-09-15 2038 | Electron | 30    | The Owl SpreadsIts Wings (Strix-1)            | US | MAHIA*LC1B | S |
     | 2022-127 | 2022-10-07 1709 | Electron | 31    | It Argos From Up Here (GAzelle)               | US | MAHIA*LC1B | S |
+    | 2022-147 | 2022-11-04 1727 | Electron | 32    | Catch Me If You Can (MATS)                    | US | MAHIA*LC1B | S |
     +----------+-----------------+----------+-------+-----------------------------------------------+----+------------+---+
     
 

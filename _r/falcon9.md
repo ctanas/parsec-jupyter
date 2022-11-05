@@ -4,10 +4,10 @@ title: Falcon 9
 layout: default
 ---
 
-    Număr total de lansări Falcon 9: 183
+    Număr total de lansări Falcon 9: 184
     Număr de eșecuri Falcon 9: 1
-    Rată de succes Falcon 9: 99.45%
-    Număr de lansări reușite de la ultimul eșec: 164
+    Rată de succes Falcon 9: 99.46%
+    Număr de lansări reușite de la ultimul eșec: 165
     
     Lista lansărilor orbitale pentru racheta Falcon 9
     +----------+-----------------+----------+--------------+--------------------------------------------+----+-------------+---+
@@ -196,6 +196,7 @@ layout: default
     | 2022-134 | 2022-10-15 0522 | Falcon 9 | 182/B1069.3  | Hot Bird 13F                               | US | CC*LC40     | S |
     | 2022-136 | 2022-10-20 1450 | Falcon 9 | 183/B1062.10 | Starlink-66 (Starlink Group 4-36)          | US | CC*LC40     | S |
     | 2022-141 | 2022-10-28 0114 | Falcon 9 | 184/B1063.8  | Starlink-67 (Starlink Group 4-31)          | US | VSFBS*SLC4E | S |
+    | 2022-146 | 2022-11-03 0522 | Falcon 9 | 185/B1067.7  | Hot Bird 13G                               | US | CC*LC40     | S |
     +----------+-----------------+----------+--------------+--------------------------------------------+----+-------------+---+
     
 
