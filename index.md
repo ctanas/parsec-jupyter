@@ -8,23 +8,23 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 Știrile sunt grupate în Buletine Cosmice, distribuit sub formă de [newsletter](https://buletin.parsec.ro/) sau [podcast](https://www.anchor.fm/buletin).
 
-## Ultimele lansări orbitale
+## Cele mai recente lansări orbitale
 
-    +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
-    | ID       | Dată (UTC)      | Lansator            | Serie                | Satelit (misiune)                        | Or | Centru       |
-    +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
-    | 2022-147 | 2022-11-04 1727 | Electron            | 32                   | Catch Me If You Can (MATS)               | US | MAHIA+LC1B   |
-    | 2022-146 | 2022-11-03 0522 | Falcon 9 / FT5      | 185/B1067.7          | Hot Bird 13G                             | US | CC+LC40      |
-    | 2022-145 | 2022-11-02 0647 | Soyuz 2-1B / Fregat | -            111-30x | Kosmos-2563 (Kupol No. 6)                | RU | GIK-1+LC43/4 |
-    | 2022-144 | 2022-11-01 1341 | Falcon Heavy        | 004                  | USSF-44 (LDPE-2)                         | US | KSC+LC39A    |
-    | 2022-143 | 2022-10-31 0737 | Chang Zheng 5B      | Y4                   | Mengtian                                 | CN | WEN+LC101    |
-    | 2022-142 | 2022-10-29 0101 | Chang Zheng 2D      | Y72                  | Shiyan 20C                               | CN | JQ+LC43/94   |
-    | 2022-141 | 2022-10-28 0114 | Falcon 9 / FT5      | 184/B1063.8          | Starlink-67 (Starlink Group 4-31)        | US | VSFBS+SLC4E  |
-    | 2022-140 | 2022-10-26 0020 | Soyuz-2.1a          | S 15000-057          | Progress MS-21 (Progress 7K-TGM No. 451) | RU | GIK-5+LC31   |
-    | 2022-139 | 2022-10-22 1957 | Soyuz-2.1b / Fregat | Kh15000-011/ 142-503 | Skif-D/Gonets                            | RU | VOST+PU1S    |
-    | 2022-138 | 2022-10-22 1837 | GSLV Mk. 3          | LVM3-M2              | OneWeb India-1 (OneWeb L14)              | IN | SHAR+SLP     |
-    | 2022-137 | 2022-10-21 1900 | Soyuz-2.1v / Volga  | -                    | Kosmos-2561/2562 (14F164/14F172)         | RU | GIK-1+LC43/4 |
-    +----------+-----------------+---------------------+----------------------+------------------------------------------+----+--------------+
+    +----------+-----------------+--------------------------+----------------------+------------------------------------------+----+--------------+
+    | ID       | Dată (UTC)      | Lansator                 | Serie                | Satelit (misiune)                        | Or | Centru       |
+    +----------+-----------------+--------------------------+----------------------+------------------------------------------+----+--------------+
+    | 2022-147 | 2022-11-04 1727 | [Electron](y/2002)       | 32                   | Catch Me If You Can (MATS)               | US | MAHIA+LC1B   |
+    | 2022-146 | 2022-11-03 0522 | Falcon 9 / FT5           | 185/B1067.7          | Hot Bird 13G                             | US | CC+LC40      |
+    | 2022-145 | 2022-11-02 0647 | Soyuz 2-1B / Fregat      | -            111-30x | Kosmos-2563 (Kupol No. 6)                | RU | GIK-1+LC43/4 |
+    | 2022-144 | 2022-11-01 1341 | [Falcon Heavy](y/2002)   | 004                  | USSF-44 (LDPE-2)                         | US | KSC+LC39A    |
+    | 2022-143 | 2022-10-31 0737 | [Chang Zheng 5B](y/2002) | Y4                   | Mengtian                                 | CN | WEN+LC101    |
+    | 2022-142 | 2022-10-29 0101 | [Chang Zheng 2D](y/2002) | Y72                  | Shiyan 20C                               | CN | JQ+LC43/94   |
+    | 2022-141 | 2022-10-28 0114 | Falcon 9 / FT5           | 184/B1063.8          | Starlink-67 (Starlink Group 4-31)        | US | VSFBS+SLC4E  |
+    | 2022-140 | 2022-10-26 0020 | [Soyuz-2.1a](y/2002)     | S 15000-057          | Progress MS-21 (Progress 7K-TGM No. 451) | RU | GIK-5+LC31   |
+    | 2022-139 | 2022-10-22 1957 | Soyuz-2.1b / Fregat      | Kh15000-011/ 142-503 | Skif-D/Gonets                            | RU | VOST+PU1S    |
+    | 2022-138 | 2022-10-22 1837 | [GSLV Mk. 3](y/2002)     | LVM3-M2              | OneWeb India-1 (OneWeb L14)              | IN | SHAR+SLP     |
+    | 2022-137 | 2022-10-21 1900 | Soyuz-2.1v / Volga       | -                    | Kosmos-2561/2562 (14F164/14F172)         | RU | GIK-1+LC43/4 |
+    +----------+-----------------+--------------------------+----------------------+------------------------------------------+----+--------------+
 
 
 ## Lansări orbitale:
