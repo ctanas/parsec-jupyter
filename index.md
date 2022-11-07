@@ -1,3 +1,6 @@
+    no stored variable or alias l_curr
+
+
 ---
 layout: default
 title: Home

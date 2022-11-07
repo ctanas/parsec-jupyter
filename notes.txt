@@ -61,3 +61,8 @@ plt.show()
 plt.close()
 
 jupyter nbconvert --execute --to markdown *.ipynb --no-input
+
+	i = 0
+	while i<10:
+		l_tot_country[i] = l_succ_country[i] + l_fail_country[i]
+		i+=1
