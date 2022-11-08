@@ -4,12 +4,12 @@ itle: Simorgh
 layout: default
 ---
 
-Număr total de lansări Simorgh: 4
-Număr de eșecuri Simorgh: 4
-Rată de succes Simorgh: 0.00%
+Până în prezent, racheta Simorgh a fost lansată de 4 ori.
+Dintre acestea, racheta Simorgh a avut parte de 4 eșecuri.
+Rată de succes a rachetei Simorgh este de 0.00%.
 Număr de lansări reușite de la ultimul eșec: 0
 
-Lista lansărilor orbitale pentru racheta Simorgh
+Lista lansărilor orbitale pentru racheta Simorgh:
 
 
 | ID       | Dată (UTC)      | Lansator   | Serie      | Satelit (misiune)   | Or   | Centru   | R   |

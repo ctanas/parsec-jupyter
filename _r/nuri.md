@@ -4,12 +4,12 @@ itle: Nuri
 layout: default
 ---
 
-Număr total de lansări Nuri: 2
-Număr de eșecuri Nuri: 1
-Rată de succes Nuri: 50.00%
+Până în prezent, racheta Nuri a fost lansată de 2 ori.
+Dintre acestea, racheta Nuri a avut parte de 1 eșecuri.
+Rată de succes a rachetei Nuri este de 50.00%.
 Număr de lansări reușite de la ultimul eșec: 1
 
-Lista lansărilor orbitale pentru racheta Nuri
+Lista lansărilor orbitale pentru racheta Nuri:
 
 
 | ID       | Dată (UTC)      | Lansator   |   Serie | Satelit (misiune)   | Or   | Centru   | R   |

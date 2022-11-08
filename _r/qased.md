@@ -4,11 +4,11 @@ itle: Qased
 layout: default
 ---
 
-Număr total de lansări Qased: 2
-Număr de eșecuri Qased: 0
-Rată de succes Qased: 100.00%
+Până în prezent, racheta Qased a fost lansată de 2 ori.
+Dintre acestea, racheta Qased a avut parte de 0 eșecuri.
+Rată de succes a rachetei Qased este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Qased
+Lista lansărilor orbitale pentru racheta Qased:
 
 
 | ID       | Dată (UTC)       | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru    | R   |

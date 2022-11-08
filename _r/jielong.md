@@ -4,11 +4,11 @@ itle: Jielong
 layout: default
 ---
 
-Număr total de lansări Jielong: 1
-Număr de eșecuri Jielong: 0
-Rată de succes Jielong: 100.00%
+Până în prezent, racheta Jielong a fost lansată de 1 ori.
+Dintre acestea, racheta Jielong a avut parte de 0 eșecuri.
+Rată de succes a rachetei Jielong este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Jielong
+Lista lansărilor orbitale pentru racheta Jielong:
 
 
 | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |

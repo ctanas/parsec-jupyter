@@ -4,11 +4,11 @@ itle: Minotaur
 layout: default
 ---
 
-Număr total de lansări Minotaur: 19
-Număr de eșecuri Minotaur: 0
-Rată de succes Minotaur: 100.00%
+Până în prezent, racheta Minotaur a fost lansată de 19 ori.
+Dintre acestea, racheta Minotaur a avut parte de 0 eșecuri.
+Rată de succes a rachetei Minotaur este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Minotaur
+Lista lansărilor orbitale pentru racheta Minotaur:
 
 
 | ID       | Dată (UTC)      | Lansator        | Serie    | Satelit (misiune)                     | Or   | Centru      | R   |

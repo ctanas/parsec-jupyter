@@ -4,12 +4,12 @@ itle: Proton-M
 layout: default
 ---
 
-Număr total de lansări Proton-M: 113
-Număr de eșecuri Proton-M: 5
-Rată de succes Proton-M: 95.58%
+Până în prezent, racheta Proton-M a fost lansată de 113 ori.
+Dintre acestea, racheta Proton-M a avut parte de 5 eșecuri.
+Rată de succes a rachetei Proton-M este de 95.58%.
 Număr de lansări reușite de la ultimul eșec: 23
 
-Lista lansărilor orbitale pentru racheta Proton-M
+Lista lansărilor orbitale pentru racheta Proton-M:
 
 
 | ID       | Dată (UTC)      | Lansator        | Serie        | Satelit (misiune)                        | Or   | Centru         | R   |

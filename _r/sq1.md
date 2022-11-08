@@ -4,12 +4,12 @@ itle: Shuang Quxian 1 (Hyperbola-1)
 layout: default
 ---
 
-Număr total de lansări Shuang Quxian: 4
-Număr de eșecuri Shuang Quxian: 3
-Rată de succes Shuang Quxian: 25.00%
+Până în prezent, racheta Shuang Quxian a fost lansată de 4 ori.
+Dintre acestea, racheta Shuang Quxian a avut parte de 3 eșecuri.
+Rată de succes a rachetei Shuang Quxian este de 25.00%.
 Număr de lansări reușite de la ultimul eșec: 0
 
-Lista lansărilor orbitale pentru racheta Shuang Quxian
+Lista lansărilor orbitale pentru racheta Shuang Quxian:
 
 
 | ID       | Dată (UTC)      | Lansator        | Serie   | Satelit (misiune)       | Or   | Centru      | R   |

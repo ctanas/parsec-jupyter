@@ -4,12 +4,12 @@ itle: Falcon 9
 layout: default
 ---
 
-Număr total de lansări Falcon 9: 184
-Număr de eșecuri Falcon 9: 1
-Rată de succes Falcon 9: 99.46%
+Până în prezent, racheta Falcon 9 a fost lansată de 184 ori.
+Dintre acestea, racheta Falcon 9 a avut parte de 1 eșecuri.
+Rată de succes a rachetei Falcon 9 este de 99.46%.
 Număr de lansări reușite de la ultimul eșec: 165
 
-Lista lansărilor orbitale pentru racheta Falcon 9
+Lista lansărilor orbitale pentru racheta Falcon 9:
 
 
 | ID       | Dată (UTC)      | Lansator   | Serie        | Satelit (misiune)                          | Or   | Centru      | R   |

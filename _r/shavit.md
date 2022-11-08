@@ -4,12 +4,12 @@ itle: Shavit
 layout: default
 ---
 
-Număr total de lansări Shavit: 11
-Număr de eșecuri Shavit: 2
-Rată de succes Shavit: 81.82%
+Până în prezent, racheta Shavit a fost lansată de 11 ori.
+Dintre acestea, racheta Shavit a avut parte de 2 eșecuri.
+Rată de succes a rachetei Shavit este de 81.82%.
 Număr de lansări reușite de la ultimul eșec: 5
 
-Lista lansărilor orbitale pentru racheta Shavit
+Lista lansărilor orbitale pentru racheta Shavit:
 
 
 | ID       | Dată (UTC)       | Lansator   |   Serie | Satelit (misiune)   | Or   | Centru   | R   |

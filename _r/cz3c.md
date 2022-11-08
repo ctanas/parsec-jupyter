@@ -4,11 +4,11 @@ itle: Chang Zheng 3C
 layout: default
 ---
 
-Număr total de lansări Chang Zheng 3C: 18
-Număr de eșecuri Chang Zheng 3C: 0
-Rată de succes Chang Zheng 3C: 100.00%
+Până în prezent, racheta Chang Zheng 3C a fost lansată de 18 ori.
+Dintre acestea, racheta Chang Zheng 3C a avut parte de 0 eșecuri.
+Rată de succes a rachetei Chang Zheng 3C este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Chang Zheng 3C
+Lista lansărilor orbitale pentru racheta Chang Zheng 3C:
 
 
 | ID       | Dată (UTC)      | Lansator            | Serie   | Satelit (misiune)                       | Or   | Centru   | R   |

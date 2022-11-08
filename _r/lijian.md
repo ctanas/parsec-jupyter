@@ -4,11 +4,11 @@ itle: Lijian-1
 layout: default
 ---
 
-Număr total de lansări Lijian-1: 1
-Număr de eșecuri Lijian-1: 0
-Rată de succes Lijian-1: 100.00%
+Până în prezent, racheta Lijian-1 a fost lansată de 1 ori.
+Dintre acestea, racheta Lijian-1 a avut parte de 0 eșecuri.
+Rată de succes a rachetei Lijian-1 este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Lijian-1
+Lista lansărilor orbitale pentru racheta Lijian-1:
 
 
 | ID       | Dată (UTC)   | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |

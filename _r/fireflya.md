@@ -4,12 +4,12 @@ itle: Firefly Alpha
 layout: default
 ---
 
-Număr total de lansări Firefly: 2
-Număr de eșecuri Firefly: 1
-Rată de succes Firefly: 50.00%
+Până în prezent, racheta Firefly a fost lansată de 2 ori.
+Dintre acestea, racheta Firefly a avut parte de 1 eșecuri.
+Rată de succes a rachetei Firefly este de 50.00%.
 Număr de lansări reușite de la ultimul eșec: 1
 
-Lista lansărilor orbitale pentru racheta Firefly
+Lista lansărilor orbitale pentru racheta Firefly:
 
 
 | ID       | Dată (UTC)      | Lansator      | Serie   | Satelit (misiune)   | Or   | Centru   | R   |

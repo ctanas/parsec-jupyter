@@ -4,11 +4,11 @@ itle: Chang Zheng 6
 layout: default
 ---
 
-Număr total de lansări Chang Zheng 6: 11
-Număr de eșecuri Chang Zheng 6: 0
-Rată de succes Chang Zheng 6: 100.00%
+Până în prezent, racheta Chang Zheng 6 a fost lansată de 11 ori.
+Dintre acestea, racheta Chang Zheng 6 a avut parte de 0 eșecuri.
+Rată de succes a rachetei Chang Zheng 6 este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Chang Zheng 6
+Lista lansărilor orbitale pentru racheta Chang Zheng 6:
 
 
 | ID       | Dată (UTC)      | Lansator       | Serie   | Satelit (misiune)                 | Or   | Centru    | R   |

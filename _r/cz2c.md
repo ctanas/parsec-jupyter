@@ -4,12 +4,12 @@ itle: Chang Zheng 2C
 layout: default
 ---
 
-Număr total de lansări Chang Zheng 2C: 68
-Număr de eșecuri Chang Zheng 2C: 1
-Rată de succes Chang Zheng 2C: 98.53%
+Până în prezent, racheta Chang Zheng 2C a fost lansată de 68 ori.
+Dintre acestea, racheta Chang Zheng 2C a avut parte de 1 eșecuri.
+Rată de succes a rachetei Chang Zheng 2C este de 98.53%.
 Număr de lansări reușite de la ultimul eșec: 33
 
-Lista lansărilor orbitale pentru racheta Chang Zheng 2C
+Lista lansărilor orbitale pentru racheta Chang Zheng 2C:
 
 
 | ID       | Dată (UTC)       | Lansator              | Serie        | Satelit (misiune)                      | Or   | Centru      | R   |

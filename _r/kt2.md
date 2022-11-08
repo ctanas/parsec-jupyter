@@ -4,11 +4,11 @@ itle: KT-2
 layout: default
 ---
 
-Număr total de lansări KT-2: 1
-Număr de eșecuri KT-2: 0
-Rată de succes KT-2: 100.00%
+Până în prezent, racheta KT-2 a fost lansată de 1 ori.
+Dintre acestea, racheta KT-2 a avut parte de 0 eșecuri.
+Rată de succes a rachetei KT-2 este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta KT-2
+Lista lansărilor orbitale pentru racheta KT-2:
 
 
 | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |

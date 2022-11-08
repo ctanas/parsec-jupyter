@@ -4,11 +4,11 @@ itle: Angara A5
 layout: default
 ---
 
-Număr total de lansări Angara A5: 3
-Număr de eșecuri Angara A5: 0
-Rată de succes Angara A5: 100.00%
+Până în prezent, racheta Angara A5 a fost lansată de 3 ori.
+Dintre acestea, racheta Angara A5 a avut parte de 0 eșecuri.
+Rată de succes a rachetei Angara A5 este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Angara A5
+Lista lansărilor orbitale pentru racheta Angara A5:
 
 
 | ID       | Dată (UTC)      | Lansator         | Serie             | Satelit (misiune)   | Or   | Centru       | R   |

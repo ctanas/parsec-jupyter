@@ -4,12 +4,12 @@ itle: Pegasus
 layout: default
 ---
 
-Număr total de lansări Pegasus: 45
-Număr de eșecuri Pegasus: 2
-Rată de succes Pegasus: 95.56%
+Până în prezent, racheta Pegasus a fost lansată de 45 ori.
+Dintre acestea, racheta Pegasus a avut parte de 2 eșecuri.
+Rată de succes a rachetei Pegasus este de 95.56%.
 Număr de lansări reușite de la ultimul eșec: 36
 
-Lista lansărilor orbitale pentru racheta Pegasus
+Lista lansărilor orbitale pentru racheta Pegasus:
 
 
 | ID       | Dată (UTC)      | Lansator        | Serie      | Satelit (misiune)            | Or   | Centru        | R   |

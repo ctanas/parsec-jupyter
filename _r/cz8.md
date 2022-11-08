@@ -4,11 +4,11 @@ itle: Chang Zheng 8
 layout: default
 ---
 
-Număr total de lansări Chang Zheng 8: 2
-Număr de eșecuri Chang Zheng 8: 0
-Rată de succes Chang Zheng 8: 100.00%
+Până în prezent, racheta Chang Zheng 8 a fost lansată de 2 ori.
+Dintre acestea, racheta Chang Zheng 8 a avut parte de 0 eșecuri.
+Rată de succes a rachetei Chang Zheng 8 este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Chang Zheng 8
+Lista lansărilor orbitale pentru racheta Chang Zheng 8:
 
 
 | ID       | Dată (UTC)      | Lansator      | Serie   | Satelit (misiune)    | Or   | Centru    | R   |

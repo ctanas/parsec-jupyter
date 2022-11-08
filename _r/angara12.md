@@ -4,11 +4,11 @@ itle: Angara-1.2
 layout: default
 ---
 
-Număr total de lansări Angara-1.2: 2
-Număr de eșecuri Angara-1.2: 0
-Rată de succes Angara-1.2: 100.00%
+Până în prezent, racheta Angara-1.2 a fost lansată de 2 ori.
+Dintre acestea, racheta Angara-1.2 a avut parte de 0 eșecuri.
+Rată de succes a rachetei Angara-1.2 este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Angara-1.2
+Lista lansărilor orbitale pentru racheta Angara-1.2:
 
 
 | ID       | Dată (UTC)      | Lansator   | Serie     | Satelit (misiune)      | Or   | Centru       | R   |

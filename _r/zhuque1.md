@@ -4,12 +4,12 @@ itle: Zhuque-1
 layout: default
 ---
 
-Număr total de lansări Zhuque-1: 1
-Număr de eșecuri Zhuque-1: 1
-Rată de succes Zhuque-1: 0.00%
+Până în prezent, racheta Zhuque-1 a fost lansată de 1 ori.
+Dintre acestea, racheta Zhuque-1 a avut parte de 1 eșecuri.
+Rată de succes a rachetei Zhuque-1 este de 0.00%.
 Număr de lansări reușite de la ultimul eșec: 0
 
-Lista lansărilor orbitale pentru racheta Zhuque-1
+Lista lansărilor orbitale pentru racheta Zhuque-1:
 
 
 | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru      | R   |

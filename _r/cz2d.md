@@ -4,11 +4,11 @@ itle: Chang Zheng 2D
 layout: default
 ---
 
-Număr total de lansări Chang Zheng 2D: 69
-Număr de eșecuri Chang Zheng 2D: 0
-Rată de succes Chang Zheng 2D: 100.00%
+Până în prezent, racheta Chang Zheng 2D a fost lansată de 69 ori.
+Dintre acestea, racheta Chang Zheng 2D a avut parte de 0 eșecuri.
+Rată de succes a rachetei Chang Zheng 2D este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Chang Zheng 2D
+Lista lansărilor orbitale pentru racheta Chang Zheng 2D:
 
 
 | ID       | Dată (UTC)      | Lansator            | Serie   | Satelit (misiune)                      | Or   | Centru      | R   |

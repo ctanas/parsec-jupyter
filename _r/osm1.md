@@ -4,12 +4,12 @@ itle: OS-M1
 layout: default
 ---
 
-Număr total de lansări OS-M1: 1
-Număr de eșecuri OS-M1: 1
-Rată de succes OS-M1: 0.00%
+Până în prezent, racheta OS-M1 a fost lansată de 1 ori.
+Dintre acestea, racheta OS-M1 a avut parte de 1 eșecuri.
+Rată de succes a rachetei OS-M1 este de 0.00%.
 Număr de lansări reușite de la ultimul eșec: 0
 
-Lista lansărilor orbitale pentru racheta OS-M1
+Lista lansărilor orbitale pentru racheta OS-M1:
 
 
 | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |

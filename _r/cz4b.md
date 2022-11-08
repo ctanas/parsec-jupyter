@@ -4,12 +4,12 @@ itle: Chang Zheng 4B
 layout: default
 ---
 
-Număr total de lansări Chang Zheng 4B: 46
-Număr de eșecuri Chang Zheng 4B: 1
-Rată de succes Chang Zheng 4B: 97.83%
+Până în prezent, racheta Chang Zheng 4B a fost lansată de 46 ori.
+Dintre acestea, racheta Chang Zheng 4B a avut parte de 1 eșecuri.
+Rată de succes a rachetei Chang Zheng 4B este de 97.83%.
 Număr de lansări reușite de la ultimul eșec: 26
 
-Lista lansărilor orbitale pentru racheta Chang Zheng 4B
+Lista lansărilor orbitale pentru racheta Chang Zheng 4B:
 
 
 | ID       | Dată (UTC)      | Lansator       | Serie   | Satelit (misiune)                          | Or   | Centru     | R   |

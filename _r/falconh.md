@@ -4,11 +4,11 @@ itle: Falcon Heavy
 layout: default
 ---
 
-Număr total de lansări Falcon Heavy: 4
-Număr de eșecuri Falcon Heavy: 0
-Rată de succes Falcon Heavy: 100.00%
+Până în prezent, racheta Falcon Heavy a fost lansată de 4 ori.
+Dintre acestea, racheta Falcon Heavy a avut parte de 0 eșecuri.
+Rată de succes a rachetei Falcon Heavy este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Falcon Heavy
+Lista lansărilor orbitale pentru racheta Falcon Heavy:
 
 
 | ID       | Dată (UTC)      | Lansator     |   Serie | Satelit (misiune)   | Or   | Centru    | R   |

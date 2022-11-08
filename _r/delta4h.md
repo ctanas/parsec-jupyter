@@ -4,11 +4,11 @@ itle: Delta 4 Heavy
 layout: default
 ---
 
-Număr total de lansări Delta 4 Heavy: 14
-Număr de eșecuri Delta 4 Heavy: 0
-Rată de succes Delta 4 Heavy: 100.00%
+Până în prezent, racheta Delta 4 Heavy a fost lansată de 14 ori.
+Dintre acestea, racheta Delta 4 Heavy a avut parte de 0 eșecuri.
+Rată de succes a rachetei Delta 4 Heavy este de 100.00%.
 
-Lista lansărilor orbitale pentru racheta Delta 4 Heavy
+Lista lansărilor orbitale pentru racheta Delta 4 Heavy:
 
 
 | ID       | Dată (UTC)      | Lansator                | Serie      | Satelit (misiune)                          | Or   | Centru    | R   |
