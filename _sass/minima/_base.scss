@@ -234,6 +234,10 @@ table {
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    font-family: $code-font-family;
+    font-size: 0.75em;
+    line-height: 0.8px;
+
   }
   th {
     background-color: $table-header-bg-color;

@@ -11,7 +11,7 @@ Rată de succes Jielong: 100.00%
 Lista lansărilor orbitale pentru racheta Jielong
 
 
-| ID       | Dată (UTC)       | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |
-|:---------|:-----------------|:-----------|:--------|:--------------------|:-----|:---------|:----|
-| 2019-052 | 2019 Aug 17 0411 | Jielong-1  | Y1      | QS1-01 (-)          | CN   | JQ+-     | S   |
+| ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |
+|:---------|:----------------|:-----------|:--------|:--------------------|:-----|:---------|:----|
+| 2019-052 | 2019-08-17 0411 | Jielong-1  | Y1      | QS1-01 (-)          | CN   | JQ+-     | S   |
 
