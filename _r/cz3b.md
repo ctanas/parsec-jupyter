@@ -4,10 +4,10 @@ itle: Chang Zheng 3B
 layout: default
 ---
 
-Până în prezent, racheta Chang Zheng 3B a fost lansată de 85 ori.
+Până în prezent, racheta Chang Zheng 3B a fost lansată de 86 ori.
 Dintre acestea, racheta Chang Zheng 3B a avut parte de 2 eșecuri.
-Rată de succes a rachetei Chang Zheng 3B este de 97.65%.
-Număr de lansări reușite de la ultimul eșec: 18
+Rată de succes a rachetei Chang Zheng 3B este de 97.67%.
+Număr de lansări reușite de la ultimul eșec: 19
 
 Lista lansărilor orbitale pentru racheta Chang Zheng 3B:
 
@@ -99,4 +99,5 @@ Lista lansărilor orbitale pentru racheta Chang Zheng 3B:
 | 2021-135 | 2021-12-29 1643 | Chang Zheng 3B      | Y84     | TJS 9                                     | CN   | XSC+LC2  | S   |
 | 2022-038 | 2022-04-15 1200 | Chang Zheng 3B      | Y89     | Zhongxing 6D (ZX-6D)                      | CN   | XSC+LC2  | S   |
 | 2022-078 | 2022-07-12 1630 | Chang Zheng 3B      | Y85     | Tianlian 2-03                             | CN   | XSC+LC2  | S   |
+| 2022-148 | 2022-11-05 1150 | Chang Zheng 3B      | Y91     | Zhongxing 19 (ZX-19)                      | CN   | XSC+LC2  | S   |
 

@@ -13,7 +13,7 @@ layout: default
 
 
 
-Din 1957 și până în prezent au avut loc 6311 tentative de lansări orbitale, din care 5939 lansări reușite și 372 eșecuri (încărcătura primară nu a ajuns pe orbită).
+Din 1957 și până în prezent au avut loc 6312 tentative de lansări orbitale, din care 5940 lansări reușite și 372 eșecuri (încărcătura primară nu a ajuns pe orbită).
 
 
 
@@ -28,7 +28,7 @@ Din 1957 și până în prezent au avut loc 6311 tentative de lansări orbitale,
 |:---------------|------------:|----------:|----------:|
 | SUA            |        1899 |      1761 |       138 |
 | Rusia          |        3354 |      3196 |       158 |
-| China          |         489 |       465 |        24 |
+| China          |         490 |       466 |        24 |
 | Europa         |         321 |       306 |        15 |
 | Japonia        |         126 |       116 |        10 |
 | India          |          82 |        73 |         9 |
@@ -42,7 +42,7 @@ Din 1957 și până în prezent au avut loc 6311 tentative de lansări orbitale,
 /n
 |   An |   Total |   SUA |   RU |   CN |   EU |   JP |   IN |   IR |   IL |   KP |   KR |   BR |
 |-----:|--------:|------:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|
-| 2022 |     147 |    72 |   19 |   47 |    4 |    0 |    3 |    1 |    0 |    1 |    0 |    0 |
+| 2022 |     148 |    72 |   19 |   48 |    4 |    0 |    3 |    1 |    0 |    1 |    0 |    0 |
 | 2021 |     135 |    48 |   24 |   52 |    7 |    3 |    1 |    0 |    0 |    0 |    0 |    0 |
 | 2020 |     104 |    40 |   15 |   35 |    6 |    4 |    2 |    1 |    1 |    0 |    0 |    0 |
 | 2019 |      98 |    27 |   22 |   32 |    8 |    2 |    6 |    1 |    0 |    0 |    0 |    0 |
