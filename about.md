@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+itle: About
 ---
 
 ## Despre site

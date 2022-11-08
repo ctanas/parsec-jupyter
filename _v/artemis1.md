@@ -1,11 +1,11 @@
 ---
 permalink: "/v/artemis1"
-title: Artemis-1 (notițe)
+itle: Artemis-1 (notițe)
 layout: default
 ---
 
 +++
-title = "Artemis-1"
+itle = "Artemis-1"
 author = ["Claudiu"]
 draft = false
 +++
@@ -49,14 +49,14 @@ Viitoarele misiuni Artemis:
 ## Viitoare oportunități și constrângeri pentru Artemis-1
 
 -   19 septembrie - 04 octombrie (cu excepția zilelor de 29 și 30 septembrie)
-    -   dacă lansarea are loc între 19-26 septembrie, va fi o misiune de scurtă (26-28 zile)
-    -   dacă lansarea are loc între 27 septembrie - 04 octombrie, va fi o misiune lungă (38-42 zile)
+-   dacă lansarea are loc între 19-26 septembrie, va fi o misiune de scurtă (26-28 zile)
+-   dacă lansarea are loc între 27 septembrie - 04 octombrie, va fi o misiune lungă (38-42 zile)
 -   17 octombrie - 31 octombrie (cu excepția zilelor de 24, 25, 26 și 28 octombrie)
-    -   dacă lansarea are loc între 17-23 octombrie, va fi o misiune scurtă (26-28 zile)
-    -   dacă lansarea are loc între 27-31 octombrie, va fi o misiune lungă (38-42 zile)
+-   dacă lansarea are loc între 17-23 octombrie, va fi o misiune scurtă (26-28 zile)
+-   dacă lansarea are loc între 27-31 octombrie, va fi o misiune lungă (38-42 zile)
 -   Nu pot avea loc mai mult de [3 tentative pe parcursul a 7 zile consecutive](<https://www.nasa.gov/sites/default/files/atoms/files/artemis_i_mission_availability_aug2022.pdf>) (constrângere legată de treapta primară); în plus:
-    -   trebuie să treacă cel puțin 48 de ore între tentativa 1 și 2;
-    -   trebuie să treacă cel puțin 72 de ore între tentativa 2 și 3;
+-   trebuie să treacă cel puțin 48 de ore între tentativa 1 și 2;
+-   trebuie să treacă cel puțin 72 de ore între tentativa 2 și 3;
 
 
 ## Tentative de lansare Artemis-1
@@ -97,13 +97,13 @@ _T-zero: 29 august 2022, 12:33 UTC (fereastră de 120 minute)_
 Configurația motoarelor RS-25 pentru misiunea Artemis-1:
 
 -   Motorul în poziția nr. 1: seria **2045**
-    -   12 zboruri: STS-089, STS-092, STS-095, STS-102, STS-105, STS-110, STS-113, STS-118, STS-121, STS-127, STS-131, STS-135
+-   12 zboruri: STS-089, STS-092, STS-095, STS-102, STS-105, STS-110, STS-113, STS-118, STS-121, STS-127, STS-131, STS-135
 -   Motorul în poziția nr. 2: seria **2056**
-    -   4 zboruri: STS-104, STS-109, STS-114, STS-121
+-   4 zboruri: STS-104, STS-109, STS-114, STS-121
 -   Motorul în pozția nr. 3: seria **2058**
-    -   6 zboruri: STS-116, STS-119, STS-120, STS-124, STS-129, STS-133
+-   6 zboruri: STS-116, STS-119, STS-120, STS-124, STS-129, STS-133
 -   Motorul în pozția nr. 4: seria **2060**
-    -   3 zboruri: STS-127, STS-131, STS-135
+-   3 zboruri: STS-127, STS-131, STS-135
 
 
 ### Treapta primară

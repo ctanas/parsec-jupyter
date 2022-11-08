@@ -1,24 +1,24 @@
 ---
 permalink: "/r/astra"
-title: Astra Rocket
+itle: Astra Rocket
 layout: default
 ---
 
-    Număr total de lansări Astra: 7
-    Număr de eșecuri Astra: 5
-    Rată de succes Astra: 28.57%
-    Număr de lansări reușite de la ultimul eșec: 0
-    
-    Lista lansărilor orbitale pentru racheta Astra
-    
-    
-    | ID       | Dată (UTC)       | Lansator         | Serie   | Satelit (misiune)                | Or   | Centru      | R   |
-    |:---------|:-----------------|:-----------------|:--------|:---------------------------------|:-----|:------------|:----|
-    | 2020-F07 | 2020 Sep 12 0319 | Astra Rocket 3.1 | LV0004  | Rocket 3.1 (-)                   | US   | PSCA+LP3B   | F   |
-    | 2020-F09 | 2020 Dec 15 2055 | Astra Rocket 3.2 | LV0005  | Rocket 3.2 (-)                   | US   | PSCA+LP3B   | F   |
-    | 2021-F07 | 2021 Aug 28 2235 | Astra Rocket 3.3 | LV0006  | Rocket 3.3 (STP-27AD1)           | US   | PSCA+LP3B   | F   |
-    | 2021-108 | 2021 Nov 20 0616 | Astra Rocket 3.3 | LV0007  | Rocket 3.3 (STP-27AD2)           | US   | PSCA+LP3B   | S   |
-    | 2022-F01 | 2022 Feb 10 2000 | Astra Rocket 3.3 | LV0008  | Rocket 3.3 (VCLS Demo 2)         | US   | SPFLA+SLC46 | F   |
-    | 2022-026 | 2022 Mar 15 1622 | Astra Rocket 3.3 | LV0009  | Rocket 3.3 (Spaceflight Astra 1) | US   | PSCA+LP3B   | S   |
-    | 2022-F03 | 2022 Jun 12 1743 | Astra Rocket 3.3 | LV0010  | Rocket 3.3 (TROPICS 1)           | US   | SPFLA+SLC46 | F   |
+Număr total de lansări Astra: 7
+Număr de eșecuri Astra: 5
+Rată de succes Astra: 28.57%
+Număr de lansări reușite de la ultimul eșec: 0
+
+Lista lansărilor orbitale pentru racheta Astra
+
+
+| ID       | Dată (UTC)       | Lansator         | Serie   | Satelit (misiune)                | Or   | Centru      | R   |
+|:---------|:-----------------|:-----------------|:--------|:---------------------------------|:-----|:------------|:----|
+| 2020-F07 | 2020 Sep 12 0319 | Astra Rocket 3.1 | LV0004  | Rocket 3.1 (-)                   | US   | PSCA+LP3B   | F   |
+| 2020-F09 | 2020 Dec 15 2055 | Astra Rocket 3.2 | LV0005  | Rocket 3.2 (-)                   | US   | PSCA+LP3B   | F   |
+| 2021-F07 | 2021 Aug 28 2235 | Astra Rocket 3.3 | LV0006  | Rocket 3.3 (STP-27AD1)           | US   | PSCA+LP3B   | F   |
+| 2021-108 | 2021 Nov 20 0616 | Astra Rocket 3.3 | LV0007  | Rocket 3.3 (STP-27AD2)           | US   | PSCA+LP3B   | S   |
+| 2022-F01 | 2022 Feb 10 2000 | Astra Rocket 3.3 | LV0008  | Rocket 3.3 (VCLS Demo 2)         | US   | SPFLA+SLC46 | F   |
+| 2022-026 | 2022 Mar 15 1622 | Astra Rocket 3.3 | LV0009  | Rocket 3.3 (Spaceflight Astra 1) | US   | PSCA+LP3B   | S   |
+| 2022-F03 | 2022 Jun 12 1743 | Astra Rocket 3.3 | LV0010  | Rocket 3.3 (TROPICS 1)           | US   | SPFLA+SLC46 | F   |
 
