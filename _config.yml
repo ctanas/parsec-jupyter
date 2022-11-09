@@ -13,7 +13,7 @@ social_links:
     mastodon:
     - username: superparsec
       instance: mastodon.social
-
+url: https://parsec.ro
 markdown: kramdown
 theme: minima
 header_pages:
