@@ -14,6 +14,7 @@ social_links:
     - username: superparsec
       instance: mastodon.social
 url: https://parsec.ro
+google_analytics: UA-19421559-1
 markdown: kramdown
 theme: minima
 header_pages:
