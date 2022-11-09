@@ -25,9 +25,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
     | 2022-139 | 2022-10-22 1957 | Soyuz-2.1b / Fregat | Kh15000-011/ 142-503 | Skif-D/Gonets                            | RU   | VOST+PU1S    |
 
 
-    /n
-
-
 ## Tabele cu lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);
 - [Statistici generale](y/totalorbital) privind lansările orbitale;

@@ -39,7 +39,6 @@ Din 1957 și până în prezent au avut loc 6313 tentative de lansări orbitale,
     | Brazilia       |           4 |         2 |         2 |
 
 
-    /n
     |   An |   Total |   SUA |   RU |   CN |   EU |   JP |   IN |   IR |   IL |   KP |   KR |   BR |
     |-----:|--------:|------:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|
     | 2022 |     149 |    73 |   19 |   48 |    4 |    0 |    3 |    1 |    0 |    1 |    0 |    0 |
