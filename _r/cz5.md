@@ -4,13 +4,10 @@ title: Chang Zheng 5
 layout: default
 ---
 
-    Până în prezent, racheta Chang Zheng 5 a fost lansată de 9 ori.
-    (din care 1 eșecuri.
+    Până în prezent, racheta Chang Zheng 5 a fost lansată de 9 ori (din care 1 eșecuri).
     Rată de succes a rachetei Chang Zheng 5 este de 88.89%.
     Număr de lansări reușite de la ultimul eșec: 7
-    
     Lista lansărilor orbitale pentru racheta Chang Zheng 5:
-    
     
     | ID       | Dată (UTC)      | Lansator           | Serie   | Satelit (misiune)                   | Or   | Centru    | R   |
     |:---------|:----------------|:-------------------|:--------|:------------------------------------|:-----|:----------|:----|

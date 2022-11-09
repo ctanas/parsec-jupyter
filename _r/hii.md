@@ -4,13 +4,10 @@ title: H-II
 layout: default
 ---
 
-    Până în prezent, racheta H-II a fost lansată de 61 ori.
-    (din care 2 eșecuri.
+    Până în prezent, racheta H-II a fost lansată de 61 ori (din care 2 eșecuri).
     Rată de succes a rachetei H-II este de 96.72%.
     Număr de lansări reușite de la ultimul eșec: 48
-    
     Lista lansărilor orbitale pentru racheta H-II:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie     | Satelit (misiune)                 | Or   | Centru   | R   |
     |:---------|:----------------|:-----------|:----------|:----------------------------------|:-----|:---------|:----|

@@ -4,13 +4,10 @@ title: Launcher One
 layout: default
 ---
 
-    Până în prezent, racheta LauncherOne a fost lansată de 5 ori.
-    (din care 1 eșecuri.
+    Până în prezent, racheta LauncherOne a fost lansată de 5 ori (din care 1 eșecuri).
     Rată de succes a rachetei LauncherOne este de 80.00%.
     Număr de lansări reușite de la ultimul eșec: 4
-    
     Lista lansărilor orbitale pentru racheta LauncherOne:
-    
     
     | ID       | Dată (UTC)      | Lansator    | Serie   | Satelit (misiune)            | Or   | Centru      | R   |
     |:---------|:----------------|:------------|:--------|:-----------------------------|:-----|:------------|:----|

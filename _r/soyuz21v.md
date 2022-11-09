@@ -4,12 +4,9 @@ title: Soyuz-2.1v
 layout: default
 ---
 
-    Până în prezent, racheta Soyuz-2.1v a fost lansată de 9 ori.
-    (din care 0 eșecuri.
+    Până în prezent, racheta Soyuz-2.1v a fost lansată de 9 ori (din care 0 eșecuri).
     Rată de succes a rachetei Soyuz-2.1v este de 100.00%.
-    
     Lista lansărilor orbitale pentru racheta Soyuz-2.1v:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie               | Satelit (misiune)                    | Or   | Centru        | R   |
     |:---------|:----------------|:-----------|:--------------------|:-------------------------------------|:-----|:--------------|:----|

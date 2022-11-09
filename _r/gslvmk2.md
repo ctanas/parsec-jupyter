@@ -4,13 +4,10 @@ title: GSLV Mk. 2
 layout: default
 ---
 
-    Până în prezent, racheta GSLV Mk. 2 a fost lansată de 8 ori.
-    (din care 2 eșecuri.
+    Până în prezent, racheta GSLV Mk. 2 a fost lansată de 8 ori (din care 2 eșecuri).
     Rată de succes a rachetei GSLV Mk. 2 este de 75.00%.
     Număr de lansări reușite de la ultimul eșec: 0
-    
     Lista lansărilor orbitale pentru racheta GSLV Mk. 2:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie    | Satelit (misiune)   | Or   | Centru   | R   |
     |:---------|:----------------|:-----------|:---------|:--------------------|:-----|:---------|:----|

@@ -4,13 +4,10 @@ title: SSLV
 layout: default
 ---
 
-    Până în prezent, racheta SSLV a fost lansată de 1 ori.
-    (din care 1 eșecuri.
+    Până în prezent, racheta SSLV a fost lansată de 1 ori (din care 1 eșecuri).
     Rată de succes a rachetei SSLV este de 0.00%.
     Număr de lansări reușite de la ultimul eșec: 0
-    
     Lista lansărilor orbitale pentru racheta SSLV:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |
     |:---------|:----------------|:-----------|:--------|:--------------------|:-----|:---------|:----|

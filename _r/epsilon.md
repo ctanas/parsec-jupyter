@@ -4,13 +4,10 @@ title: Epsilon
 layout: default
 ---
 
-    Până în prezent, racheta Epsilon a fost lansată de 6 ori.
-    (din care 1 eșecuri.
+    Până în prezent, racheta Epsilon a fost lansată de 6 ori (din care 1 eșecuri).
     Rată de succes a rachetei Epsilon este de 83.33%.
     Număr de lansări reușite de la ultimul eșec: 0
-    
     Lista lansărilor orbitale pentru racheta Epsilon:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)   | Or   | Centru   | R   |
     |:---------|:----------------|:-----------|:--------|:--------------------|:-----|:---------|:----|

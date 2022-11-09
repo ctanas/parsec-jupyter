@@ -161,7 +161,8 @@ blockquote {
 pre,
 code {
   font-family: $code-font-family;
-  font-size: 0.9375em;
+//  font-size: 0.9375em;
+    font-size: 0.9em;
   background-color: $background-color;
 }
 

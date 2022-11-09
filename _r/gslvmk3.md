@@ -4,12 +4,9 @@ title: GLSV Mk. 3
 layout: default
 ---
 
-    Până în prezent, racheta GSLV Mk. 3 a fost lansată de 4 ori.
-    (din care 0 eșecuri.
+    Până în prezent, racheta GSLV Mk. 3 a fost lansată de 4 ori (din care 0 eșecuri).
     Rată de succes a rachetei GSLV Mk. 3 este de 100.00%.
-    
     Lista lansărilor orbitale pentru racheta GSLV Mk. 3:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)           | Or   | Centru   | R   |
     |:---------|:----------------|:-----------|:--------|:----------------------------|:-----|:---------|:----|

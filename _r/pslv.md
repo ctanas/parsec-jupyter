@@ -4,13 +4,10 @@ title: PSLV
 layout: default
 ---
 
-    Până în prezent, racheta PSLV a fost lansată de 55 ori.
-    (din care 1 eșecuri.
+    Până în prezent, racheta PSLV a fost lansată de 55 ori (din care 1 eșecuri).
     Rată de succes a rachetei PSLV este de 98.18%.
     Număr de lansări reușite de la ultimul eșec: 54
-    
     Lista lansărilor orbitale pentru racheta PSLV:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie    | Satelit (misiune)                     | Or   | Centru   | R   |
     |:---------|:----------------|:-----------|:---------|:--------------------------------------|:-----|:---------|:----|

@@ -4,13 +4,10 @@ title: Safir
 layout: default
 ---
 
-    Până în prezent, racheta Safir a fost lansată de 9 ori.
-    (din care 4 eșecuri.
+    Până în prezent, racheta Safir a fost lansată de 9 ori (din care 4 eșecuri).
     Rată de succes a rachetei Safir este de 55.56%.
     Număr de lansări reușite de la ultimul eșec: 1
-    
     Lista lansărilor orbitale pentru racheta Safir:
-    
     
     | ID       | Dată (UTC)       | Lansator   | Serie    | Satelit (misiune)   | Or   | Centru   | R   |
     |:---------|:-----------------|:-----------|:---------|:--------------------|:-----|:---------|:----|

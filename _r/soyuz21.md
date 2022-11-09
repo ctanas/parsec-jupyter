@@ -4,13 +4,10 @@ title: Soyuz-2.1
 layout: default
 ---
 
-    Până în prezent, racheta Soyuz-2.1 a fost lansată de 123 ori.
-    (din care 2 eșecuri.
+    Până în prezent, racheta Soyuz-2.1 a fost lansată de 123 ori (din care 2 eșecuri).
     Rată de succes a rachetei Soyuz-2.1 este de 98.37%.
     Număr de lansări reușite de la ultimul eșec: 70
-    
     Lista lansărilor orbitale pentru racheta Soyuz-2.1:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie                | Satelit (misiune)                        | Or   | Centru        | R   |
     |:---------|:----------------|:-----------|:---------------------|:-----------------------------------------|:-----|:--------------|:----|

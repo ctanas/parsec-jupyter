@@ -4,13 +4,10 @@ title: Kuaizhou-1A
 layout: default
 ---
 
-    Până în prezent, racheta Kuaizhou-1A a fost lansată de 18 ori.
-    (din care 2 eșecuri.
+    Până în prezent, racheta Kuaizhou-1A a fost lansată de 18 ori (din care 2 eșecuri).
     Rată de succes a rachetei Kuaizhou-1A este de 88.89%.
     Număr de lansări reușite de la ultimul eșec: 4
-    
     Lista lansărilor orbitale pentru racheta Kuaizhou-1A:
-    
     
     | ID       | Dată (UTC)      | Lansator    | Serie   | Satelit (misiune)           | Or   | Centru       | R   |
     |:---------|:----------------|:------------|:--------|:----------------------------|:-----|:-------------|:----|

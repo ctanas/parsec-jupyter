@@ -4,13 +4,10 @@ title: Vega
 layout: default
 ---
 
-    Până în prezent, racheta Vega a fost lansată de 19 ori.
-    (din care 1 eșecuri.
+    Până în prezent, racheta Vega a fost lansată de 19 ori (din care 1 eșecuri).
     Rată de succes a rachetei Vega este de 94.74%.
     Număr de lansări reușite de la ultimul eșec: 5
-    
     Lista lansărilor orbitale pentru racheta Vega:
-    
     
     | ID       | Dată (UTC)      | Lansator   | Serie   | Satelit (misiune)                         | Or   | Centru   | R   |
     |:---------|:----------------|:-----------|:--------|:------------------------------------------|:-----|:---------|:----|

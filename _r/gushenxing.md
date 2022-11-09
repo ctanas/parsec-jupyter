@@ -4,12 +4,9 @@ title: Gushenxing 1 (Ceres-1)
 layout: default
 ---
 
-    Până în prezent, racheta Gushenxing a fost lansată de 3 ori.
-    (din care 0 eșecuri.
+    Până în prezent, racheta Gushenxing a fost lansată de 3 ori (din care 0 eșecuri).
     Rată de succes a rachetei Gushenxing este de 100.00%.
-    
     Lista lansărilor orbitale pentru racheta Gushenxing:
-    
     
     | ID       | Dată (UTC)      | Lansator     | Serie   | Satelit (misiune)                        | Or   | Centru      | R   |
     |:---------|:----------------|:-------------|:--------|:-----------------------------------------|:-----|:------------|:----|

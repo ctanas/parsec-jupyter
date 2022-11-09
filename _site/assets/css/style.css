@@ -167,7 +167,7 @@ blockquote > :last-child { margin-bottom: 0; }
 blockquote i, blockquote em { font-style: normal; }
 
 /** Code formatting */
-pre, code { font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace; font-size: 0.9375em; background-color: #fdfdfd; }
+pre, code { font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace; font-size: 0.9em; background-color: #fdfdfd; }
 
 /** Wrapper */
 .wrapper { max-width: calc(60% - (30px)); margin-right: auto; margin-left: auto; padding-right: 15px; padding-left: 15px; }
@@ -185,11 +185,11 @@ pre, code { font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubu
 .svg-icon { width: 1.25em; height: 1.25em; display: inline-block; fill: currentColor; vertical-align: text-bottom; }
 
 /** Tables */
-table { margin-bottom: 30px; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; overflow-x: auto; }
+table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; overflow-x: auto; }
 
 table tr:nth-child(even) { background-color: #f7f7f7; }
 
-table th, table td { padding: 10px 15px; font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace; font-size: 0.7em; line-height: 1px; }
+table th, table td { padding: 10px 15px; font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace; font-size: 0.7em; line-height: 1.2px; }
 
 table th { background-color: #f0f0f0; border: 1px solid #e0e0e0; }
 

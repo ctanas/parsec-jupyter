@@ -4,13 +4,10 @@ title: Ariane 5
 layout: default
 ---
 
-    Până în prezent, racheta Ariane 5 a fost lansată de 114 ori.
-    (din care 2 eșecuri.
+    Până în prezent, racheta Ariane 5 a fost lansată de 114 ori (din care 2 eșecuri).
     Rată de succes a rachetei Ariane 5 este de 98.25%.
     Număr de lansări reușite de la ultimul eșec: 100
-    
     Lista lansărilor orbitale pentru racheta Ariane 5:
-    
     
     | ID       | Dată (UTC)      | Lansator       | Serie         | Satelit (misiune)                              | Or   | Centru   | R   |
     |:---------|:----------------|:---------------|:--------------|:-----------------------------------------------|:-----|:---------|:----|

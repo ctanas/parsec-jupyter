@@ -4,13 +4,10 @@ title: Chang Zheng 7
 layout: default
 ---
 
-    Până în prezent, racheta Chang Zheng 7 a fost lansată de 9 ori.
-    (din care 1 eșecuri.
+    Până în prezent, racheta Chang Zheng 7 a fost lansată de 9 ori (din care 1 eșecuri).
     Rată de succes a rachetei Chang Zheng 7 este de 88.89%.
     Număr de lansări reușite de la ultimul eșec: 6
-    
     Lista lansărilor orbitale pentru racheta Chang Zheng 7:
-    
     
     | ID       | Dată (UTC)      | Lansator            | Serie   | Satelit (misiune)             | Or   | Centru    | R   |
     |:---------|:----------------|:--------------------|:--------|:------------------------------|:-----|:----------|:----|

@@ -4,13 +4,10 @@ title: Chang Zheng 4C
 layout: default
 ---
 
-    Până în prezent, racheta Chang Zheng 4C a fost lansată de 45 ori.
-    (din care 2 eșecuri.
+    Până în prezent, racheta Chang Zheng 4C a fost lansată de 45 ori (din care 2 eșecuri).
     Rată de succes a rachetei Chang Zheng 4C este de 95.56%.
     Număr de lansări reușite de la ultimul eșec: 19
-    
     Lista lansărilor orbitale pentru racheta Chang Zheng 4C:
-    
     
     | ID       | Dată (UTC)      | Lansator       | Serie   | Satelit (misiune)                    | Or   | Centru      | R   |
     |:---------|:----------------|:---------------|:--------|:-------------------------------------|:-----|:------------|:----|
