@@ -44,6 +44,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Material diverse
 - [Lista centrelor spațiale](v/legenda) de unde au loc lansări orbitale --*coloana 7* din tabelul de mai sus;
-- [Notițe cu privire la misiunea Artemis-1](v/artemis1);
-- [Lista lansărilor Starlink](v/starlink);
+- [Notiție cu privire la misiunea Artemis-1](v/artemis1);
+- [Lista lansări Starlink](v/starlink);
 - [Despre site, pe scurt](/about).

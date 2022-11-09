@@ -222,11 +222,12 @@ code {
  */
 table {
   margin-bottom: $spacing-unit;
-//  width: 100%;
+  //width: 100%;
   text-align: $table-text-align;
   color: $table-text-color;
   border-collapse: collapse;
   border: 1px solid $table-border-color;
+  overflow-x: auto;
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
@@ -236,7 +237,7 @@ table {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
     font-family: $code-font-family;
     font-size: 0.7em;
-    line-height: 0.8px;
+    line-height: 1px;
 
   }
   th {
