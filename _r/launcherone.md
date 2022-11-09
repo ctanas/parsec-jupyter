@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta LauncherOne a fost lansată de 5 ori.
-Dintre acestea, racheta LauncherOne a avut parte de 1 eșecuri.
+(din care 1 eșecuri.
 Rată de succes a rachetei LauncherOne este de 80.00%.
 Număr de lansări reușite de la ultimul eșec: 4
 

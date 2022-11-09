@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Atlas V a fost lansată de 96 ori.
-Dintre acestea, racheta Atlas V a avut parte de 0 eșecuri.
+(din care 0 eșecuri.
 Rată de succes a rachetei Atlas V este de 100.00%.
 
 Lista lansărilor orbitale pentru racheta Atlas V:

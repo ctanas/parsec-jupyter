@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Astra a fost lansată de 7 ori.
-Dintre acestea, racheta Astra a avut parte de 5 eșecuri.
+(din care 5 eșecuri.
 Rată de succes a rachetei Astra este de 28.57%.
 Număr de lansări reușite de la ultimul eșec: 0
 

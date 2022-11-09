@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Zhuque-1 a fost lansată de 1 ori.
-Dintre acestea, racheta Zhuque-1 a avut parte de 1 eșecuri.
+(din care 1 eșecuri.
 Rată de succes a rachetei Zhuque-1 este de 0.00%.
 Număr de lansări reușite de la ultimul eșec: 0
 

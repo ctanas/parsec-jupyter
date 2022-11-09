@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Firefly a fost lansată de 2 ori.
-Dintre acestea, racheta Firefly a avut parte de 1 eșecuri.
+(din care 1 eșecuri.
 Rată de succes a rachetei Firefly este de 50.00%.
 Număr de lansări reușite de la ultimul eșec: 1
 

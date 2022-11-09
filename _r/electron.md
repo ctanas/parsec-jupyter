@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Electron a fost lansată de 32 ori.
-Dintre acestea, racheta Electron a avut parte de 3 eșecuri.
+(din care 3 eșecuri.
 Rată de succes a rachetei Electron este de 90.62%.
 Număr de lansări reușite de la ultimul eșec: 12
 

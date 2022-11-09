@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Delta 4M a fost lansată de 29 ori.
-Dintre acestea, racheta Delta 4M a avut parte de 0 eșecuri.
+(din care 0 eșecuri.
 Rată de succes a rachetei Delta 4M este de 100.00%.
 
 Lista lansărilor orbitale pentru racheta Delta 4M:

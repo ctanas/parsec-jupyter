@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Shuang Quxian a fost lansată de 4 ori.
-Dintre acestea, racheta Shuang Quxian a avut parte de 3 eșecuri.
+(din care 3 eșecuri.
 Rată de succes a rachetei Shuang Quxian este de 25.00%.
 Număr de lansări reușite de la ultimul eșec: 0
 

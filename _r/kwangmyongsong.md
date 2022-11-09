@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Kwangmyongsong a fost lansată de 1 ori.
-Dintre acestea, racheta Kwangmyongsong a avut parte de 0 eșecuri.
+(din care 0 eșecuri.
 Rată de succes a rachetei Kwangmyongsong este de 100.00%.
 
 Lista lansărilor orbitale pentru racheta Kwangmyongsong:

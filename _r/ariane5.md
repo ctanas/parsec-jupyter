@@ -5,7 +5,7 @@ layout: default
 ---
 
 Până în prezent, racheta Ariane 5 a fost lansată de 114 ori.
-Dintre acestea, racheta Ariane 5 a avut parte de 2 eșecuri.
+(din care 2 eșecuri.
 Rată de succes a rachetei Ariane 5 este de 98.25%.
 Număr de lansări reușite de la ultimul eșec: 100
 

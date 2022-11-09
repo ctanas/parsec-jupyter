@@ -4,10 +4,10 @@ itle: Antares
 layout: default
 ---
 
-Până în prezent, racheta Antares a fost lansată de 16 ori.
-Dintre acestea, racheta Antares a avut parte de 1 eșecuri.
-Rată de succes a rachetei Antares este de 93.75%.
-Număr de lansări reușite de la ultimul eșec: 11
+Până în prezent, racheta Antares a fost lansată de 17 ori.
+(din care 1 eșecuri.
+Rată de succes a rachetei Antares este de 94.12%.
+Număr de lansări reușite de la ultimul eșec: 12
 
 Lista lansărilor orbitale pentru racheta Antares:
 
@@ -30,4 +30,5 @@ Lista lansărilor orbitale pentru racheta Antares:
 | 2021-013 | 2021-02-20 1736 | Antares 230+ | 2TRS2S1.14? (14) | S.S. Katherine Johnson (Cygnus NG-15)   | US   | MARS+Pad 0A | S   |
 | 2021-072 | 2021-08-10 2201 | Antares 230+ | 2TRS2S1.15? (15) | S.S. Ellison Onizuka (Cygnus NG-16)     | US   | MARS+Pad 0A | S   |
 | 2022-015 | 2022-02-19 1740 | Antares 230+ | 2TRS2S1.16? (16) | S.S. Piers Sellers (Cygnus NG-17)       | US   | MARS+Pad 0A | S   |
+| 2022-149 | 2022-11-07 1032 | Antares 230+ | 2TRS2S1.17? (17) | S.S. Sally Ride (Cygnus NG-18)          | US   | MARS+Pad 0A | S   |
 
