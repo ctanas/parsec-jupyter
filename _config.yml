@@ -13,12 +13,18 @@ social_links:
     mastodon:
     - username: superparsec
       instance: mastodon.social
+
 url: https://parsec.ro
+
 google_analytics: UA-19421559-1
+
 markdown: kramdown
+
 theme: minima
+
 header_pages:
- - about.md
+  - _pages/about.md
+
 collections:
   r:
     output: true
