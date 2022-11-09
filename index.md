@@ -1,6 +1,6 @@
 ---
 layout: default
-itle: Home
+title: Home
 ---
 
 # Rachete, astronauți și sonde interplanetare
@@ -10,19 +10,19 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Cele mai recente lansări orbitale
 
-| ID       | Dată (UTC)      | Lansator            | Serie                | Satelit (misiune)                        | Or   | Centru       |
-|:---------|:----------------|:--------------------|:---------------------|:-----------------------------------------|:-----|:-------------|
-| 2022-149 | 2022-11-07 1032 | Antares 230+        | 2TRS2S1.17? (17)     | S.S. Sally Ride (Cygnus NG-18)           | US   | MARS+Pad 0A  |
-| 2022-148 | 2022-11-05 1150 | Chang Zheng 3B      | Y91                  | Zhongxing 19 (ZX-19)                     | CN   | XSC+LC2      |
-| 2022-147 | 2022-11-04 1727 | Electron            | 32                   | Catch Me If You Can (MATS)               | US   | MAHIA+LC1B   |
-| 2022-146 | 2022-11-03 0522 | Falcon 9 / FT5      | 185/B1067.7          | Hot Bird 13G                             | US   | CC+LC40      |
-| 2022-145 | 2022-11-02 0647 | Soyuz 2-1B / Fregat | -            111-30x | Kosmos-2563 (Kupol No. 6)                | RU   | GIK-1+LC43/4 |
-| 2022-144 | 2022-11-01 1341 | Falcon Heavy        | 004                  | USSF-44 (LDPE-2)                         | US   | KSC+LC39A    |
-| 2022-143 | 2022-10-31 0737 | Chang Zheng 5B      | Y4                   | Mengtian                                 | CN   | WEN+LC101    |
-| 2022-142 | 2022-10-29 0101 | Chang Zheng 2D      | Y72                  | Shiyan 20C                               | CN   | JQ+LC43/94   |
-| 2022-141 | 2022-10-28 0114 | Falcon 9 / FT5      | 184/B1063.8          | Starlink-67 (Starlink Group 4-31)        | US   | VSFBS+SLC4E  |
-| 2022-140 | 2022-10-26 0020 | Soyuz-2.1a          | S 15000-057          | Progress MS-21 (Progress 7K-TGM No. 451) | RU   | GIK-5+LC31   |
-| 2022-139 | 2022-10-22 1957 | Soyuz-2.1b / Fregat | Kh15000-011/ 142-503 | Skif-D/Gonets                            | RU   | VOST+PU1S    |
+    | ID       | Dată (UTC)      | Lansator            | Serie                | Satelit (misiune)                        | Or   | Centru       |
+    |:---------|:----------------|:--------------------|:---------------------|:-----------------------------------------|:-----|:-------------|
+    | 2022-149 | 2022-11-07 1032 | Antares 230+        | 2TRS2S1.17? (17)     | S.S. Sally Ride (Cygnus NG-18)           | US   | MARS+Pad 0A  |
+    | 2022-148 | 2022-11-05 1150 | Chang Zheng 3B      | Y91                  | Zhongxing 19 (ZX-19)                     | CN   | XSC+LC2      |
+    | 2022-147 | 2022-11-04 1727 | Electron            | 32                   | Catch Me If You Can (MATS)               | US   | MAHIA+LC1B   |
+    | 2022-146 | 2022-11-03 0522 | Falcon 9 / FT5      | 185/B1067.7          | Hot Bird 13G                             | US   | CC+LC40      |
+    | 2022-145 | 2022-11-02 0647 | Soyuz 2-1B / Fregat | -            111-30x | Kosmos-2563 (Kupol No. 6)                | RU   | GIK-1+LC43/4 |
+    | 2022-144 | 2022-11-01 1341 | Falcon Heavy        | 004                  | USSF-44 (LDPE-2)                         | US   | KSC+LC39A    |
+    | 2022-143 | 2022-10-31 0737 | Chang Zheng 5B      | Y4                   | Mengtian                                 | CN   | WEN+LC101    |
+    | 2022-142 | 2022-10-29 0101 | Chang Zheng 2D      | Y72                  | Shiyan 20C                               | CN   | JQ+LC43/94   |
+    | 2022-141 | 2022-10-28 0114 | Falcon 9 / FT5      | 184/B1063.8          | Starlink-67 (Starlink Group 4-31)        | US   | VSFBS+SLC4E  |
+    | 2022-140 | 2022-10-26 0020 | Soyuz-2.1a          | S 15000-057          | Progress MS-21 (Progress 7K-TGM No. 451) | RU   | GIK-5+LC31   |
+    | 2022-139 | 2022-10-22 1957 | Soyuz-2.1b / Fregat | Kh15000-011/ 142-503 | Skif-D/Gonets                            | RU   | VOST+PU1S    |
 
 
 ## Tabele cu lansări orbitale:
@@ -43,7 +43,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 - Coreea de Nord: [Kwangmyongsong](r/kwangmyongsong).
 
 ## Material diverse
-- [Lista centrelor spațiale](v/legenda) de unde au loc lansări orbitale --*coloana 7* din tabelul de mai sus;
-- [Notiție cu privire la misiunea Artemis-1](v/artemis1);
-- [Lista lansări Starlink](v/starlink);
-- [Despre site, pe scurt](/about).
+ - [Lista centrelor spațiale](v/legenda) de unde au loc lansări orbitale --*coloana 7* din tabelul de mai sus;
+ - [Notiție cu privire la misiunea Artemis-1](v/artemis1);
+ - [Lista lansări Starlink](v/starlink);
+ - [Despre site, pe scurt](/about).
