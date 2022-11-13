@@ -4,7 +4,7 @@ title: Lansări Starlink
 layout: default
 ---
 
-    Până la data 2022-11-09, au ajut loc 65 lansări Starlink
+    Până la data 2022-11-13, au ajut loc 65 lansări Starlink
     
     | ID       | Dată (UTC)      | Lansator       | Serie        | Satelit (misiune)                      | Centru      |
     |:---------|:----------------|:---------------|:-------------|:---------------------------------------|:------------|

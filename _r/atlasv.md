@@ -4,7 +4,7 @@ title: Atlas V
 layout: default
 ---
 
-    Până în prezent, racheta Atlas V a fost lansată de 96 ori (din care 0 eșecuri).
+    Până în prezent, racheta Atlas V a fost lansată de 97 ori (din care 0 eșecuri).
     Rată de succes a rachetei Atlas V este de 100.00%.
     Lista lansărilor orbitale pentru racheta Atlas V:
     
@@ -106,4 +106,5 @@ layout: default
     | 2022-073 | 2022-07-01 2315  | Atlas V 541 | AV-094  | USSF-12 (WFOV)                                | US   | CC+SLC41    | S   |
     | 2022-092 | 2022-08-04 1029  | Atlas V 421 | AV-097  | SBIRS GEO-6                                   | US   | CC+SLC41    | S   |
     | 2022-123 | 2022-10-04 2136  | Atlas V 531 | AV-099  | SES-20/SES-21                                 | US   | CC+SLC41    | S   |
+    | 2022-150 | 2022-11-10 0949  | Atlas V 401 | AV-098  | JPSS-2/LOFTID                                 | US   | VSFBS+SLC3E | S   |
 

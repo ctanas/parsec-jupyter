@@ -4,7 +4,7 @@ title: Chang Zheng 6
 layout: default
 ---
 
-    Până în prezent, racheta Chang Zheng 6 a fost lansată de 11 ori (din care 0 eșecuri).
+    Până în prezent, racheta Chang Zheng 6 a fost lansată de 12 ori (din care 0 eșecuri).
     Rată de succes a rachetei Chang Zheng 6 este de 100.00%.
     Lista lansărilor orbitale pentru racheta Chang Zheng 6:
     
@@ -21,4 +21,5 @@ layout: default
     | 2022-031 | 2022-03-29 0950 | Chang Zheng 6A | Y1      | TK-2/PJ-2                         | CN   | TYSC+LC9A | S   |
     | 2022-098 | 2022-08-10 0450 | Chang Zheng 6  | Y10     | Jilin-1                           | CN   | TYSC+LC9  | S   |
     | 2022-121 | 2022-09-26 2350 | Chang Zheng 6  | Y9      | Shiyan 16AB/17                    | CN   | TYSC+LC16 | S   |
+    | 2022-151 | 2022-11-11 2252 | Chang Zheng 6A | Y2      | Yunhai-3                          | CN   | TYSC+LC9A | S   |
 
