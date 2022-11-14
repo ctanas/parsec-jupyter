@@ -1,6 +1,6 @@
 ---
 layout: default
-itle: Home
+title: Home
 ---
 
 ## Rachete, astronauți și sonde interplanetare
