@@ -2,7 +2,6 @@ author = "Claudiu"
 baseurl = "/"
 canonifyurls = true
 languageCode = "ro"
-copyright = "Copyright ©2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 12
 theme = "alageek"
 title = "parsec.ro"
@@ -26,6 +25,7 @@ facebook = "claudiu.tanaselia"
 instagram = "parsec.ro"
 twitter = "superparsec"
 email = "contact@parsec.ro"
+mastodon = "https://mastodon.social/@superparsec"
 
 [[menu.primary]]
 identifier = "arhiva"
