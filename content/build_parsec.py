@@ -150,8 +150,10 @@ def update_PADS():
 		print ("No old PADS found, fetched latest version from date",url_date)
 
 # Download files if they are not present in current directory
-if not os.path.isfile(FILE_DATA): update_GCAT()
-if not os.path.isfile(FILE_PADS): update_PADS()
+#if not os.path.isfile(FILE_DATA): update_GCAT()
+#if not os.path.isfile(FILE_PADS): update_PADS()
+update_GCAT()
+update_PADS()
 
 print('Loading data...')
 
