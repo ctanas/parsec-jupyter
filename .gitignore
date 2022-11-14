@@ -3,3 +3,4 @@ sites.tsv
 launchdata.tsv
 *-checkpoint.*
 Gemfile.lock
+deploy.sh
