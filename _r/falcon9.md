@@ -4,9 +4,9 @@ title: Falcon 9
 layout: default
 ---
 
-    Până în prezent, racheta Falcon 9 a fost lansată de 184 ori (din care 1 eșecuri).
+    Până în prezent, racheta Falcon 9 a fost lansată de 185 ori (din care 1 eșecuri).
     Rată de succes a rachetei Falcon 9 este de 99.46%.
-    Număr de lansări reușite de la ultimul eșec: 165
+    Număr de lansări reușite de la ultimul eșec: 166
     Lista lansărilor orbitale pentru racheta Falcon 9:
     
     | ID       | Dată (UTC)      | Lansator   | Serie        | Satelit (misiune)                          | Or   | Centru      | R   |
@@ -60,7 +60,7 @@ layout: default
     | 2017-083 | 2017-12-23 0127 | Falcon 9   | 047/B1036.2  | Iridium-4 (Iridium Next SV31-40)           | US   | VS+SLC4E    | S   |
     | 2018-001 | 2018-01-08 0100 | Falcon 9   | 048/B1043    | Zuma                                       | US   | CC+LC40     | S   |
     | 2018-013 | 2018-01-31 2125 | Falcon 9   | 049/B1032.2  | GovSat-1                                   | US   | CC+LC40     | S   |
-    | 2018-020 | 2018-02-22 1417 | Falcon 9   | 050/B1038.2  | PAZ (PAZ/SpaceX Demo)                      | US   | VS+SLC4E    | S   |
+    | 2018-020 | 2018-02-22 1417 | Falcon 9   | 050/B1038.2  | PAZ (Tintin Prototypes)                    | US   | VS+SLC4E    | S   |
     | 2018-023 | 2018-03-06 0533 | Falcon 9   | 051/B1044    | Hispasat 30W-6                             | US   | CC+LC40     | S   |
     | 2018-030 | 2018-03-30 1413 | Falcon 9   | 052/B1041.2  | Iridium-5 (Iridium Next SV41-50)           | US   | VS+SLC4E    | S   |
     | 2018-032 | 2018-04-02 2030 | Falcon 9   | 053/B1039.2  | Dragon CRS-14 (Dragon C110.2)              | US   | CC+LC40     | S   |
@@ -195,4 +195,5 @@ layout: default
     | 2022-136 | 2022-10-20 1450 | Falcon 9   | 183/B1062.10 | Starlink-66 (Starlink Group 4-36)          | US   | CC+LC40     | S   |
     | 2022-141 | 2022-10-28 0114 | Falcon 9   | 184/B1063.8  | Starlink-67 (Starlink Group 4-31)          | US   | VSFBS+SLC4E | S   |
     | 2022-146 | 2022-11-03 0522 | Falcon 9   | 185/B1067.7  | Hot Bird 13G                               | US   | CC+LC40     | S   |
+    | 2022-153 | 2022-11-12 1606 | Falcon 9   | 186/B1051.14 | Galaxy 31/32                               | US   | CC+LC40     | S   |
 
