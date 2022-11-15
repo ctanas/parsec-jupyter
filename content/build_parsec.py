@@ -217,11 +217,13 @@ dict_Site = dict(zip(pads.Site, pads.StateCode))
 df['Country'] = df['Launch_Site'].map(dict_Site)
 
 # adding 'Outcome' column, based on Launch_Tag
-def check_outcome(row):  
-    if '-F' in row['Launch_Tag']:
-        return 'F'
-    return 'S'
-df['Outcome'] = df.apply(lambda row: check_outcome(row), axis=1)
+# def check_outcome(row):  
+#    if '-F' in row['Launch_Tag']:
+#        return 'F'
+#    return 'S'
+#df['Outcome'] = df.apply(lambda row: check_outcome(row), axis=1)
+
+df['Outcome'] = df['Launch_Tag'].map(lambda x: 'F' if 'F' in x else 'S')
 
 # Code to be optimized below this line:
 #--------------------------------------
