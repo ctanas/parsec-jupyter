@@ -4,10 +4,10 @@ title: Chang Zheng 4C
 layout: default
 ---
 
-Până în prezent, racheta Chang Zheng 4C a fost lansată de 45 ori (din care 2 eșecuri).
+Până în prezent, racheta Chang Zheng 4C a fost lansată de 46 ori (din care 2 eșecuri).
 
-Rată de succes a rachetei Chang Zheng 4C este de 95.56%.
-Număr de lansări reușite de la ultimul eșec: 19
+Rată de succes a rachetei Chang Zheng 4C este de 95.65%.
+Număr de lansări reușite de la ultimul eșec: 20
 
 
 Lista lansărilor orbitale pentru racheta Chang Zheng 4C:
@@ -58,3 +58,4 @@ Lista lansărilor orbitale pentru racheta Chang Zheng 4C:
 | 2022-039 | 2022-04-15 1816 | Chang Zheng 4C | Y28     | Daqi Huanjing Jiance (DQHJJW)        | CN   | TYSC+LC9    | S   |
 | 2022-069 | 2022-06-27 1546 | Chang Zheng 4C | Y41     | Gao Fen 12-03                        | CN   | JQ+LC43/94  | S   |
 | 2022-106 | 2022-09-02 2344 | Chang Zheng 4C | Y52     | YG-33 02 (Yaogan 33 02)              | CN   | JQ+LC43/94  | S   |
+| 2022-154 | 2022-11-15 0138 | Chang Zheng 4C | Y48     | Yaogan 34-03                         | CN   | JQ+LC43/94  | S   |
