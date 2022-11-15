@@ -10,19 +10,19 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Cele mai recente lansări orbitale
 
-| ID       | Dată (UTC)      | Lansator            | Serie                | Satelit (misiune)              | Or   | Centru       | R   |
-|:---------|:----------------|:--------------------|:---------------------|:-------------------------------|:-----|:-------------|:----|
-| 2022-154 | 2022-11-15 0138 | Chang Zheng 4C      | Y48                  | Yaogan 34-03                   | CN   | JQ+LC43/94   | S   |
-| 2022-153 | 2022-11-12 1606 | Falcon 9 / FT5      | 186/B1051.14         | Galaxy 31/32                   | US   | CC+LC40      | F   |
-| 2022-152 | 2022-11-12 0203 | Chang Zheng 7       | Y6                   | Tianzhou-5                     | CN   | WEN+LC201    | S   |
-| 2022-151 | 2022-11-11 2252 | Chang Zheng 6A      | Y2                   | Yunhai-3                       | CN   | TYSC+LC9A    | F   |
-| 2022-150 | 2022-11-10 0949 | Atlas V 401         | AV-098               | JPSS-2/LOFTID                  | US   | VSFBS+SLC3E  | F   |
-| 2022-149 | 2022-11-07 1032 | Antares 230+        | 2TRS2S1.17? (17)     | S.S. Sally Ride (Cygnus NG-18) | US   | MARS+Pad 0A  | S   |
-| 2022-148 | 2022-11-05 1150 | Chang Zheng 3B      | Y91                  | Zhongxing 19 (ZX-19)           | CN   | XSC+LC2      | S   |
-| 2022-147 | 2022-11-04 1727 | Electron            | 32                   | Catch Me If You Can (MATS)     | US   | MAHIA+LC1B   | F   |
-| 2022-146 | 2022-11-03 0522 | Falcon 9 / FT5      | 185/B1067.7          | Hot Bird 13G                   | US   | CC+LC40      | F   |
-| 2022-145 | 2022-11-02 0647 | Soyuz 2-1B / Fregat | -            111-30x | Kosmos-2563 (Kupol No. 6)      | RU   | GIK-1+LC43/4 | S   |
-| 2022-144 | 2022-11-01 1341 | Falcon Heavy        | 004                  | USSF-44 (LDPE-2)               | US   | KSC+LC39A    | F   |
+| ID       | Dată (UTC)      | Lansator            | Serie                | Satelit (misiune)              | Or   | Centru       |
+|:---------|:----------------|:--------------------|:---------------------|:-------------------------------|:-----|:-------------|
+| 2022-154 | 2022-11-15 0138 | Chang Zheng 4C      | Y48                  | Yaogan 34-03                   | CN   | JQ+LC43/94   |
+| 2022-153 | 2022-11-12 1606 | Falcon 9 / FT5      | 186/B1051.14         | Galaxy 31/32                   | US   | CC+LC40      |
+| 2022-152 | 2022-11-12 0203 | Chang Zheng 7       | Y6                   | Tianzhou-5                     | CN   | WEN+LC201    |
+| 2022-151 | 2022-11-11 2252 | Chang Zheng 6A      | Y2                   | Yunhai-3                       | CN   | TYSC+LC9A    |
+| 2022-150 | 2022-11-10 0949 | Atlas V 401         | AV-098               | JPSS-2/LOFTID                  | US   | VSFBS+SLC3E  |
+| 2022-149 | 2022-11-07 1032 | Antares 230+        | 2TRS2S1.17? (17)     | S.S. Sally Ride (Cygnus NG-18) | US   | MARS+Pad 0A  |
+| 2022-148 | 2022-11-05 1150 | Chang Zheng 3B      | Y91                  | Zhongxing 19 (ZX-19)           | CN   | XSC+LC2      |
+| 2022-147 | 2022-11-04 1727 | Electron            | 32                   | Catch Me If You Can (MATS)     | US   | MAHIA+LC1B   |
+| 2022-146 | 2022-11-03 0522 | Falcon 9 / FT5      | 185/B1067.7          | Hot Bird 13G                   | US   | CC+LC40      |
+| 2022-145 | 2022-11-02 0647 | Soyuz 2-1B / Fregat | -            111-30x | Kosmos-2563 (Kupol No. 6)      | RU   | GIK-1+LC43/4 |
+| 2022-144 | 2022-11-01 1341 | Falcon Heavy        | 004                  | USSF-44 (LDPE-2)               | US   | KSC+LC39A    |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);

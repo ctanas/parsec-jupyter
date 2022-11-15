@@ -217,12 +217,6 @@ dict_Site = dict(zip(pads.Site, pads.StateCode))
 df['Country'] = df['Launch_Site'].map(dict_Site)
 
 # adding 'Outcome' column, based on Launch_Tag
-# def check_outcome(row):  
-#    if '-F' in row['Launch_Tag']:
-#        return 'F'
-#    return 'S'
-#df['Outcome'] = df.apply(lambda row: check_outcome(row), axis=1)
-
 df['Outcome'] = df['Launch_Tag'].map(lambda x: 'F' if 'F' in x else 'S')
 
 # Code to be optimized below this line:
@@ -482,11 +476,11 @@ def racheta(nume):
     return (r_content, df_racheta.to_markdown(index=False))
 
 def recent_launches(n):
-    field_names = ["ID", "Dată (UTC)", "Lansator", "Serie", "Satelit (misiune)", "Or", "Centru", "R"]
+    field_names = ["ID", "Dată (UTC)", "Lansator", "Serie", "Satelit (misiune)", "Or", "Centru"]
     data = []
     i = 1
     while i<n:
-        data.append([ldata[-i][0].strip(), ldata[-i][2] if ":" not in ldata[-i][2] else ldata[-i][2][:-3], ldata[-i][3] if len(ldata[-i][4])<2 else ldata[-i][3]+" / "+ldata[-i][4], ldata[-i][5], ldata[-i][6] if ldata[-i][6].strip() == ldata[-i][7].strip() else ldata[-i][6].strip() +" ("+ldata[-i][7].strip()+")", ldata[-i][26], ldata[-i][10] +"+"+ ldata[-i][11], ldata[i][27]])
+        data.append([ldata[-i][0].strip(), ldata[-i][2] if ":" not in ldata[-i][2] else ldata[-i][2][:-3], ldata[-i][3] if len(ldata[-i][4])<2 else ldata[-i][3]+" / "+ldata[-i][4], ldata[-i][5], ldata[-i][6] if ldata[-i][6].strip() == ldata[-i][7].strip() else ldata[-i][6].strip() +" ("+ldata[-i][7].strip()+")", ldata[-i][26], ldata[-i][10] +"+"+ ldata[-i][11]])
         i+=1
     df_recent_launches = pd.DataFrame(data, columns=field_names)
     return(df_recent_launches.to_markdown(index=False))
