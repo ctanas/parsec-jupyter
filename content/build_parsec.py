@@ -149,6 +149,8 @@ def update_PADS():
 		os.rename(FILE_TEMP2,FILE_PADS)
 		print ("No old PADS found, fetched latest version from date",url_date)
 
+os.system('cd .. && git pull origin master')
+
 # Download files if they are not present in current directory
 #if not os.path.isfile(FILE_DATA): update_GCAT()
 #if not os.path.isfile(FILE_PADS): update_PADS()
@@ -625,4 +627,7 @@ with open('y/totalorbital.md', 'w+') as f:
 #et = time.time()
 
 #print('Running time: ', et-st)
+
+os.system('cd .. && git add . && git commit -m "update" && git push origin master')
+
 print("OK!")
