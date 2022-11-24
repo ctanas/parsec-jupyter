@@ -12,6 +12,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | ID       | Dată (UTC)      | Lansator       | Serie            | Satelit (misiune)              | Or   | Centru      |
 |:---------|:----------------|:---------------|:-----------------|:-------------------------------|:-----|:------------|
+| 2022-157 | 2022-11-23 0257 | Falcon 9 / FT5 | 187/B1049.11     | Eutelsat 10B                   | US   | CC+LC40     |
 | 2022-156 | 2022-11-16 0647 | SLS Block 1    | 1                | Artemis 1 (-)                  | US   | KSC+LC39B   |
 | 2022-155 | 2022-11-16 0620 | Gushenxing 1   | Y4               | Jilin-1 GF03-08/51-54 (-)      | CN   | JQ+LC43/95? |
 | 2022-154 | 2022-11-15 0138 | Chang Zheng 4C | Y48              | Yaogan 34-03                   | CN   | JQ+LC43/94  |
@@ -22,7 +23,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 2022-149 | 2022-11-07 1032 | Antares 230+   | 2TRS2S1.17? (17) | S.S. Sally Ride (Cygnus NG-18) | US   | MARS+Pad 0A |
 | 2022-148 | 2022-11-05 1150 | Chang Zheng 3B | Y91              | Zhongxing 19 (ZX-19)           | CN   | XSC+LC2     |
 | 2022-147 | 2022-11-04 1727 | Electron       | 32               | Catch Me If You Can (MATS)     | US   | MAHIA+LC1B  |
-| 2022-146 | 2022-11-03 0522 | Falcon 9 / FT5 | 185/B1067.7      | Hot Bird 13G                   | US   | CC+LC40     |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);
