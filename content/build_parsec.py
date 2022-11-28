@@ -75,7 +75,8 @@ active_rockets = {'Falcon 9' : 'falcon9',
 'GSLV Mk III' : 'gslvmk3',
 'GSLV Mk II' : 'gslvmk2',
 'PSLV' : 'pslv',
-'SSLV' : 'sslv'}
+'SSLV' : 'sslv',
+'SLS Block 1' : 'sls'}
 list_active_rockets = list(active_rockets.keys())
 
 # getting the current year in a variable
