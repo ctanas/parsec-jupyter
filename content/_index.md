@@ -10,19 +10,19 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Cele mai recente lansări orbitale
 
-| ID       | Dată (UTC)      | Lansator       | Serie            | Satelit (misiune)              | Or   | Centru      |
-|:---------|:----------------|:---------------|:-----------------|:-------------------------------|:-----|:------------|
-| 2022-157 | 2022-11-23 0257 | Falcon 9 / FT5 | 187/B1049.11     | Eutelsat 10B                   | US   | CC+LC40     |
-| 2022-156 | 2022-11-16 0647 | SLS Block 1    | 1                | Artemis 1 (-)                  | US   | KSC+LC39B   |
-| 2022-155 | 2022-11-16 0620 | Gushenxing 1   | Y4               | Jilin-1 GF03-08/51-54 (-)      | CN   | JQ+LC43/95? |
-| 2022-154 | 2022-11-15 0138 | Chang Zheng 4C | Y48              | Yaogan 34-03                   | CN   | JQ+LC43/94  |
-| 2022-153 | 2022-11-12 1606 | Falcon 9 / FT5 | 186/B1051.14     | Galaxy 31/32                   | US   | CC+LC40     |
-| 2022-152 | 2022-11-12 0203 | Chang Zheng 7  | Y6               | Tianzhou-5                     | CN   | WEN+LC201   |
-| 2022-151 | 2022-11-11 2252 | Chang Zheng 6A | Y2               | Yunhai-3                       | CN   | TYSC+LC9A   |
-| 2022-150 | 2022-11-10 0949 | Atlas V 401    | AV-098           | JPSS-2/LOFTID                  | US   | VSFBS+SLC3E |
-| 2022-149 | 2022-11-07 1032 | Antares 230+   | 2TRS2S1.17? (17) | S.S. Sally Ride (Cygnus NG-18) | US   | MARS+Pad 0A |
-| 2022-148 | 2022-11-05 1150 | Chang Zheng 3B | Y91              | Zhongxing 19 (ZX-19)           | CN   | XSC+LC2     |
-| 2022-147 | 2022-11-04 1727 | Electron       | 32               | Catch Me If You Can (MATS)     | US   | MAHIA+LC1B  |
+| ID       | Dată (UTC)      | Lansator       | Serie        | Satelit (misiune)         | Or   | Centru      |
+|:---------|:----------------|:---------------|:-------------|:--------------------------|:-----|:------------|
+| 2022-160 | 2022-11-27 1223 | Chang Zheng 2D | Y89          | YG-36 03 (Yaogan 36 03)   | CN   | XSC+-       |
+| 2022-159 | 2022-11-26 1920 | Falcon 9 / FT5 | 188/B1076.1  | Dragon CRS-26             | US   | KSC+LC39A   |
+| 2022-158 | 2022-11-26 0626 | PSLV-XL        | PSLV-C54     | EOS-06 (Oceansat-3)       | IN   | SHAR+FLP    |
+| 2022-157 | 2022-11-23 0257 | Falcon 9 / FT5 | 187/B1049.11 | Eutelsat 10B              | US   | CC+LC40     |
+| 2022-156 | 2022-11-16 0647 | SLS Block 1    | 1            | Artemis 1 (-)             | US   | KSC+LC39B   |
+| 2022-155 | 2022-11-16 0620 | Gushenxing 1   | Y4           | Jilin-1 GF03-08/51-54 (-) | CN   | JQ+LC43/95? |
+| 2022-154 | 2022-11-15 0138 | Chang Zheng 4C | Y48          | Yaogan 34-03              | CN   | JQ+LC43/94  |
+| 2022-153 | 2022-11-12 1606 | Falcon 9 / FT5 | 186/B1051.14 | Galaxy 31/32              | US   | CC+LC40     |
+| 2022-152 | 2022-11-12 0203 | Chang Zheng 7  | Y6           | Tianzhou-5                | CN   | WEN+LC201   |
+| 2022-151 | 2022-11-11 2252 | Chang Zheng 6A | Y2           | Yunhai-3                  | CN   | TYSC+LC9A   |
+| 2022-150 | 2022-11-10 0949 | Atlas V 401    | AV-098       | JPSS-2/LOFTID             | US   | VSFBS+SLC3E |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);

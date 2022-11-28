@@ -4,10 +4,10 @@ title: PSLV
 layout: default
 ---
 
-Până în prezent, racheta PSLV a fost lansată de 55 ori (din care 1 eșecuri).
+Până în prezent, racheta PSLV a fost lansată de 56 ori (din care 1 eșecuri).
 
-Rată de succes a rachetei PSLV este de 98.18%.
-Număr de lansări reușite de la ultimul eșec: 54
+Rată de succes a rachetei PSLV este de 98.21%.
+Număr de lansări reușite de la ultimul eșec: 55
 
 
 Lista lansărilor orbitale pentru racheta PSLV:
@@ -68,3 +68,4 @@ Lista lansărilor orbitale pentru racheta PSLV:
 | 2021-015 | 2021-02-28 0454 | PSLV-DL    | PSLV-C51 | Amazonia-1                            | IN   | SHAR+FLP | S   |
 | 2022-013 | 2022-02-14 0029 | PSLV-XL    | PSLV-C52 | EOS-04 (RISAT-1A)                     | IN   | SHAR+FLP | S   |
 | 2022-072 | 2022-06-30 1232 | PSLV       | PLSV-C53 | DS-EO (DS-EO/POEM)                    | IN   | SHAR+SLP | S   |
+| 2022-158 | 2022-11-26 0626 | PSLV-XL    | PSLV-C54 | EOS-06 (Oceansat-3)                   | IN   | SHAR+FLP | S   |

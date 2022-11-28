@@ -4,10 +4,10 @@ title: Falcon 9
 layout: default
 ---
 
-Până în prezent, racheta Falcon 9 a fost lansată de 186 ori (din care 1 eșecuri).
+Până în prezent, racheta Falcon 9 a fost lansată de 187 ori (din care 1 eșecuri).
 
-Rată de succes a rachetei Falcon 9 este de 99.46%.
-Număr de lansări reușite de la ultimul eșec: 167
+Rată de succes a rachetei Falcon 9 este de 99.47%.
+Număr de lansări reușite de la ultimul eșec: 168
 
 
 Lista lansărilor orbitale pentru racheta Falcon 9:
@@ -199,3 +199,4 @@ Lista lansărilor orbitale pentru racheta Falcon 9:
 | 2022-146 | 2022-11-03 0522 | Falcon 9   | 185/B1067.7  | Hot Bird 13G                               | US   | CC+LC40     | S   |
 | 2022-153 | 2022-11-12 1606 | Falcon 9   | 186/B1051.14 | Galaxy 31/32                               | US   | CC+LC40     | S   |
 | 2022-157 | 2022-11-23 0257 | Falcon 9   | 187/B1049.11 | Eutelsat 10B                               | US   | CC+LC40     | S   |
+| 2022-159 | 2022-11-26 1920 | Falcon 9   | 188/B1076.1  | Dragon CRS-26                              | US   | KSC+LC39A   | S   |
