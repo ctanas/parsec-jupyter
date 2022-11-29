@@ -4,10 +4,10 @@ title: Soyuz-2.1
 layout: default
 ---
 
-Până în prezent, racheta Soyuz-2.1 a fost lansată de 124 ori (din care 2 eșecuri).
+Până în prezent, racheta Soyuz-2.1 a fost lansată de 125 ori (din care 2 eșecuri).
 
-Rată de succes a rachetei Soyuz-2.1 este de 98.39%.
-Număr de lansări reușite de la ultimul eșec: 71
+Rată de succes a rachetei Soyuz-2.1 este de 98.40%.
+Număr de lansări reușite de la ultimul eșec: 72
 
 
 Lista lansărilor orbitale pentru racheta Soyuz-2.1:
@@ -136,4 +136,5 @@ Lista lansărilor orbitale pentru racheta Soyuz-2.1:
 | 2022-137 | 2022-10-21 1900 | Soyuz-2.1v | -                    | Kosmos-2561/2562 (14F164/14F172)         | RU   | GIK-1+LC43/4  | S   |
 | 2022-139 | 2022-10-22 1957 | Soyuz-2.1b | Kh15000-011/ 142-503 | Skif-D/Gonets                            | RU   | VOST+PU1S     | S   |
 | 2022-140 | 2022-10-26 0020 | Soyuz-2.1a | S 15000-057          | Progress MS-21 (Progress 7K-TGM No. 451) | RU   | GIK-5+LC31    | S   |
-| 2022-145 | 2022-11-02 0647 | Soyuz-2.1b | -            111-30x | Kosmos-2563 (Kupol No. 6)                | RU   | GIK-1+LC43/4  | S   |
+| 2022-145 | 2022-11-02 0647 | Soyuz-2.1b | -            111-306 | Kosmos-2563 (Kupol No. 6)                | RU   | GIK-1+LC43/4  | S   |
+| 2022-161 | 2022-11-28 1517 | Soyuz-2.1b | N 15000-047/ 112-?   | Kosmos-2564 (Uragan-M No. 761)           | RU   | GIK-1+LC43/4  | S   |
