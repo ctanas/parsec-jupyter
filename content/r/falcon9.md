@@ -199,4 +199,4 @@ Lista lansărilor orbitale pentru racheta Falcon 9:
 | 2022-146 | 2022-11-03 0522 | Falcon 9   | 185/B1067.7  | Hot Bird 13G                               | US   | CC+LC40     | S   |
 | 2022-153 | 2022-11-12 1606 | Falcon 9   | 186/B1051.14 | Galaxy 31/32                               | US   | CC+LC40     | S   |
 | 2022-157 | 2022-11-23 0257 | Falcon 9   | 187/B1049.11 | Eutelsat 10B                               | US   | CC+LC40     | S   |
-| 2022-159 | 2022-11-26 1920 | Falcon 9   | 188/B1076.1  | Dragon CRS-26                              | US   | KSC+LC39A   | S   |
+| 2022-159 | 2022-11-26 1920 | Falcon 9   | 188/B1076.1  | Dragon CRS-26 (Dragon C211)                | US   | KSC+LC39A   | S   |

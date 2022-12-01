@@ -4,7 +4,7 @@ title: Chang Zheng 2F
 layout: default
 ---
 
-Până în prezent, racheta Chang Zheng 2F a fost lansată de 18 ori (din care 0 eșecuri).
+Până în prezent, racheta Chang Zheng 2F a fost lansată de 19 ori (din care 0 eșecuri).
 
 Rată de succes a rachetei Chang Zheng 2F este de 100.00%.
 
@@ -29,3 +29,4 @@ Lista lansărilor orbitale pentru racheta Chang Zheng 2F:
 | 2021-092 | 2021-10-15 1623  | Chang Zheng 2F   | Y13     | Shenzhou 13                           | CN   | JQ+LC43/91 | S   |
 | 2022-060 | 2022-06-05 0244  | Chang Zheng 2F   | Y14     | Shenzhou 14                           | CN   | JQ+LC43/91 | S   |
 | 2022-093 | 2022-08-04 1600? | Chang Zheng 2F   | Y13     | CSSHQ                                 | CN   | JQ+LC43/91 | S   |
+| 2022-162 | 2022-11-29 1508  | Chang Zheng 2F   | Y15     | Shenzhou 15                           | CN   | JQ+LC43/91 | S   |
