@@ -14,7 +14,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 |:---------|:-----------------|:--------------------|:-------------------|:--------------------------------|:-----|:-------------|
 | 2022-163 | 2022-11-30 2110? | Soyuz-2.1b          | -                  | Kosmos-2565 (Lotos-S1 No. 807?) | RU   | GIK-1+LC43/4 |
 | 2022-162 | 2022-11-29 1508  | Chang Zheng 2F      | Y15                | Shenzhou 15                     | CN   | JQ+LC43/91   |
-| 2022-161 | 2022-11-28 1517  | Soyuz-2.1b / Fregat | N 15000-047/ 112-? | Kosmos-2564 (Uragan-M No. 761)  | RU   | GIK-1+LC43/4 |
+| 2022-161 | 2022-11-28 1513  | Soyuz-2.1b / Fregat | N 15000-047/ 112-? | Kosmos-2564 (Uragan-M No. 761)  | RU   | GIK-1+LC43/4 |
 | 2022-160 | 2022-11-27 1223  | Chang Zheng 2D      | Y89                | YG-36 03 (Yaogan 36 03)         | CN   | XSC+-        |
 | 2022-159 | 2022-11-26 1920  | Falcon 9 / FT5      | 188/B1076.1        | Dragon CRS-26 (Dragon C211)     | US   | KSC+LC39A    |
 | 2022-158 | 2022-11-26 0626  | PSLV-XL             | PSLV-C54           | EOS-06 (Oceansat-3)             | IN   | SHAR+FLP     |

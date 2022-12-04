@@ -137,5 +137,5 @@ Lista lansărilor orbitale pentru racheta Soyuz-2.1:
 | 2022-139 | 2022-10-22 1957  | Soyuz-2.1b | Kh15000-011/ 142-503 | Skif-D/Gonets                            | RU   | VOST+PU1S     | S   |
 | 2022-140 | 2022-10-26 0020  | Soyuz-2.1a | S 15000-057          | Progress MS-21 (Progress 7K-TGM No. 451) | RU   | GIK-5+LC31    | S   |
 | 2022-145 | 2022-11-02 0647  | Soyuz-2.1b | -            111-306 | Kosmos-2563 (Kupol No. 6)                | RU   | GIK-1+LC43/4  | S   |
-| 2022-161 | 2022-11-28 1517  | Soyuz-2.1b | N 15000-047/ 112-?   | Kosmos-2564 (Uragan-M No. 761)           | RU   | GIK-1+LC43/4  | S   |
+| 2022-161 | 2022-11-28 1513  | Soyuz-2.1b | N 15000-047/ 112-?   | Kosmos-2564 (Uragan-M No. 761)           | RU   | GIK-1+LC43/4  | S   |
 | 2022-163 | 2022-11-30 2110? | Soyuz-2.1b | -                    | Kosmos-2565 (Lotos-S1 No. 807?)          | RU   | GIK-1+LC43/4  | S   |
