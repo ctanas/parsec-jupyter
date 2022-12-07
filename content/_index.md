@@ -12,6 +12,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | ID       | Dată (UTC)       | Lansator            | Serie              | Satelit (misiune)               | Or   | Centru       |
 |:---------|:-----------------|:--------------------|:-------------------|:--------------------------------|:-----|:-------------|
+| 2022-164 | 2022-12-07 0115  | Kuaizhou-11         | Y2                 | Xingyun Jiatong VDES (-)        | CN   | JQ+LC43/95?  |
 | 2022-163 | 2022-11-30 2110? | Soyuz-2.1b          | -                  | Kosmos-2565 (Lotos-S1 No. 807?) | RU   | GIK-1+LC43/4 |
 | 2022-162 | 2022-11-29 1508  | Chang Zheng 2F      | Y15                | Shenzhou 15                     | CN   | JQ+LC43/91   |
 | 2022-161 | 2022-11-28 1513  | Soyuz-2.1b / Fregat | N 15000-047/ 112-? | Kosmos-2564 (Uragan-M No. 761)  | RU   | GIK-1+LC43/4 |
@@ -22,7 +23,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 2022-156 | 2022-11-16 0647  | SLS Block 1         | 1                  | Artemis 1 (-)                   | US   | KSC+LC39B    |
 | 2022-155 | 2022-11-16 0620  | Gushenxing 1        | Y4                 | Jilin-1 GF03-08/51-54 (-)       | CN   | JQ+LC43/95?  |
 | 2022-154 | 2022-11-15 0138  | Chang Zheng 4C      | Y48                | Yaogan 34-03                    | CN   | JQ+LC43/94   |
-| 2022-153 | 2022-11-12 1606  | Falcon 9 / FT5      | 186/B1051.14       | Galaxy 31/32                    | US   | CC+LC40      |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);
