@@ -4,7 +4,7 @@ title: Chang Zheng 2D
 layout: default
 ---
 
-Până în prezent, racheta Chang Zheng 2D a fost lansată de 70 ori (din care 0 eșecuri).
+Până în prezent, racheta Chang Zheng 2D a fost lansată de 71 ori (din care 0 eșecuri).
 
 Rată de succes a rachetei Chang Zheng 2D este de 100.00%.
 
@@ -81,3 +81,4 @@ Lista lansărilor orbitale pentru racheta Chang Zheng 2D:
 | 2022-133 | 2022-10-14 1912 | Chang Zheng 2D      | Y69     | YG-36 02 (Yaogan 36 02)                | CN   | XSC+LC3     | S   |
 | 2022-142 | 2022-10-29 0101 | Chang Zheng 2D      | Y72     | Shiyan 20C                             | CN   | JQ+LC43/94  | S   |
 | 2022-160 | 2022-11-27 1223 | Chang Zheng 2D      | Y89     | YG-36 03 (Yaogan 36 03)                | CN   | XSC+-       | S   |
+| 2022-165 | 2022-12-08 1831 | Chang Zheng 2D      | Y45     | Gaofen 5-01A                           | CN   | TYSC+LC9    | S   |

@@ -12,6 +12,9 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | ID       | Dată (UTC)       | Lansator            | Serie              | Satelit (misiune)               | Or   | Centru       |
 |:---------|:-----------------|:--------------------|:-------------------|:--------------------------------|:-----|:-------------|
+| 2022-167 | 2022-12-09 0635  | Jielong-3           | 1                  | Jilin-1 (-)                     | CN   | HHAI+LP5     |
+| 2022-166 | 2022-12-08 2227  | Falcon 9 / FT5      | 189/B1069.4        | OneWeb-1 (OneWeb L15)           | US   | KSC+LC39A    |
+| 2022-165 | 2022-12-08 1831  | Chang Zheng 2D      | Y45                | Gaofen 5-01A                    | CN   | TYSC+LC9     |
 | 2022-164 | 2022-12-07 0115  | Kuaizhou-11         | Y2                 | Xingyun Jiatong VDES (-)        | CN   | JQ+LC43/95?  |
 | 2022-163 | 2022-11-30 2110? | Soyuz-2.1b          | -                  | Kosmos-2565 (Lotos-S1 No. 807?) | RU   | GIK-1+LC43/4 |
 | 2022-162 | 2022-11-29 1508  | Chang Zheng 2F      | Y15                | Shenzhou 15                     | CN   | JQ+LC43/91   |
@@ -20,9 +23,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 2022-159 | 2022-11-26 1920  | Falcon 9 / FT5      | 188/B1076.1        | Dragon CRS-26 (Dragon C211)     | US   | KSC+LC39A    |
 | 2022-158 | 2022-11-26 0626  | PSLV-XL             | PSLV-C54           | EOS-06 (Oceansat-3)             | IN   | SHAR+FLP     |
 | 2022-157 | 2022-11-23 0257  | Falcon 9 / FT5      | 187/B1049.11       | Eutelsat 10B                    | US   | CC+LC40      |
-| 2022-156 | 2022-11-16 0647  | SLS Block 1         | 1                  | Artemis 1 (-)                   | US   | KSC+LC39B    |
-| 2022-155 | 2022-11-16 0620  | Gushenxing 1        | Y4                 | Jilin-1 GF03-08/51-54 (-)       | CN   | JQ+LC43/95?  |
-| 2022-154 | 2022-11-15 0138  | Chang Zheng 4C      | Y48                | Yaogan 34-03                    | CN   | JQ+LC43/94   |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);
