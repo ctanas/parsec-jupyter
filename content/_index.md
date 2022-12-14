@@ -10,19 +10,19 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Cele mai recente lansări orbitale
 
-| ID       | Dată (UTC)       | Lansator            | Serie              | Satelit (misiune)               | Or   | Centru       |
-|:---------|:-----------------|:--------------------|:-------------------|:--------------------------------|:-----|:-------------|
-| 2022-169 | 2022-12-12 0822  | Chang Zheng 4C      | Y57                | Shiyan 20A/20B                  | CN   | JQ+LC43/94   |
-| 2022-168 | 2022-12-11 0738  | Falcon 9 / FT5      | 190/B1073.5        | Hakuto-R M1                     | US   | CC+LC40      |
-| 2022-167 | 2022-12-09 0635  | Jielong-3           | 1                  | Jilin-1 (-)                     | CN   | HHAI+LP5     |
-| 2022-166 | 2022-12-08 2227  | Falcon 9 / FT5      | 189/B1069.4        | OneWeb-1 (OneWeb L15)           | US   | KSC+LC39A    |
-| 2022-165 | 2022-12-08 1831  | Chang Zheng 2D      | Y45                | Gaofen 5-01A                    | CN   | TYSC+LC9     |
-| 2022-164 | 2022-12-07 0115  | Kuaizhou-11         | Y2                 | Xingyun Jiatong VDES (-)        | CN   | JQ+LC43/95?  |
-| 2022-163 | 2022-11-30 2110? | Soyuz-2.1b          | -                  | Kosmos-2565 (Lotos-S1 No. 807?) | RU   | GIK-1+LC43/4 |
-| 2022-162 | 2022-11-29 1508  | Chang Zheng 2F      | Y15                | Shenzhou 15                     | CN   | JQ+LC43/91   |
-| 2022-161 | 2022-11-28 1513  | Soyuz-2.1b / Fregat | N 15000-047/ 112-? | Kosmos-2564 (Uragan-M No. 761)  | RU   | GIK-1+LC43/4 |
-| 2022-160 | 2022-11-27 1223  | Chang Zheng 2D      | Y89                | YG-36 03 (Yaogan 36 03)         | CN   | XSC+-        |
-| 2022-159 | 2022-11-26 1920  | Falcon 9 / FT5      | 188/B1076.1        | Dragon CRS-26 (Dragon C211)     | US   | KSC+LC39A    |
+| ID       | Dată (UTC)         | Lansator            | Serie              | Satelit (misiune)               | Or   | Centru       |
+|:---------|:-------------------|:--------------------|:-------------------|:--------------------------------|:-----|:-------------|
+| 2022-170 | 2022-12-13 2030;07 | Ariane 5ECA+        | VA259 (5118?)      | Galaxy 35/36/MTG-I1             | EU   | CSG+ELA3     |
+| 2022-169 | 2022-12-12 0822    | Chang Zheng 4C      | Y57                | Shiyan 20A/20B                  | CN   | JQ+LC43/94   |
+| 2022-168 | 2022-12-11 0738    | Falcon 9 / FT5      | 190/B1073.5        | Hakuto-R M1                     | US   | CC+LC40      |
+| 2022-167 | 2022-12-09 0635    | Jielong-3           | 1                  | Jilin-1 (-)                     | CN   | HHAI+LP5     |
+| 2022-166 | 2022-12-08 2227    | Falcon 9 / FT5      | 189/B1069.4        | OneWeb-1 (OneWeb L15)           | US   | KSC+LC39A    |
+| 2022-165 | 2022-12-08 1831    | Chang Zheng 2D      | Y45                | Gaofen 5-01A                    | CN   | TYSC+LC9     |
+| 2022-164 | 2022-12-07 0115    | Kuaizhou-11         | Y2                 | Xingyun Jiatong VDES (-)        | CN   | JQ+LC43/95?  |
+| 2022-163 | 2022-11-30 2110?   | Soyuz-2.1b          | -                  | Kosmos-2565 (Lotos-S1 No. 807?) | RU   | GIK-1+LC43/4 |
+| 2022-162 | 2022-11-29 1508    | Chang Zheng 2F      | Y15                | Shenzhou 15                     | CN   | JQ+LC43/91   |
+| 2022-161 | 2022-11-28 1513    | Soyuz-2.1b / Fregat | N 15000-047/ 112-? | Kosmos-2564 (Uragan-M No. 761)  | RU   | GIK-1+LC43/4 |
+| 2022-160 | 2022-11-27 1223    | Chang Zheng 2D      | Y89                | YG-36 03 (Yaogan 36 03)         | CN   | XSC+-        |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);
