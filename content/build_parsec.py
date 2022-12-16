@@ -203,6 +203,7 @@ df['Launch_Date'] = df['Launch_Date'].replace(' Oct ', '-10-', regex=True)
 df['Launch_Date'] = df['Launch_Date'].replace(' Nov ', '-11-', regex=True)
 df['Launch_Date'] = df['Launch_Date'].replace(' Dec ', '-12-', regex=True)
 df['Launch_Date'] = df['Launch_Date'].replace('- ', '-0', regex=True)
+df['Launch_Date'] = df['Launch_Date'].replace(';', ':', regex=True)
 
 # Changing some rockets' name
 #df['LV_Type'] = df['LV_Type'].replace('Delta 4H', 'Delta IV Heavy', regex=True)
