@@ -10,19 +10,19 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Cele mai recente lansări orbitale
 
-| ID       | Dată (UTC)       | Lansator       | Serie         | Satelit (misiune)               | Or   | Centru       |
-|:---------|:-----------------|:---------------|:--------------|:--------------------------------|:-----|:-------------|
-| 2022-171 | 2022-12-14 1825  | Chang Zheng 2D | Y80           | YG-36 04 (Yaogan 36 04)         | CN   | XSC+LC3      |
-| 2022-F05 | 2022-12-14 0830  | Zhuque-2       | 1             | Zhixing-1B (-)                  | CN   | JQ+LC43/96   |
-| 2022-170 | 2022-12-13 2030  | Ariane 5ECA+   | VA259 (5118?) | Galaxy 35/36/MTG-I1             | EU   | CSG+ELA3     |
-| 2022-169 | 2022-12-12 0822  | Chang Zheng 4C | Y57           | Shiyan 20A/20B                  | CN   | JQ+LC43/94   |
-| 2022-168 | 2022-12-11 0738  | Falcon 9 / FT5 | 190/B1073.5   | Hakuto-R M1                     | US   | CC+LC40      |
-| 2022-167 | 2022-12-09 0635  | Jielong-3      | 1             | Jilin-1 (-)                     | CN   | HHAI+LP5     |
-| 2022-166 | 2022-12-08 2227  | Falcon 9 / FT5 | 189/B1069.4   | OneWeb-1 (OneWeb L15)           | US   | KSC+LC39A    |
-| 2022-165 | 2022-12-08 1831  | Chang Zheng 2D | Y45           | Gaofen 5-01A                    | CN   | TYSC+LC9     |
-| 2022-164 | 2022-12-07 0115  | Kuaizhou-11    | Y2            | Xingyun Jiatong VDES (-)        | CN   | JQ+LC43/95?  |
-| 2022-163 | 2022-11-30 2110? | Soyuz-2.1b     | -             | Kosmos-2565 (Lotos-S1 No. 807?) | RU   | GIK-1+LC43/4 |
-| 2022-162 | 2022-11-29 1508  | Chang Zheng 2F | Y15           | Shenzhou 15                     | CN   | JQ+LC43/91   |
+| ID       | Dată (UTC)      | Lansator       | Serie         | Satelit (misiune)       | Or   | Centru      |
+|:---------|:----------------|:---------------|:--------------|:------------------------|:-----|:------------|
+| 2022-174 | 2022-12-16 2248 | Falcon 9 / FT5 | 192/B1067.8   | O3b mPOWER 1/2          | US   | CC+LC40     |
+| 2022-173 | 2022-12-16 1146 | Falcon 9 / FT5 | 191/B1071.6   | SWOT                    | US   | VSFBS+SLC4E |
+| 2022-172 | 2022-12-16 0617 | Chang Zheng 11 | Y12           | Shiyan-21 (SJ2013)      | CN   | XSC+LC4     |
+| 2022-171 | 2022-12-14 1825 | Chang Zheng 2D | Y80           | YG-36 04 (Yaogan 36 04) | CN   | XSC+LC3     |
+| 2022-F05 | 2022-12-14 0830 | Zhuque-2       | 1             | Zhixing-1B (-)          | CN   | JQ+LC43/96  |
+| 2022-170 | 2022-12-13 2030 | Ariane 5ECA+   | VA259 (5118?) | Galaxy 35/36/MTG-I1     | EU   | CSG+ELA3    |
+| 2022-169 | 2022-12-12 0822 | Chang Zheng 4C | Y57           | Shiyan 20A/20B          | CN   | JQ+LC43/94  |
+| 2022-168 | 2022-12-11 0738 | Falcon 9 / FT5 | 190/B1073.5   | Hakuto-R M1             | US   | CC+LC40     |
+| 2022-167 | 2022-12-09 0635 | Jielong-3      | 1             | Jilin-1 (-)             | CN   | HHAI+LP5    |
+| 2022-166 | 2022-12-08 2227 | Falcon 9 / FT5 | 189/B1069.4   | OneWeb-1 (OneWeb L15)   | US   | KSC+LC39A   |
+| 2022-165 | 2022-12-08 1831 | Chang Zheng 2D | Y45           | Gaofen 5-01A            | CN   | TYSC+LC9    |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);
