@@ -4,9 +4,9 @@ title: Vega
 layout: default
 ---
 
-Până în prezent, racheta Vega a fost lansată de 20 ori (din care 2 eșecuri).
+Până în prezent, racheta Vega a fost lansată de 21 ori (din care 3 eșecuri).
 
-Rată de succes a rachetei Vega este de 90.00%.
+Rată de succes a rachetei Vega este de 85.71%.
 Număr de lansări reușite de la ultimul eșec: 0
 
 
@@ -28,6 +28,7 @@ Lista lansărilor orbitale pentru racheta Vega:
 | 2019-015 | 2019-03-22 0150 | Vega       | VV14    | PRISMA                                    | EU   | CSG+ZLV  | S   |
 | 2019-F05 | 2019-07-11 0153 | Vega       | VV15    | FalconEye 1                               | EU   | CSG+ZLV  | F   |
 | 2020-061 | 2020-09-03 0151 | Vega       | VV16    | SSMS                                      | EU   | CSG+ZLV  | S   |
+| 2020-F0x | 2020-11-17 0152 | Vega       | VV17    | SEOSAT-Ingenio/Taranis (SEOSAT-Ingenio)   | EU   | CSG+ZLV  | F   |
 | 2021-034 | 2021-04-29 0150 | Vega       | VV18    | Pleiades Neo 3 (Pleiades-Neo 3)           | EU   | CSG+ZLV  | S   |
 | 2021-073 | 2021-08-17 0147 | Vega       | VV19    | Pleiades Neo 4 (Pleiades-Neo 4)           | EU   | CSG+ZLV  | S   |
 | 2021-105 | 2021-11-16 0927 | Vega       | VV20    | CERES 1-3                                 | EU   | CSG+ZLV  | S   |

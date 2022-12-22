@@ -4,7 +4,7 @@ title: Lansări orbitale
 layout: default
 ---
 
-Din 1957 și până în prezent au avut loc 6341 tentative de lansări orbitale, din care 5967 lansări reușite și 374 eșecuri (încărcătura primară nu a ajuns pe orbită).
+Din 1957 și până în prezent au avut loc 6342 tentative de lansări orbitale, din care 5967 lansări reușite și 375 eșecuri (încărcătura primară nu a ajuns pe orbită).
 
 În tabelul de mai jos sunt prezentate numărul total de lansări orbitale, pentru fiecare stat în parte, începând cu 1957. Câteva precizări: lansările URSS și ale Rusiei nu sunt numărate separat, iar lansările statelor europene, fie prin Arianespace sau separat, sunt catalogate drept lansări europene, indiferent de locul de unde este lansată racheta. În stabilirea țării în a cărei portofoliu intră lansarea, am considerat că statul în care este înregistrat operatorul este cel consiederat în statistici (de exemplu, lansările rachetei Electron din Noua Zeelandă sunt lansări ale Statelor Unite, pentru că Rocket Lab, compania care operează lansatorul, este o companie americană).
 
@@ -13,7 +13,7 @@ Din 1957 și până în prezent au avut loc 6341 tentative de lansări orbitale,
 | SUA            |        1910 |      1772 |       138 |
 | Rusia          |        3356 |      3198 |       158 |
 | China          |         503 |       478 |        25 |
-| Europa         |         323 |       307 |        16 |
+| Europa         |         324 |       307 |        17 |
 | Japonia        |         126 |       116 |        10 |
 | India          |          83 |        74 |         9 |
 | Iran           |          15 |         7 |         8 |
