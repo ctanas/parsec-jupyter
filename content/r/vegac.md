@@ -4,10 +4,10 @@ title: Vega
 layout: default
 ---
 
-Până în prezent, racheta Vega a fost lansată de 19 ori (din care 1 eșecuri).
+Până în prezent, racheta Vega a fost lansată de 20 ori (din care 2 eșecuri).
 
-Rată de succes a rachetei Vega este de 94.74%.
-Număr de lansări reușite de la ultimul eșec: 5
+Rată de succes a rachetei Vega este de 90.00%.
+Număr de lansări reușite de la ultimul eșec: 0
 
 
 Lista lansărilor orbitale pentru racheta Vega:
@@ -32,3 +32,4 @@ Lista lansărilor orbitale pentru racheta Vega:
 | 2021-073 | 2021-08-17 0147 | Vega       | VV19    | Pleiades Neo 4 (Pleiades-Neo 4)           | EU   | CSG+ZLV  | S   |
 | 2021-105 | 2021-11-16 0927 | Vega       | VV20    | CERES 1-3                                 | EU   | CSG+ZLV  | S   |
 | 2022-080 | 2022-07-13 1313 | Vega C     | VV21    | LARES 2                                   | EU   | CSG+ZLV  | S   |
+| 2022-F06 | 2022-12-21 0147 | Vega C     | VV22    | Pleiades NEO 5/6                          | EU   | CSG+ZLV  | F   |
