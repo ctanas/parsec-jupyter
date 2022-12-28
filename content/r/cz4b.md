@@ -4,10 +4,10 @@ title: Chang Zheng 4B
 layout: default
 ---
 
-Până în prezent, racheta Chang Zheng 4B a fost lansată de 46 ori (din care 1 eșecuri).
+Până în prezent, racheta Chang Zheng 4B a fost lansată de 47 ori (din care 1 eșecuri).
 
-Rată de succes a rachetei Chang Zheng 4B este de 97.83%.
-Număr de lansări reușite de la ultimul eșec: 26
+Rată de succes a rachetei Chang Zheng 4B este de 97.87%.
+Număr de lansări reușite de la ultimul eșec: 27
 
 
 Lista lansărilor orbitale pentru racheta Chang Zheng 4B:
@@ -59,3 +59,4 @@ Lista lansărilor orbitale pentru racheta Chang Zheng 4B:
 | 2021-107 | 2021-11-20 0151 | Chang Zheng 4B | Y52     | Gao Fen 11-03                              | CN   | TYSC+LC9   | S   |
 | 2021-122 | 2021-12-10 0011 | Chang Zheng 4B | Y47     | SJ6 05 zu (SJ6-05)                         | CN   | JQ+LC43/94 | S   |
 | 2022-090 | 2022-08-04 0308 | Chang Zheng 4B | Y40     | Guomang                                    | CN   | TYSC+LC9   | S   |
+| 2022-176 | 2022-12-27 0737 | Chang Zheng 4B | Y55     | Gao Fen 11-04                              | CN   | TYSC+LC9   | S   |
