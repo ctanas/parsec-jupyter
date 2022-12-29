@@ -12,6 +12,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | ID       | Dată (UTC)      | Lansator       | Serie         | Satelit (misiune)                 | Or   | Centru      |
 |:---------|:----------------|:---------------|:--------------|:----------------------------------|:-----|:------------|
+| 2022-177 | 2022-12-28 0934 | Falcon 9 / FT5 | 194/B1062.11  | Starlink-69 (Starlink Group 5-1)  | US   | CC+LC40     |
 | 2022-176 | 2022-12-27 0737 | Chang Zheng 4B | Y55           | Gao Fen 11-04                     | CN   | TYSC+LC9    |
 | 2022-F06 | 2022-12-21 0147 | Vega C         | VV22          | Pleiades NEO 5/6                  | EU   | CSG+ZLV     |
 | 2022-175 | 2022-12-17 2132 | Falcon 9 / FT5 | 193/B1058.15  | Starlink-68 (Starlink Group 4-37) | US   | KSC+LC39A   |
@@ -22,7 +23,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 2022-F05 | 2022-12-14 0830 | Zhuque-2       | 1             | Zhixing-1B (-)                    | CN   | JQ+LC43/96  |
 | 2022-170 | 2022-12-13 2030 | Ariane 5ECA+   | VA259 (5118?) | Galaxy 35/36/MTG-I1               | EU   | CSG+ELA3    |
 | 2022-169 | 2022-12-12 0822 | Chang Zheng 4C | Y57           | Shiyan 20A/20B                    | CN   | JQ+LC43/94  |
-| 2022-168 | 2022-12-11 0738 | Falcon 9 / FT5 | 190/B1073.5   | Hakuto-R M1                       | US   | CC+LC40     |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);

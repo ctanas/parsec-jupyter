@@ -4,7 +4,7 @@ title: Starlink
 layout: default
 ---
 
-Până la data 2022-12-28, au ajut loc 66 lansări Starlink
+Până la data 2022-12-29, au ajut loc 67 lansări Starlink
 | ID       | Dată (UTC)      | Lansator       | Serie        | Satelit (misiune)                      | Centru      |
 |:---------|:----------------|:---------------|:-------------|:---------------------------------------|:------------|
 | 2019-029 | 2019-05-24 0230 | Falcon 9 / FT5 | 072/B1049.3  | Starlink-1 (Starlink V0.9)             | CC+LC40     |
@@ -73,3 +73,4 @@ Până la data 2022-12-28, au ajut loc 66 lansări Starlink
 | 2022-136 | 2022-10-20 1450 | Falcon 9 / FT5 | 183/B1062.10 | Starlink-66 (Starlink Group 4-36)      | CC+LC40     |
 | 2022-141 | 2022-10-28 0114 | Falcon 9 / FT5 | 184/B1063.8  | Starlink-67 (Starlink Group 4-31)      | VSFBS+SLC4E |
 | 2022-175 | 2022-12-17 2132 | Falcon 9 / FT5 | 193/B1058.15 | Starlink-68 (Starlink Group 4-37)      | KSC+LC39A   |
+| 2022-177 | 2022-12-28 0934 | Falcon 9 / FT5 | 194/B1062.11 | Starlink-69 (Starlink Group 5-1)       | CC+LC40     |
