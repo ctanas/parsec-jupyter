@@ -10,19 +10,19 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Cele mai recente lansări orbitale
 
-| ID       | Dată (UTC)      | Lansator       | Serie         | Satelit (misiune)                 | Or   | Centru      |
-|:---------|:----------------|:---------------|:--------------|:----------------------------------|:-----|:------------|
-| 2022-177 | 2022-12-28 0934 | Falcon 9 / FT5 | 194/B1062.11  | Starlink-69 (Starlink Group 5-1)  | US   | CC+LC40     |
-| 2022-176 | 2022-12-27 0737 | Chang Zheng 4B | Y55           | Gao Fen 11-04                     | CN   | TYSC+LC9    |
-| 2022-F06 | 2022-12-21 0147 | Vega C         | VV22          | Pleiades NEO 5/6                  | EU   | CSG+ZLV     |
-| 2022-175 | 2022-12-17 2132 | Falcon 9 / FT5 | 193/B1058.15  | Starlink-68 (Starlink Group 4-37) | US   | KSC+LC39A   |
-| 2022-174 | 2022-12-16 2248 | Falcon 9 / FT5 | 192/B1067.8   | O3b mPOWER 1/2                    | US   | CC+LC40     |
-| 2022-173 | 2022-12-16 1146 | Falcon 9 / FT5 | 191/B1071.6   | SWOT                              | US   | VSFBS+SLC4E |
-| 2022-172 | 2022-12-16 0617 | Chang Zheng 11 | Y12           | Shiyan-21 (SJ2013)                | CN   | XSC+LC4     |
-| 2022-171 | 2022-12-14 1825 | Chang Zheng 2D | Y80           | YG-36 04 (Yaogan 36 04)           | CN   | XSC+LC3     |
-| 2022-F05 | 2022-12-14 0830 | Zhuque-2       | 1             | Zhixing-1B (-)                    | CN   | JQ+LC43/96  |
-| 2022-170 | 2022-12-13 2030 | Ariane 5ECA+   | VA259 (5118?) | Galaxy 35/36/MTG-I1               | EU   | CSG+ELA3    |
-| 2022-169 | 2022-12-12 0822 | Chang Zheng 4C | Y57           | Shiyan 20A/20B                    | CN   | JQ+LC43/94  |
+| ID       | Dată (UTC)      | Lansator            | Serie        | Satelit (misiune)                 | Or   | Centru      |
+|:---------|:----------------|:--------------------|:-------------|:----------------------------------|:-----|:------------|
+| 2022-179 | 2022-12-30 0738 | Falcon 9 / FT5      | 195/B1061.11 | EROS C3                           | US   | VSFBS+SLC4E |
+| 2022-178 | 2022-12-29 0443 | Chang Zheng 3B / G2 | Y88          | Shiyan 10-02                      | CN   | XSC+LC2     |
+| 2022-177 | 2022-12-28 0934 | Falcon 9 / FT5      | 194/B1062.11 | Starlink-69 (Starlink Group 5-1)  | US   | CC+LC40     |
+| 2022-176 | 2022-12-27 0737 | Chang Zheng 4B      | Y55          | Gao Fen 11-04                     | CN   | TYSC+LC9    |
+| 2022-F06 | 2022-12-21 0147 | Vega C              | VV22         | Pleiades NEO 5/6                  | EU   | CSG+ZLV     |
+| 2022-175 | 2022-12-17 2132 | Falcon 9 / FT5      | 193/B1058.15 | Starlink-68 (Starlink Group 4-37) | US   | KSC+LC39A   |
+| 2022-174 | 2022-12-16 2248 | Falcon 9 / FT5      | 192/B1067.8  | O3b mPOWER 1/2                    | US   | CC+LC40     |
+| 2022-173 | 2022-12-16 1146 | Falcon 9 / FT5      | 191/B1071.6  | SWOT                              | US   | VSFBS+SLC4E |
+| 2022-172 | 2022-12-16 0617 | Chang Zheng 11      | Y12          | Shiyan-21 (SJ2013)                | CN   | XSC+LC4     |
+| 2022-171 | 2022-12-14 1825 | Chang Zheng 2D      | Y80          | YG-36 04 (Yaogan 36 04)           | CN   | XSC+LC3     |
+| 2022-F05 | 2022-12-14 0830 | Zhuque-2            | 1            | Zhixing-1B (-)                    | CN   | JQ+LC43/96  |
 
 ## Lansări orbitale:
 - Lansări orbitale din [anul curent](y/2022);
