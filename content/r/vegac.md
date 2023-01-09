@@ -4,9 +4,9 @@ title: Vega
 layout: default
 ---
 
-Până în prezent, racheta Vega a fost lansată de 22 ori (din care 4 eșecuri).
+Până în prezent, racheta Vega a fost lansată de 21 ori (din care 3 eșecuri).
 
-Rată de succes a rachetei Vega este de 81.82%.
+Rată de succes a rachetei Vega este de 85.71%.
 Număr de lansări reușite de la ultimul eșec: 0
 
 
@@ -16,7 +16,6 @@ Lista lansărilor orbitale pentru racheta Vega:
 | 2012-006 | 2012-02-13 1000 | Vega       | VV01    | LARES/AlmaSat (LARES)                     | EU   | CSG+ZLV  | S   |
 | 2013-021 | 2013-05-07 0206 | Vega       | VV02    | PROBA-V/VRNREDSAT (PROBA-V)               | EU   | CSG+ZLV  | S   |
 | 2014-024 | 2014-04-30 0135 | Vega       | VV03    | DZZ-HR (KazEOSat-1)                       | EU   | CSG+ZLV  | S   |
-| 2015-F0x | 2015-02-11 1340 | Vega       | VV04    | IXV                                       | EU   | CSG+ZLV  | F   |
 | 2015-028 | 2015-06-23 0151 | Vega       | VV05    | Sentinel-2A                               | EU   | CSG+ZLV  | S   |
 | 2015-070 | 2015-12-03 0404 | Vega       | VV06    | LISA Pathfinder (LPF)                     | EU   | CSG+ZLV  | S   |
 | 2016-058 | 2016-09-16 0143 | Vega       | VV07    | Skysat 4-7/PeruSat (PeruSAT-1/Skysat 4-7) | EU   | CSG+ZLV  | S   |
