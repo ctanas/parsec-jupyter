@@ -180,6 +180,7 @@ pads['StateCode'] = pads['StateCode'].replace('SU','RU', regex=True)
 # To be removed if this changes upstream
 df['Launch_Tag'] = df['Launch_Tag'].replace('2020-U01', '2020-F0x', regex=True)
 df['Launch_Tag'] = df['Launch_Tag'].replace('2022-U02', '2022-F0x', regex=True)
+df['Launch_Tag'] = df['Launch_Tag'].replace('2015-U01', '2015-F0x', regex=True)
 
 
 # Filtering suborbital launches
